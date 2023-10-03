@@ -1,0 +1,53 @@
+---
+title: "My Cool Post"
+description: "R Code for Pharma"
+author: "Erik Rodriguez"
+date: "10/03/2023"
+---
+
+[Ivan Millanes](https://www.linkedin.com/in/ivan-millanes-a0b574155/?trk=pub-pbmap&originalSubdomain=ar) from the [R en Rosario](https://www.meetup.com/r-en-rosario/members/?op=leaders) recently talked to the R-Consortium. He shared the group’s vision to create an inclusive knowledge-sharing platform for a diverse R community in Rosario. In Argentina, the group welcomes participants and speakers at all experience levels. Ivan also uses R at work and builds Shiny applications for the pharmaceutical industry. 
+
+![](https://www.r-consortium.org/wp-content/uploads/sites/13/2023/08/image.jpeg)
+
+Ivan co-organizes R en Rosario and is one of the group’s founding members. He completed his Bachelor’s in Statistics at the National University of Rosario. Not to mention, Ivan has achieved multiple certifications in Machine Learning. Currently, he works as a R/Shiny developer at Appsilon. 
+
+
+**_Please share your background and involvement with the RUGS group._**
+
+  
+My educational background is in Mathematics and Statistics. I first used R around six years ago during my studies and have since gained experience in R through different jobs. I have worked in various industries like marketing, healthcare, and insurance. I am currently working in the Pharmaceutical industry. 
+
+![](https://www.r-consortium.org/wp-content/uploads/sites/13/2023/08/image-2.png)
+
+_R en Rosario Founding Members_
+
+We started the R en Rosario User Group a couple of years ago, Argentina’s first R User Group. Later, other cities also started their R Users Groups, e.g., [Buenos Aires](https://www.r-consortium.org/blog/2022/12/15/r-en-buenos-aires-in-2023-compiling-a-list-of-latin-american-r-packages). We hosted a few virtual meetings during the pandemic but stopped after a few months. Now that everything is returning to normal, we plan to resume our meetings. We would like to host speakers from different industries who use R for their work. A networking session would follow these talks. 
+
+
+**_What industry are you currently in? How do you use R in your work?_**
+
+I currently work in Pharma, where we develop [Shiny](https://shiny.posit.co/) applications using R.
+
+The applications we develop have a similar workflow: we connect to SQL databases and produce some outputs the business needs in the form of PDFs or Word documents based on user choices for different parameters.
+
+We use the [Rhino](https://cran.r-project.org/web/packages/rhino/index.html) package from [Appsilon](https://appsilon.com/) to develop the applications, as it provides a great framework for developing high-quality applications. We also use:
+
+-   [R Markdown](https://rmarkdown.rstudio.com/) and [officer](https://cran.r-project.org/web/packages/officer/index.html) to generate PDF and Word reports from the app
+-   [ggplot](https://ggplot2.tidyverse.org/) to create plots
+-   [tidyverse](https://www.tidyverse.org/) packages (such as [dplyr](https://dplyr.tidyverse.org/)) to process data
+
+One application we developed generates annual reports of different incidents in the laboratory. Before we developed the application, this process was manual and took time. With this app, they have a relatively simple interface where they can select the data they want to see in the report. They can download the reports and also get it sent to their system.
+
+**_Why do industry professionals come to your user group? What is the benefit for attending?_**
+
+People from a diverse range of backgrounds attend our meetups. Some government officials use R to analyze traffic data for public services. Some people from the farming industry use R to interpret satellite images to understand crops. 
+
+Even though statisticians founded this group, its purpose is to provide a platform for people from various backgrounds to learn R and use it for their work. We usually have around 20-30 people attending our meetups, and different companies provide space to host our meetups.
+
+Networking is an important part of our meetups, allowing members to learn more about each other. 
+
+We also do not have any limit on the topics for these talks, and anyone who feels like sharing their work in R with the audience can give a talk. So everyone, at any experience level, is more than welcome to give a speech. We are not experts and are not looking for only experts to give talks. The idea is for people from different backgrounds to come together and learn from each other. 
+
+![](https://www.r-consortium.org/wp-content/uploads/sites/13/2023/08/image-1.png)
+
+_R en Rosario Meeting Hosted by a Company_

@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "quarto-project",
+    "section": "",
+    "text": "Post With Code\n\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\n\n\nOct 3, 2023\n\n\nHarlow Malloc\n\n\n\n\n\n\n  \n\n\n\n\nMy Cool Post\n\n\n\n\n\nR Code for Pharma\n\n\n\n\n\n\nOct 3, 2023\n\n\nErik Rodriguez\n\n\n\n\n\n\n  \n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\n\n\nSep 30, 2023\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/eriks-cool-post/index.html",
+    "href": "posts/eriks-cool-post/index.html",
+    "title": "My Cool Post",
+    "section": "",
+    "text": "Ivan Millanes from the R en Rosario recently talked to the R-Consortium. He shared the group’s vision to create an inclusive knowledge-sharing platform for a diverse R community in Rosario. In Argentina, the group welcomes participants and speakers at all experience levels. Ivan also uses R at work and builds Shiny applications for the pharmaceutical industry. \n\nIvan co-organizes R en Rosario and is one of the group’s founding members. He completed his Bachelor’s in Statistics at the National University of Rosario. Not to mention, Ivan has achieved multiple certifications in Machine Learning. Currently, he works as a R/Shiny developer at Appsilon. \nPlease share your background and involvement with the RUGS group.\nMy educational background is in Mathematics and Statistics. I first used R around six years ago during my studies and have since gained experience in R through different jobs. I have worked in various industries like marketing, healthcare, and insurance. I am currently working in the Pharmaceutical industry. \n\nR en Rosario Founding Members\nWe started the R en Rosario User Group a couple of years ago, Argentina’s first R User Group. Later, other cities also started their R Users Groups, e.g., Buenos Aires. We hosted a few virtual meetings during the pandemic but stopped after a few months. Now that everything is returning to normal, we plan to resume our meetings. We would like to host speakers from different industries who use R for their work. A networking session would follow these talks. \nWhat industry are you currently in? How do you use R in your work?\nI currently work in Pharma, where we develop Shiny applications using R.\nThe applications we develop have a similar workflow: we connect to SQL databases and produce some outputs the business needs in the form of PDFs or Word documents based on user choices for different parameters.\nWe use the Rhino package from Appsilon to develop the applications, as it provides a great framework for developing high-quality applications. We also use:\n\nR Markdown and officer to generate PDF and Word reports from the app\nggplot to create plots\ntidyverse packages (such as dplyr) to process data\n\nOne application we developed generates annual reports of different incidents in the laboratory. Before we developed the application, this process was manual and took time. With this app, they have a relatively simple interface where they can select the data they want to see in the report. They can download the reports and also get it sent to their system.\nWhy do industry professionals come to your user group? What is the benefit for attending?\nPeople from a diverse range of backgrounds attend our meetups. Some government officials use R to analyze traffic data for public services. Some people from the farming industry use R to interpret satellite images to understand crops. \nEven though statisticians founded this group, its purpose is to provide a platform for people from various backgrounds to learn R and use it for their work. We usually have around 20-30 people attending our meetups, and different companies provide space to host our meetups.\nNetworking is an important part of our meetups, allowing members to learn more about each other. \nWe also do not have any limit on the topics for these talks, and anyone who feels like sharing their work in R with the audience can give a talk. So everyone, at any experience level, is more than welcome to give a speech. We are not experts and are not looking for only experts to give talks. The idea is for people from different backgrounds to come together and learn from each other. \n\nR en Rosario Meeting Hosted by a Company"
+  }
+]
