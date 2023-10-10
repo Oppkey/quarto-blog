@@ -103,6 +103,19 @@ We know from *the first fundamental theorem of calculus* that for $x$ in $[a, b]
 $$\frac{d}{dx}\left( \int_{a}^{x} f(u)\,du\right)=f(x).$$
 :::
 
+
+You can also add interactive plots. For example:
+
+```{r}
+#| label: fig-temperatures-atTop
+#| fig-cap: "New Haven Temperatures"
+
+library(dygraphs)
+dygraph(nhtemp) %>% 
+  dyRangeSelector(dateWindow = c("1920-01-01", "1960-01-01"))
+```
+
+
 ## Full Width Figures
 
 You can arrange for figures to span across the entire page by using the chunk option `fig-column: page-right`.
