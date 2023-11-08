@@ -1,0 +1,38 @@
+---
+title: "MPG v Horsepower EXAMPLE"
+author: "Jesse Casman"
+subtitle: "Just an example of working with a .qmd file"
+date: "2023-11-06"
+---
+
+# MPG vs Horsepower
+
+I'm guessing MPG trends downward as the horsepower of engines goes up. Let's take a look:
+
+```{r}
+#| label: fig-margin
+#| fig-cap: "MPG vs horsepower, colored by transmission."
+#| column: margin
+#| message: false
+library(ggplot2)
+mtcars2 <- mtcars
+mtcars2$am <- factor(
+  mtcars$am, labels = c('automatic', 'manual')
+)
+ggplot(mtcars2, aes(hp, mpg, color = am)) +
+  geom_point() + geom_smooth() +
+  theme(legend.position = 'bottom')
+```
+
+Showing it bigger:
+
+```{r}
+library(ggplot2)
+mtcars2 <- mtcars
+mtcars2$am <- factor(
+  mtcars$am, labels = c('automatic', 'manual')
+)
+ggplot(mtcars2, aes(hp, mpg, color = am)) +
+  geom_point() + geom_smooth() +
+  theme(legend.position = 'bottom')
+```
