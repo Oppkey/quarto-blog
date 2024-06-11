@@ -35,4 +35,4 @@ mtcars2$am <- factor(
 ggplot(mtcars2, aes(hp, mpg, color = am)) +
   geom_point() + geom_smooth() +
   theme(legend.position = 'bottom')
-```
+``` 
