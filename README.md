@@ -1,5 +1,28 @@
 # Quarto Project hosted with Netlify
 
+## Live site here: [https://oppkeyquarto.netlify.app/](https://oppkeyquarto.netlify.app/)
+
+## Running locally
+
+Clone repo
+
+Use `quarto preview` to run locally. Ensure you are in the root directory of the Quarto project where the _quarto.yml file is located.
+
+If you use `quarto serve` you may get the error:
+
+ERROR: No input passed to serve.
+If you are attempting to preview a website or book use the quarto preview command instead.
+
+## Setup for Contributors
+
+Install R using sudo apt-get install r-base and sudo apt-get install r-base-dev
+
+Install R packages on Linux; type R in console and then install.packages('rmarkdown')
+
+GGPLOT2 installation: install.packages("ggplot2")
+
+dygraphs installation : install.packages("dygraphs")
+
 ## Project Setup
 
 The .gitignore of this project is setup to ignore `_site/` and `.quarto/`
