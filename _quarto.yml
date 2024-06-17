@@ -17,3 +17,6 @@ format:
 
 execute:
   freeze: false
+
+editor:
+  render-on-save: true

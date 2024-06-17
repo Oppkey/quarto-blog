@@ -8,7 +8,7 @@ image: "image.jpg"
 
 # Tables
 
-You can use the `kable()` function from the **knitr** package to format tables that integrate well with the rest of the Tufte handout style. The table captions are placed in the margin like figures in the HTML output.
+You can use the `kable()` function from the **knitr** package to format tables that integrate well with the rest of the Tufte handout style. The table captions are placed in the margin like figures in the HTML output. Testing for Quarto Preview Save Awesome.
 
 ```{r}
 #| tbl-cap-location: margin
