@@ -130,6 +130,12 @@ Yann
 
 * (NOTE: link to GH join us issue, add R Consortium info)
 
+## Why Join the R Consortium
+* Community Leadership and Support
+* Funding Key Infrastructure and Projects
+* Influence Over Project Development
+![Elephant](elephant.png){width=300}
+
 ## Thank you
 
 * (NOTE: list of Core team members)
