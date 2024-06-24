@@ -4,17 +4,30 @@ project:
 website:
   title: "quarto-project"
   navbar:
+    pinned: true
+    background: light
+    logo: RConsortium_Horizontal_Pantone.webp
+    title: false
+    logo-alt: "Quarto logo."
     right:
+      - members.qmd
       - about.qmd
+      - webinars.qmd
+      - r/medicine.qmd
+      - news.qmd
+      - codeofconduct.qmd
       - icon: github
         href: https://github.com/
+      - icon: mastodon
+        href: https://twitter.com
       - icon: twitter
         href: https://twitter.com
 format:
   html:
-    theme: cosmo
+    theme:
+       - cosmo
+       - cosmo.scss
     css: styles.css
-
 execute:
   freeze: false
 

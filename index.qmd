@@ -1,14 +1,27 @@
 ---
-title: "quarto-project"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
 page-layout: full
-title-block-banner: true
 ---
 
+<section class="linux-banner"> 
+<img class="banner-image" src="lfprojects_banner_other.svg">
+</section>
 
+<section id="hero">
+        <h2>R Consortium</h2>
+        <p>Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</p>
+</section>
+
+<section class="what-is-r-section">
+  <h2>WHAT IS THE R CONSORTIUM</h2>
+  <p>The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects.
+The R language is an open source environment for statistical computing and graphics, and runs on a wide variety of computing platforms. The R language has enjoyed significant growth, and now supports over 2 million users. A broad range of industries have adopted the R language, including biotech, finance, research and high technology industries. The R language is often integrated into third party analysis, visualization and reporting applications.
+</p>
+<button>LEARN MORE</button>
+<button>READ OUR ANNUAL REPORT 2023</button>
+
+<img src="rcon_video_preview.png">
+</section>
