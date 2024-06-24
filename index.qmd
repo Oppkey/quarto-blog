@@ -1,14 +1,17 @@
 ---
-title: "quarto-project"
 listing:
   contents: posts
   sort: "date desc"
   type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
 page-layout: full
-title-block-banner: true
 ---
 
+<section class="linux-banner"> 
+<img class="banner-image" src="lfprojects_banner_other.svg">
+</section>
+
+<section id="hero">
+        <h2>R Consortium</h2>
+        <p>Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</p>
+</section>
 
