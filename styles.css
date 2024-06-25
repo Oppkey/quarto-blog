@@ -3,6 +3,10 @@ body {
     background-color: white;
 }
 
+section {
+    padding-bottom: 48px;
+}
+
 .title {
     color: red;
     width: 100%;
@@ -46,9 +50,50 @@ section#hero > p {
     max-width: 768px;
     text-align: center; 
     margin: 0 auto;
-    padding-bottom: 48px;
 }
 
 .what-is-r-section {
     margin: 20px;
+}
+
+.preview-picture {
+    max-width: 350px;
+}
+
+div.nav-footer {
+    color: white;
+}
+
+div.nav-footer a {
+    color: white !important;
+}
+
+div.nav-footer a:hover {
+    color: #2780e3 !important;
+}
+
+.dark-button {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+}
+
+.dark-button:hover {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+}
+
+.light-button {
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    padding: 8px;
+}
+
+.light-button:hover {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
 }
