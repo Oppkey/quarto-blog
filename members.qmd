@@ -7,10 +7,7 @@ page-layout: full
 
 <img src="https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/logo_rfoundation-300x184.png" />
 
-
-
 ## Platinum Members
-
 
 <div class="platinum">
   <img class="platinum-img" src="https://www.r-consortium.org/wp-content/uploads/sites/13/2021/07/Biogen.svg" />
