@@ -10,11 +10,60 @@ website:
     title: false
     logo-alt: "Quarto logo."
     right:
-      - members.qmd
-      - about.qmd
+      - text: "Members"
+        menu:
+          - text: Members
+            href:  members.qmd
+          - text: Join
+            href:  https://bugs.com
+          - text: Membership Agreement
+            href:  https://bugs.com
+
+      - text: "Projects"
+        menu:
+          - text: Projects
+            href:  projects.qmd
+          - text: Funded Projects
+            href:  https://bugs.com
+          - text: R-Hub
+            href:  https://bugs.com
+          - text: R-Ladies
+            href:  https://bugs.com
+          - text: RUGS Program
+            href:  https://bugs.com
+          - text: Working Groups
+            href:  https://bugs.com
+          - text: R IDEA 
+            href:  https://bugs.com
+          - text: Submitting for payment
+            href:  https://bugs.com
+
+      - text: "About"
+        menu:
+          - text: About
+            href:  https://code.com
+          - text: Governance
+            href:  https://bugs.com
+          - text: FAQ
+            href:  https://code.com
+          - text: Contact
+            href:  https://bugs.com
+          - text: Privacy Policy
+            href:  https://code.com
       - webinars.qmd
-      - r/medicine.qmd
-      - news.qmd
+      - r-medicine.qmd
+      - text: "News"
+        menu:
+          - text: News
+            href:  https://code.com
+          - text: Events
+            href:  https://bugs.com
+          - text: Blog
+            href:  https://code.com
+          - text: Newsletter
+            href:  https://bugs.com
+
+
       - codeofconduct.qmd
       - icon: github
         href: https://github.com/

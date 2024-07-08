@@ -22,13 +22,33 @@ section {
     text-align: center;
     position: sticky;
     top: 75px;
+    z-index: 100;
 }
 
 .banner-image {
     width: 300px;
 }
 
+/* Media query for navbar logo image, mobile mode 1100px and smaller */
 
+@media only screen and (max-width: 1100px) {
+
+    .navbar-logo {
+        min-height: 0;
+    } 
+
+
+}
+
+
+@media only screen and (max-width: 990px) {
+
+    .linux-banner {
+        top: 50px;
+    }
+
+
+}
 
 section#hero {
     padding-top: 128px;
