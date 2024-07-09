@@ -41,15 +41,22 @@ website:
       - text: "About"
         menu:
           - text: About
-            href: about.qmd
+            href:  about/about.qmd
+          - text: FAQ
+            href:  about/faq.qmd
+          - text: Contact
+            href:  about/contact.qmd
+          - text: Privacy Policy
+            href:  about/privacy.qmd
           - text: Governance
             href:  governance.qmd
-          - text: FAQ
-            href:  faq.qmd
-          - text: Contact
-            href:  contact.qmd
-          - text: Privacy Policy
-            href:  privacy.qmd
+          - text: Bylaws
+            href:  https://www.r-consortium.org/wp-content/uploads/sites/13/2024/07/Bylaws-GU-Draft-7-9-2024.docx.pdf
+          - text: ICS Charter
+            href:  https://www.r-consortium.org/wp-content/uploads/sites/13/2024/04/ISC-Charter-08-11-23.pdf
+          - text: Marketing Committee Charter
+            href:  https://www.r-consortium.org/wp-content/uploads/sites/13/2021/12/R-Consortium-Marketing-Committee-Charter-2021-10-27.pdf
+
       - webinars.qmd
       - r-medicine.qmd
       - text: "News"
