@@ -1,0 +1,9 @@
+---
+title: "Contact"
+about:
+  template: jolla
+---
+
+For general inquiries, membership inquiries, or requests for access to collaborative infrastructure, please feel free to [visit our service desk](https://members.r-consortium.org/).
+
+If you would like information on becoming a member of the R Consortium, please visit the [Join page](https://www.r-consortium.org/about/join) or submit an inquiry via the form below and you will be contacted soon.

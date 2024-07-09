@@ -119,3 +119,29 @@ div.nav-footer a:hover {
     color: white;
     border: 1px solid white;
 }
+
+.platinum-img {
+    width: 200px;
+}
+
+.platinum {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    max-width: 100%;
+}
+
+.silver {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    max-width: 100%;
+}
+
+.silver-img {
+    width: 140px;
+}
