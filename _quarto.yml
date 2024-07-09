@@ -15,9 +15,9 @@ website:
           - text: Members
             href:  members.qmd
           - text: Join
-            href:  https://bugs.com
+            href:  join.qmd
           - text: Membership Agreement
-            href:  https://bugs.com
+            href:  https://www.r-consortium.org/wp-content/uploads/sites/13/2019/11/R-Consortium-Membership-Agreement-1157181-v2-Approved-11.20.19.pdf
 
       - text: "Projects"
         menu:
@@ -41,15 +41,15 @@ website:
       - text: "About"
         menu:
           - text: About
-            href:  https://code.com
+            href: about.qmd
           - text: Governance
-            href:  https://bugs.com
+            href:  governance.qmd
           - text: FAQ
-            href:  https://code.com
+            href:  faq.qmd
           - text: Contact
-            href:  https://bugs.com
+            href:  contact.qmd
           - text: Privacy Policy
-            href:  https://code.com
+            href:  privacy.qmd
       - webinars.qmd
       - r-medicine.qmd
       - text: "News"
@@ -62,8 +62,6 @@ website:
             href:  https://code.com
           - text: Newsletter
             href:  https://bugs.com
-
-
       - codeofconduct.qmd
       - icon: github
         href: https://github.com/
