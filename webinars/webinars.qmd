@@ -1,5 +1,7 @@
 ---
 title: Webinars
+page-layout: full
+
 ---
 
 ## The R Adoption Series
