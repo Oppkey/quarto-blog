@@ -78,7 +78,7 @@ website:
         href: https://twitter.com
   page-footer:
     background: dark
-    left: © 2024 R Consortium. © R Consortium. A [Linux Foundation](https://linuxfoundation.org) Project. R Consortium™ is a trademark of R Consortium. All Rights Reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/en/trademark-usage/) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy](https://privacy-policy.r-consortium.org) and [Terms of Use](https://terms-of-use.r-consortium.org)
+    center: © 2024 R Consortium. © R Consortium. A [Linux Foundation](https://linuxfoundation.org) Project. R Consortium™ is a trademark of R Consortium. All Rights Reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/en/trademark-usage/) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy](https://privacy-policy.r-consortium.org) and [Terms of Use](https://terms-of-use.r-consortium.org) 
 format:
   html:
     theme:
