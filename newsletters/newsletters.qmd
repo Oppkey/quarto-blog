@@ -8,7 +8,7 @@ Check out our previous Newsletters and stay tuned for future ones!
 
 ### R Consortium Q2 2024 Newsletter
 ![R Consortium Q2 2024](images/R-CONSORTIUM-Q7-2023-NEWSLETTER-1-1024x576.webp)
-[Read More](#)
+[Read More](./R-Consortium-Q2-2024-Newsletter.qmd)
 
 ### R Consortium Q3 2023 Newsletter
 ![R Consortium Q2 2024](images/R-CONSORTIUM-Q7-2023-NEWSLETTER-1-1024x576 (1).webp)
