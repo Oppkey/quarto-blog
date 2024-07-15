@@ -36,9 +36,7 @@ section {
     .navbar-logo {
         min-height: 0;
     } 
-
     
-  
 }
 
 
@@ -53,6 +51,11 @@ section {
         min-width: 100%;
         left: 0 !important;
     }
+
+    .container1, .container2 {
+        grid-template-columns: 1fr !important; /* 1 column full width for mobile */
+    }
+
 
 }
 
@@ -161,3 +164,30 @@ div.nav-footer a:hover {
     text-align: left;
   }
   
+.container1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr; /* Two columns with equal width */
+    gap: 20px; /* Space between columns */
+}
+
+.column1 {
+    text-align: left;
+}
+
+.column1 img {
+    max-width: 100%;
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; /* Two columns with equal width */
+    gap: 20px; /* Space between columns */
+}
+
+.column2 {
+    text-align: left;
+}
+
+.column2 img {
+    max-width: 100%;
+}
