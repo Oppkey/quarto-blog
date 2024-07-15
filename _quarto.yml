@@ -62,7 +62,7 @@ website:
       - text: "News"
         menu:
           - text: News
-            href:  https://code.com
+            href:  newsletters/newsletters.qmd
           - text: Events
             href:  https://bugs.com
           - text: Blog
