@@ -37,7 +37,8 @@ section {
         min-height: 0;
     } 
 
-
+    
+  
 }
 
 
@@ -47,6 +48,11 @@ section {
         top: 50px;
     }
 
+    .nav-footer-center {
+        max-width: none !important;
+        min-width: 100%;
+        left: 0 !important;
+    }
 
 }
 
@@ -145,3 +151,13 @@ div.nav-footer a:hover {
 .silver-img {
     width: 140px;
 }
+
+
+
+.nav-footer-center {
+    max-width: 505px;
+    left: -310px;
+    position: relative;
+    text-align: left;
+  }
+  
