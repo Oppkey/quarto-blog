@@ -62,13 +62,13 @@ website:
       - text: "News"
         menu:
           - text: News
-            href:  newsletters/newsletters.qmd
+            href:  https://bugs.com
           - text: Events
             href:  https://bugs.com
           - text: Blog
             href:  https://code.com
           - text: Newsletter
-            href:  https://bugs.com
+            href:  newsletters/newsletters.qmd
       - codeofconduct.qmd
       - icon: github
         href: https://github.com/
