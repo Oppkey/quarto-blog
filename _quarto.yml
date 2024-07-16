@@ -58,7 +58,8 @@ website:
             href:  https://www.r-consortium.org/wp-content/uploads/sites/13/2021/12/R-Consortium-Marketing-Committee-Charter-2021-10-27.pdf
 
       - ./webinars/webinars.qmd
-      - r-medicine.qmd
+      - text: R/Medicine
+        href:  https://rconsortium.github.io/RMedicine_website/
       - text: "News"
         menu:
           - text: News
@@ -71,13 +72,11 @@ website:
             href:  newsletters/newsletters.qmd
       - codeofconduct.qmd
       - icon: github
-        href: https://github.com/rconsortium
-      - icon: linkedin
-        href: https://www.linkedin.com/company/r-consortium/
+        href: https://github.com/
       - icon: mastodon
-        href: https://fosstodon.org/@RConsortium
+        href: https://twitter.com
       - icon: twitter
-        href: https://x.com/Rconsortium
+        href: https://twitter.com
   page-footer:
     background: dark
     center: © 2024 R Consortium. © R Consortium. A [Linux Foundation](https://linuxfoundation.org) Project. R Consortium™ is a trademark of R Consortium. All Rights Reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/en/trademark-usage/) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy](https://privacy-policy.r-consortium.org) and [Terms of Use](https://terms-of-use.r-consortium.org) 
