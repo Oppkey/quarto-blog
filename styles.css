@@ -191,3 +191,9 @@ div.nav-footer a:hover {
 .column2 img {
     max-width: 100%;
 }
+
+iframe { 
+    width: 100%;
+    aspect-ratio: 16 / 9;
+}
+
