@@ -1,4 +1,5 @@
 <a id="top"></a>
+
 # FAQ
 
 
@@ -37,6 +38,7 @@ Definitely! The R Consortium’s explicit mission is to “advance the worldwide
 As defined in its ~~[charter](https://www.r-consortium.org/isc-charter.r-consortium.org)~~, the projects of the Infrastructure Steering Committee will focus on support of the user base, support of developers, and general advancement of Open Source R. In particular, a commercial fork of R isn’t compatible with that mission, and won’t be a project of the R Consortium.
 
 * [Back to Top](#top)
+
 <a id="faq2"></a>
 
 ### Do I have to be an employee of a member of the R Consortium to contribute to infrastructure projects?
@@ -45,6 +47,7 @@ As defined in its ~~[charter](https://www.r-consortium.org/isc-charter.r-consort
 No. The R Consortium [welcomes contributions of time, effort and ideas](https://www.r-consortium.org/all-projects/call-for-proposals) for all passionate users and developers of the R language.
 
 * [Back to Top](#top)
+
 <a id="faq3"></a>
 
 ### Was the R community consulted about the projects considered by the R Consortium?
@@ -53,6 +56,7 @@ No. The R Consortium [welcomes contributions of time, effort and ideas](https://
 Yes. R Consortium projects are [proposed by the community to the Infrastructure Steering Committee](https://www.r-consortium.org/all-projects).
 
 * [Back to Top](#top)
+
 <a id="faq4"></a>
 
 ### What kinds of projects will the R Consortium undertake?
@@ -68,7 +72,8 @@ The R Consortium will coordinate and support projects that directly benefit stak
 This is not an exhaustive list. Anyone may ~~[propose a project](https://www.r-consortium.org/all-projects/submit-proposal)~~ to the Infrastructure Steering Committee, which selects and executes projects.
 
 * [Back to Top](#top)
-<a id="faq4"></a>
+
+<a id="faq5"></a>
 
 ### How are R Consortium projects selected and managed?
 
@@ -76,7 +81,8 @@ This is not an exhaustive list. Anyone may ~~[propose a project](https://www.r-c
 The technical projects undertaken by the R Consortium in support of the R Project and the R Community are overseen by the [Infrastructure Steering Committee](https://www.r-consortium.org/all-projects). The ~~[charter of the Infrastructure Steering Committee](https://www.r-consortium.org/isc-charter.r-consortium.org)~~ (ISC) describes its mission, which is to advance the worldwide promotion of and support for R, and to develop projects, technical and infrastructure collaboration initiatives, support specific initiatives related to R. The membership of the ISC is drawn from the Platinum Members, Silver Members and the R Foundation. As the ISC appoints top-level projects, it is expected that those project leads will join the ISC as voting members.
 
 * [Back to Top](#top)
-<a id="faq5"></a>
+
+<a id="faq6"></a>
 
 ### Are the leaders of the R Consortium R users?
 
@@ -87,7 +93,8 @@ The Board Members (including the Chairperson) are appointed or elected by member
 The [members of the Infrastructure Steering Committee](https://www.r-consortium.org/all-projects) are appointed by the Platinum Members, Silver Members, and the R Foundation member, and includes representatives with significant technical experience, including R package developers, community leaders, and the individuals from the R Core Group.
 
 * [Back to Top](#top)
-<a id="faq6"></a>
+
+<a id="faq7"></a>
 
 ### Can I review the governance documents for the R Consortium?
 
@@ -95,7 +102,8 @@ The [members of the Infrastructure Steering Committee](https://www.r-consortium.
 Yes! You can review the [by-laws for the R Consortium, Inc.](https://www.r-consortium.org/wp-content/uploads/sites/13/2019/11/R-Consortium-Bylaws-1157174-v2-Approved-11.20.19.pdf) and the ~~[charter for the Infrastructure Steering Committee](https://www.r-consortium.org/isc-charter.r-consortium.org)~~.
 
 * [Back to Top](#top)
-<a id="faq7"></a>
+
+<a id="faq8"></a>
 
 ### How is the R Consortium governed?
 
@@ -106,7 +114,8 @@ The R Consortium is governed by the R Consortium Board of Directors, which is ma
 The technical projects undertaken by the R Consortium in support of the R Project and the R Community are overseen by the [Infrastructure Steering Committee](https://www.r-consortium.org/all-projects).
 
 * [Back to Top](#top)
-<a id="faq8"></a>
+
+<a id="faq9"></a>
 
 ### Are membership dues tax-deductible?
 
@@ -114,7 +123,8 @@ The technical projects undertaken by the R Consortium in support of the R Projec
 The R Consortium is a US-based 501(c)6 non-profit organization. Dues are not tax-deductible as charitable donations by individuals, but under [US IRS rules](https://www.r-consortium.org/bylaws.r-consortium.org) may be deductible as trade or business expenses.
 
 * ~~[Back to Top](#top)~~
-<a id="faq9"></a>
+
+<a id="faq10"></a>
 
 ### Can an individual become a member of the R Consortium?
 
@@ -122,7 +132,8 @@ The R Consortium is a US-based 501(c)6 non-profit organization. Dues are not tax
 Yes, individuals may support the R Consortium by joining as a non-voting associate member. You can also support the R project by [contributing to the R Foundation](https://www.r-consortium.org/about/join) directly.
 
 * [Back to Top](#top)
-<a id="faq10"></a>
+
+<a id="faq11"></a>
 
 ### Why the focus on organizations rather than individuals?
 
@@ -130,7 +141,8 @@ Yes, individuals may support the R Consortium by joining as a non-voting associa
 Hundreds of companies around the world have invested heavily in R, by building systems on the R platform and by hiring thousands of R developers. The R Consortium provides a means for those companies to invest in the R Project directly, to collaborate on projects of mutual interest to support the R Community as a whole, and to support the ongoing success of the R Project.
 
 * [Back to Top](#top)
-<a id="faq11"></a>
+
+<a id="faq12"></a>
 
 ### What is the relationship between the R Consortium and the Linux Foundation?
 
@@ -138,7 +150,8 @@ Hundreds of companies around the world have invested heavily in R, by building s
 The R Consortium is an independent organization, but as [Collaborative Project of the Linux Foundation](http://collabprojects.linuxfoundation.org/?__hstc=98577409.44d7f16716270a3b9b81de6d864e02dc.1720553161514.1720553161514.1720553161514.1&__hssc=98577409.10.1720553161514&__hsfp=1019891917), the Linux Foundation provides operational support and guidance.
 
 * [Back to Top](#top)
-<a id="faq12"></a>
+
+<a id="faq13"></a>
 
 ### What is the relationship between the R Consortium and the R Foundation?
 
@@ -149,7 +162,8 @@ The [R Foundation](https://www.r-project.org/foundation/) is the leader of the R
 The R Consortium, as an independent entity, exists to support the R Community and the R Project as a whole — and that includes providing support to the R Foundation. That’s why the R Foundation has a guaranteed seat on the Board and the Infrastructure Steering Committee, to represent the interests of the R Foundation and to propose projects to support R itself.
 
 * [Back to Top](#top)
-<a id="faq13"></a>
+
+<a id="faq14"></a>
 
 ### Who are the members of the R Consortium?
 
@@ -157,7 +171,8 @@ The R Consortium, as an independent entity, exists to support the R Community an
 Members of the R Consortium include the [following types of organizations](https://www.r-consortium.org/bylaws.r-consortium.org): any association, partnership, organization, governmental agency, company, corporation, academic entity, or non-profit entity with an interest in supporting R. (Individuals may also join as associate members.) In addition, the [R Foundation](https://www.r-project.org/foundation/) is automatically a member and always has a seat on the Board and the Infrastructure Steering Committee. You can see a [current list of members here](https://www.r-consortium.org/about/governance).
 
 * [Back to Top](#top)
-<a id="faq14"></a>
+
+<a id="faq15"></a>
 
 ### Why an R Consortium?
 
@@ -165,7 +180,8 @@ Members of the R Consortium include the [following types of organizations](https
 The R user community has experienced tremendous growth.  With growth there is a greater need for cooperation and communication among R users and R stakeholders.  R will continually benefit from improvements to its technical tools and resources.  The [mission of the R Consortium](https://www.r-consortium.org/about) is to help with support and coordination of the important activities of the R Community, via projects selected and executed its [Infrastructure Steering Committee](https://www.r-consortium.org/all-projects).
 
 * [Back to Top](#top)
-<a id="faq15"></a>
+
+<a id="faq16"></a>
 
 ### Do I have to be an employee of a member of the R Consortium to contribute to infrastructure projects?
 
@@ -173,7 +189,8 @@ The R user community has experienced tremendous growth.  With growth there is 
 No! The R Consortium welcomes contributions of time, effort and ideas for all passionate users and developers of the R language. After formal meetings of the Infrastructure Steering Committee have begun (which we anticipate will occur soon), we will distribute information on how project ideas can be submitted to the Infrastructure Steering Committee.
 
 * [Back to Top](#top)
-<a id="faq16"></a>
+
+<a id="faq17"></a>
 
 ### Can I review the governance documents for the R Consortium?
 
@@ -181,7 +198,8 @@ No! The R Consortium welcomes contributions of time, effort and ideas for all pa
 Yes! You can find copies of the [by-laws](https://www.r-consortium.org/wp-content/uploads/sites/13/2019/11/R-Consortium-Bylaws-1157174-v2-Approved-11.20.19.pdf) for the R Consortium, Inc. and the charter for the infrastructure steering committee.
 
 * [Back to Top](#top)
-<a id="faq17"></a>
+
+<a id="faq18"></a>
 
 ### What wouldn’t the R Consortium do?
 
@@ -189,7 +207,8 @@ Yes! You can find copies of the [by-laws](https://www.r-consortium.org/wp-conten
 Interfere with the R language itself and its development.
 
 * [Back to Top](#top)
-<a id="faq18"></a>
+
+<a id="faq19"></a>
 
 ### What kinds of projects will the R Consortium undertake?
 
@@ -201,7 +220,8 @@ The R Consortium will coordinate and support projects that directly benefit stak
 * Helping to scale and build out R infrastructure.
 * Maintaining an enhanced website focused on the R user community.
 * [Back to Top](#top)
-<a id="faq19"></a>
+
+<a id="faq20"></a>
 
 ### Who is involved?
 
@@ -209,4 +229,3 @@ The R Consortium will coordinate and support projects that directly benefit stak
 R users and stakeholders as members of the consortium in addition to representatives from the R Foundation with operational support provided by The Linux Foundation.
 
 * [Back to Top](#top)
-<a id="faq20"></a>
