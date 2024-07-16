@@ -197,3 +197,6 @@ iframe {
     aspect-ratio: 16 / 9;
 }
 
+td {
+    padding: 10px;
+}
