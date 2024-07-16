@@ -22,7 +22,7 @@ website:
       - text: "Projects"
         menu:
           - text: Projects
-            href:  projects.qmd
+            href:  all-projects/index.qmd
           - text: Funded Projects
             href:  https://bugs.com
           - text: R-Hub
