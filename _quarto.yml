@@ -72,6 +72,8 @@ website:
       - codeofconduct.qmd
       - icon: github
         href: https://github.com/rconsortium
+      - icon: linkedin
+        href: https://www.linkedin.com/company/r-consortium/
       - icon: mastodon
         href: https://fosstodon.org/@RConsortium
       - icon: twitter
