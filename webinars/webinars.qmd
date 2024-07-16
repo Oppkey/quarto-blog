@@ -22,7 +22,7 @@ ___
 
 ![](https://www.r-consortium.org/wp-content/uploads/sites/13/2024/02/Screenshot-2024-02-20-at-10.47.50%E2%80%AFAM-1024x573.png)
 
-Learn more: [R/Medicine: Quarto for Reproducible Medical Manuscripts](https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts)
+Learn more: [R/Medicine: Quarto for Reproducible Medical Manuscripts](r-medicine-quarto-for-reproducible-medical-manuscripts.qmd)
 
 ![](https://www.r-consortium.org/wp-content/uploads/sites/13/2024/01/Screenshot-2024-01-09-at-11.47.25%E2%80%AFAM-1024x574.png)
 
