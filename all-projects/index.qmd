@@ -1,0 +1,153 @@
+---
+format: html
+---
+<style>
+  .profile-cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 20px;
+    justify-items: center;
+    margin-top: 20px;
+  }
+
+  .profile-card {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    width: 300px;
+    padding: 20px;
+    text-align: center;
+  }
+
+  .profile-card img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 10px;
+  }
+
+  /* Media query for responsiveness */
+  @media (max-width: 900px) {
+    .profile-cards {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
+  @media (max-width: 600px) {
+    .profile-cards {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
+
+# Sponsored Activities
+
+All participants in R Consortium sponsored activities are bound to the [R Consortium Code of Conduct](#).
+
+## Working Groups
+
+Working Groups are designed to support shared R&D activities for determining the best path or approach for a problem domain. Examples of current working groups include API design and testing infrastructure.
+
+You can learn more about the [current working groups](#).
+
+## Funded Projects
+
+For activities that are well defined and scoped, yet require funding to help bring to fruition, the ISC has established a grant fund. Twice yearly, the ISC awards grants for projects such as code development, workshops, infrastructure, and other projects to help sustain the R community.
+
+You can learn more about the [in-progress and completed funded projects](#). If you have a project needing funding, learn more about [the grant funding process](#).
+
+## Top Level Projects
+
+For community projects of importance to the R community and needing long-term support by R Consortium, the project and ISC can consider the project for long-term status. This gives the project guaranteed funding for 3 years, along with a voting seat on the ISC. Projects looking for this status will need to justify to the ISC why the project needs long-term funding, as well as submit a 3-year plan and budget for consideration. Top level projects get priority access to grant funds available.
+
+Four projects are currently Top Level Projects:
+
+- [R Community Diversity and Inclusion](#)
+- [R-Hub](#)
+- [R-Ladies](#)
+- [R User Group Support Program (RUGS)](#)
+
+The goal of the Infrastructure Steering Committee (ISC) is to support projects that, broadly construed, help the R community. This might be software development, developing new teaching materials, documenting best practices, promoting R to new audiences, standardizing APIs, or doing research.
+
+Voting members of the ISC consist of appointed and elected individuals from Platinum and Silver members of the R Consortium, one individual elected to represent the Silver members of the R Consortium, and the project leads for each top-level R Consortium ISC Project.
+
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/HenrikBengtsson_2018.webp" alt="Profile Image 1" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px ">
+  <h2>Henrik Bengtsson</h2>
+  <h4>R FOUNDATION (R FOUNDATION REPRESENTATIVE) (ISC CHAIRPERSON)</h4>
+  <p>Henrik Bengtsson is an Associated Professor at University of California, San Francisco, a member of the R Foundation, with a background in Computer Science and Mathematical Statistics.</p>
+  <div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a target="_blank" class="tmm_sociallink" href="https://twitter.com/henrikbengtsson" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/twitter.png"></a>
+  <a target="_blank" class="tmm_sociallink" href="https://github.com/HenrikBengtsson" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/customlink.png"></a>  </div>
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Yanina.webp" alt="Profile Image 2" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Yanina Bellini Saibene</h2>
+  <h4>R-LADIES</h4>
+  <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/yabellini?miniProfileUrn=urnlifs_miniProfileACoAAAH31g8B4liq53DhzTsRVsft6OZXuLCUeOw&amp;lipi=urnlipaged_flagship3_search_srp_all91xi146nSyWPu5aJWjXPEg" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>  </div>
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Mark_Bynens_v3-1.webp" alt="Profile Image 3" style="width: 100px; height: 130px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Mark Bynens</h2>
+  <h4>JOHNSON & JOHNSON (SILVER MEMBER)</h4>
+  <p>Mark Bynens, Heading Scientific Computing Operations within Statistics & Decision Sciences at Johnson & Johnson.</p>
+  <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/bynens-mark-8399685/" title="LinkedIn"><img decoding="async" alt="LinkedIn" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>  </div>
+</div>
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Gabor.webp" alt="Profile Image 2" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Gábor Csárdi</h2>
+  <h4>R-HUB PROJECT LEAD (VOTING MEMBER)</h4>
+  
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Michael.webp" alt="Profile Image 1" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Michael Helbraun</h2>
+  <h4>MICROSOFT (PLATINUM MEMBER)</h4>
+  <p>Michael Helbraun is a Principal Architect for Data & AI on Microsoft's Digital Transformation Partnership team, where he works with strategic customers across Latin America./p>
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Nicholas.webp" alt="Profile Image 3" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Nicholas Masel</h2>
+  <h4>JANSSEN R&D (SILVER MEMBER)</h4>
+  <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/nicholasmasel/" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>  </div>
+</div>
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Eric.webp" alt="Profile Image 1" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Eric Milliman</h2>
+  <h4>BIOGEN (PLATINUM MEMBER)</h4>
+  <p>Eric is a data scientist in the Global Analytics and Data Sciences department at Biogen, based in Cambridge, MA.</p>
+  <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/ericmilliman/" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>  </div>
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Joseph.webp" alt="Profile Image 2" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Joseph Rickert</h2>
+  <h4>R USER GROUP SUPPORT PROJECT LEAD (VOTING MEMBER)</h4>
+  <p>Joseph, RStudio’s “Ambassador at Large” to the R Community and editor of the R Views blog, has been focused on promoting the R language and supporting the R Community since he joined Revolution Analytics in 2009.</p>
+  <a target="_blank" class="tmm_sociallink" href="https://twitter.com/rstudiojoe" title="Twitter"><img decoding="async" alt="Twitter" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/twitter.png"></a>  </div>
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <h2>Robert Müller</h2>
+  <h4>ROCHE (PLATINUM MEMBER)</h4>
+  <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/robert-müller-b1b3a244" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>  </div>
+</div>
+<div style="display: flex; justify-content: space-around; margin-top: 20px;">
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Hadley.webp" alt="Profile Image 1" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Hadley Wickham</h2>
+  <h4>R STUDIO (PLATINUM MEMBER)</h4>
+  <p>Hadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland.</p>
+  <div style="display: flex; justify-content: center; margin-top: 20px;">
+  <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/hadleywickham" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>
+  <a target="_blank" class="tmm_sociallink" href="https://twitter.com/hadleywickham" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/twitter.png"></a>  
+  <a target="_blank" class="tmm_sociallink" href="http://hadley.nz/" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/website.png"></a>
+  <a target="_blank" class="tmm_sociallink" href="https://en.wikipedia.org/wiki/Hadley_Wickham" title="Wikipedia"><img decoding="async" alt="Wikipedia" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/customlink.png"></a> 
+  <a target="_blank" class="tmm_sociallink" href="https://github.com/hadley" title="GitHub"><img decoding="async" alt="GitHub" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/customlink.png"></a>  </div>  
+  </div>
+  <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
+  <img src="./images/Nan.webp" alt="Profile Image 2" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <h2>Nan Xiao</h2>
+  <h4>MERCK (SILVER MEMBER)</h4>
+  <p>Nan is a statistician from Merck & Co., Inc. working in the Methodology Research group in the Biostatistics and Research Decision Sciences (BARDS) department.</p>
+  <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/nanxstats/" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>
+  </div>
+  
+</div>

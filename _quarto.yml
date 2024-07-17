@@ -22,21 +22,21 @@ website:
       - text: "Projects"
         menu:
           - text: Projects
-            href:  projects.qmd
+            href:  all-projects/index.qmd
           - text: Funded Projects
             href:  https://bugs.com
+          - text: Call for Proposals 
+            href:  all-projects/callforproposals.qmd
           - text: R-Hub
-            href:  https://bugs.com
+            href:  https://github.com/r-hub
           - text: R-Ladies
-            href:  https://bugs.com
+            href:   https://rladies.org/
           - text: RUGS Program
-            href:  https://bugs.com
+            href:  all-projects/rugsprogram.qmd
           - text: Working Groups
             href:  https://bugs.com
-          - text: R IDEA 
-            href:  https://bugs.com
           - text: Submitting for payment
-            href:  https://bugs.com
+            href:  all-projects/submittingforpayment.qmd
 
       - text: "About"
         menu:
