@@ -2,13 +2,13 @@ project:
   type: website
 
 website:
-  title: "quarto-project"
+  title: "R Consortium"
   navbar:
     pinned: true
     background: light
     logo: RConsortium_Horizontal_Pantone.webp
     title: false
-    logo-alt: "Quarto logo."
+    logo-alt: "R Consortium logo"
     right:
       - text: "Members"
         menu:
@@ -72,11 +72,13 @@ website:
             href:  newsletters/newsletters.qmd
       - codeofconduct.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/rconsortium
+      - icon: linkedin
+        href: https://www.linkedin.com/company/r-consortium/
       - icon: mastodon
-        href: https://twitter.com
+        href: https://fosstodon.org/@RConsortium
       - icon: twitter
-        href: https://twitter.com
+        href: https://x.com/RConsortium
   page-footer:
     background: dark
     center: © 2024 R Consortium. © R Consortium. A [Linux Foundation](https://linuxfoundation.org) Project. R Consortium™ is a trademark of R Consortium. All Rights Reserved. The Linux Foundation has registered trademarks and uses trademarks. For a list of trademarks of The Linux Foundation, please see our [Trademark Usage](https://www.linuxfoundation.org/en/trademark-usage/) page. Linux is a registered trademark of Linus Torvalds. [Privacy Policy](https://privacy-policy.r-consortium.org) and [Terms of Use](https://terms-of-use.r-consortium.org) 
