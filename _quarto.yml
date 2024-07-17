@@ -68,7 +68,7 @@ website:
           - text: Events
             href: news/events.qmd
           - text: Blog
-            href:  https://code.com
+            href: blog/index.qmd
           - text: Newsletter
             href:  newsletters/newsletters.qmd
       - codeofconduct.qmd
