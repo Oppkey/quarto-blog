@@ -1,7 +1,7 @@
 [Want to contribute to the R Consortium blog? Please review our Blog Post Guidelines.](https://www.r-consortium.org/news/blog/guidelines)
 
 
-### [Kolkata R User Group: A Rich History with Statistics ](https://www.r-consortium.org/blog/2024/07/12/kolkata-r-user-group-a-rich-history-with-statistics)
+### [Kolkata R User Group: A Rich History with Statistics ](../posts/kolkata-r-user-group-a-rich-history-with-statistics)
 
 The R Consortium recently spoke with Samrit Pramanik of the Kolkata R User Group about his experience starting a new R User Group in India. Samrit highlighted Kolkata's rich history…
 
