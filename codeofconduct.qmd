@@ -1,16 +1,6 @@
----
-about:
-  template: jolla
-page-layout: full
-title: Code of Conduct
----
-<section style="position: absolute; top: 75px; left:0; width: 100%;" class="linux-banner"> 
-<img class="banner-image" src="lfprojects_banner_other.svg">
-</section>
+## Code of Conduct
 
-
-
-## Committed to a Safe and Inclusive Environment for the R Consortium Community
+### Committed to a Safe and Inclusive Environment for the R Consortium Community
 
 The R Consortium, a Linux Foundation project, promotes and supports the R language and community through the development of open-source software, education, and collaboration. We have adopted the Linux Foundation Code of Conduct to ensure a safe and inclusive environment for all members.
 
