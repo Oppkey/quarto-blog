@@ -3,6 +3,7 @@ project:
 
 website:
   title: "R Consortium"
+  favicon: rc-favicon.svg
   navbar:
     pinned: true
     background: light
