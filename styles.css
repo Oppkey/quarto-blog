@@ -29,6 +29,12 @@ section {
     width: 300px;
 }
 
+/* left align text */
+
+.left-align {
+    text-align: left;
+  }
+
 /* Media query for navbar logo image, mobile mode 1100px and smaller */
 
 @media only screen and (max-width: 1100px) {
