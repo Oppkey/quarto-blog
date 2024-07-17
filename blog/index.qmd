@@ -11,7 +11,7 @@ The R Consortium recently spoke with Samrit Pramanik of the Kolkata R User Group
 Isabella Velasquez, co-organizer of R-Ladies Seattle, recently spoke with the R Consortium about her journey with R and the group’s recent activities. Isabella started as a beginner but has become…
 
 
-### [R Consortium’s Submission Working Group: Advancing R for Regulatory Success at PharmaSUG 2024](https://www.r-consortium.org/blog/2024/07/02/r-consortiums-submission-working-group-advancing-r-for-regulatory-success-at-pharmasug-2024)
+### [R Consortium’s Submission Working Group: Advancing R for Regulatory Success at PharmaSUG 2024](../posts/r-consortiums-submission-working-group-advancing-r-for-regulatory-success-at-pharmasug-2024)
 
 The R Submission Working Group is making significant strides in promoting the use of R for regulatory submissions in the pharmaceutical industry. At PharmaSUG 2024, held from May 19-22 in…
 
