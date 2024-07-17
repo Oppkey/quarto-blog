@@ -23,7 +23,7 @@ Vincent Guyader, organizer of the R Addicts Paris and president of ThinkR, recen
 
 ### [The Crucial Role of Release Control in R for Healthcare Organizations](../posts/the-crucial-role-of-release-control-in-r-for-healthcare-organizations)
 
-Guest blog contributed by Ning Leng, People and Product Leader, Roche-Genentech. Eric Nantz, Director, Eli Lilly and Company; Ben Straub, Principal Programmer, GSK; Sam Parmar, Statistical Data Scientist, Pfizer.  Supporting…
+Guest blog contributed by Ning Leng, People and Product Leader, Roche-Genentech. Eric Nantz, Director, Eli Lilly and Company; Ben Straub, Principal Programmer, GSK; Sam Parmar, Statistical Data Scientist, Pfizer.  Supporting the science of drug development requires computational tools with careful implementations of core statistical functions and data structures...
 
 
 ### [Bridging the Digital Divide: Umar Isah Adam on Expanding R Access for Kano, Nigeria Students](https://www.r-consortium.org/blog/2024/06/17/bridging-the-digital-divide-umar-isah-adam-on-expanding-r-access-for-kano-nigeria-students)
