@@ -35,7 +35,7 @@ website:
           - text: RUGS Program
             href:  all-projects/rugsprogram.qmd
           - text: Working Groups
-            href:  https://bugs.com
+            href:  all-projects/isc-working-groups.qmd
           - text: Submitting for payment
             href:  all-projects/submittingforpayment.qmd
 
