@@ -3,7 +3,7 @@ title: "R Consortium’s Submission Working Group: Advancing R for Regulatory Su
 description: "The R Submission Working Group is making significant strides in promoting the use 
 of R for regulatory submissions in the pharmaceutical industry."
 author: "R Consortium"
-image: "psug2024-main2.png"
+image: "psug2024-main3.jpg"
 date: "07/02/2024"
 ---
 
