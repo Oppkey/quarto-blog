@@ -89,12 +89,41 @@ section#hero > p {
     margin: 0 auto;
 }
 
-.what-is-r-section {
+/* aligning sections */
+
+/* .what-is-r-section {
     margin: 20px;
-}
+}*/
+
+.joining-r-section {
+    a:link {
+        color: white;
+    }
+    a:visited {
+        color: white;
+    }
+    }
+    
+.what-is-r-section {
+    a:link {
+        color: white;
+    }
+    a:visited {
+        color: white;
+    }
+    }
+    
+.need-help-section {
+    a:link {
+        color: white;
+    }
+    a:visited {
+        color: white;
+    }
+    }
 
 .preview-picture {
-    max-width: 350px;
+    max-width: 200px;
 }
 
 div.nav-footer {
