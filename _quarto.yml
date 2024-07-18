@@ -25,7 +25,7 @@ website:
           - text: Projects
             href:  all-projects/index.qmd
           - text: Funded Projects
-            href:  https://bugs.com
+            href:  all-projects/funded-projects.qmd
           - text: Call for Proposals 
             href:  all-projects/callforproposals.qmd
           - text: R-Hub
