@@ -2,7 +2,7 @@
 title: "Diving into R with Isabella Velasquez: Perspectives from R-Ladies Seattle"
 description: "Isabella started as a beginner but has become a key figure in the R community thanks to the supportive and collaborative learning environment."
 author: "R Consortium"
-image: "Isabella.jpg"
+image: "Isabella-main.jpg"
 date: "07/03/2024"
 ---
 

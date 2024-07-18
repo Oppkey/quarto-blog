@@ -2,6 +2,7 @@
 title: "The Crucial Role of Release Control in R for Healthcare Organizations"
 description: "The R programming language, a general purpose language developed by statisticians that grows dynamically through the contributions of a worldwide community of developers, is a common choice for serious statistical work."
 author: "Guest Blog Post"
+image: "r-submissions-main.png"
 date: "06/24/2024"
 ---
 

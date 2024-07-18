@@ -2,6 +2,7 @@
 title: "Kolkata R User Group: A Rich History with Statistics"
 description: "The R Consortium recently spoke with Samrit Pramanik of the Kolkata R User Group about his experience starting a new R User Group in India."
 author: "R Consortium"
+image: "Samrit-main.jpg"
 date: "07/12/2024"
 ---
 
