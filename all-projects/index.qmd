@@ -41,30 +41,29 @@ format: html
 
 # Sponsored Activities
 
-All participants in R Consortium sponsored activities are bound to the [R Consortium Code of Conduct](#).
+All participants in R Consortium sponsored activities are bound to the [R Consortium Code of Conduct](../codeofconduct.qmd).
 
 ## Working Groups
 
 Working Groups are designed to support shared R&D activities for determining the best path or approach for a problem domain. Examples of current working groups include API design and testing infrastructure.
 
-You can learn more about the [current working groups](#).
+You can learn more about the [current working groups](isc-working-groups.qmd).
 
 ## Funded Projects
 
 For activities that are well defined and scoped, yet require funding to help bring to fruition, the ISC has established a grant fund. Twice yearly, the ISC awards grants for projects such as code development, workshops, infrastructure, and other projects to help sustain the R community.
 
-You can learn more about the [in-progress and completed funded projects](#). If you have a project needing funding, learn more about [the grant funding process](#).
+You can learn more about the [in-progress and completed funded projects](funded-projects.qmd). If you have a project needing funding, learn more about [the grant funding process](callforproposals.qmd).
 
 ## Top Level Projects
 
 For community projects of importance to the R community and needing long-term support by R Consortium, the project and ISC can consider the project for long-term status. This gives the project guaranteed funding for 3 years, along with a voting seat on the ISC. Projects looking for this status will need to justify to the ISC why the project needs long-term funding, as well as submit a 3-year plan and budget for consideration. Top level projects get priority access to grant funds available.
 
-Four projects are currently Top Level Projects:
+Three projects are currently Top Level Projects:
 
-- [R Community Diversity and Inclusion](#)
-- [R-Hub](#)
-- [R-Ladies](#)
-- [R User Group Support Program (RUGS)](#)
+- [R-Hub](https://github.com/r-hub)
+- [R-Ladies](https://rladies.org/)
+- [R User Group Support Program (RUGS)](rugsprogram.qmd)
 
 The goal of the Infrastructure Steering Committee (ISC) is to support projects that, broadly construed, help the R community. This might be software development, developing new teaching materials, documenting best practices, promoting R to new audiences, standardizing APIs, or doing research.
 
@@ -72,7 +71,7 @@ Voting members of the ISC consist of appointed and elected individuals from Plat
 
 <div style="display: flex; justify-content: space-around; margin-top: 20px;">
   <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
-  <img src="./images/HenrikBengtsson_2018.webp" alt="Profile Image 1" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px ">
+  <img src="./images/HenrikBengtsson_2018.png" alt="Profile Image 1" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px ">
   <h2>Henrik Bengtsson</h2>
   <h4>R FOUNDATION (R FOUNDATION REPRESENTATIVE) (ISC CHAIRPERSON)</h4>
   <p>Henrik Bengtsson is an Associated Professor at University of California, San Francisco, a member of the R Foundation, with a background in Computer Science and Mathematical Statistics.</p>
@@ -119,7 +118,7 @@ Voting members of the ISC consist of appointed and elected individuals from Plat
   <p>Eric is a data scientist in the Global Analytics and Data Sciences department at Biogen, based in Cambridge, MA.</p>
   <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/ericmilliman/" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>  </div>
   <div style="border: 1px solid #ccc; border-radius: 10px; width: 300px; padding: 20px; text-align: center;">
-  <img src="./images/Joseph.webp" alt="Profile Image 2" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
+  <img src="./images/Joseph.png" alt="Profile Image 2" style="width: 100px; height: 100px; border-radius: 50%; margin-bottom: 10px;">
   <h2>Joseph Rickert</h2>
   <h4>R USER GROUP SUPPORT PROJECT LEAD (VOTING MEMBER)</h4>
   <p>Joseph, RStudio’s “Ambassador at Large” to the R Community and editor of the R Views blog, has been focused on promoting the R language and supporting the R Community since he joined Revolution Analytics in 2009.</p>

@@ -65,7 +65,7 @@ Yes. R Consortium projects are [proposed by the community to the Infrastructure 
 The R Consortium will coordinate and support projects that directly benefit stakeholders within the R user community. Here are some examples of the types of projects the R Consortium might undertake
 
 * Improving documentation and tools.
-* Sponsoring and helping execute  conferences and events.
+* Sponsoring and helping execute conferences and events.
 * Helping to scale and build out R infrastructure.
 * Maintaining an enhanced website focused on the R user community.
 
@@ -177,7 +177,7 @@ Members of the R Consortium include the [following types of organizations](https
 ### Why an R Consortium?
 
 
-The R user community has experienced tremendous growth.  With growth there is a greater need for cooperation and communication among R users and R stakeholders.  R will continually benefit from improvements to its technical tools and resources.  The [mission of the R Consortium](https://www.r-consortium.org/about) is to help with support and coordination of the important activities of the R Community, via projects selected and executed its [Infrastructure Steering Committee](https://www.r-consortium.org/all-projects).
+The R user community has experienced tremendous growth. With growth there is a greater need for cooperation and communication among R users and R stakeholders. R will continually benefit from improvements to its technical tools and resources. The [mission of the R Consortium](https://www.r-consortium.org/about) is to help with support and coordination of the important activities of the R Community, via projects selected and executed its [Infrastructure Steering Committee](https://www.r-consortium.org/all-projects).
 
 * [Back to Top](#top)
 
@@ -216,7 +216,7 @@ Interfere with the R language itself and its development.
 The R Consortium will coordinate and support projects that directly benefit stakeholders within the R user community, for example:
 
 *  Improving documentation and tools.
-* Sponsoring and helping execute  conferences and events.
+* Sponsoring and helping execute conferences and events.
 * Helping to scale and build out R infrastructure.
 * Maintaining an enhanced website focused on the R user community.
 * [Back to Top](#top)
