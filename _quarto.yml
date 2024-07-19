@@ -42,7 +42,7 @@ website:
       - text: "About"
         menu:
           - text: About
-            href:  about/about.qmd
+            href:  about/index.qmd
           - text: FAQ
             href:  about/faq.qmd
           - text: Contact
