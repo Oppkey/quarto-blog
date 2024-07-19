@@ -2,7 +2,7 @@
 title: "MPG v Horsepower EXAMPLE"
 author: "Jesse Casman"
 subtitle: "Just an example of working with a .qmd file"
-date: "2023-11-06"
+date: "2024-05-06"
 ---
 
 # MPG vs Horsepower
