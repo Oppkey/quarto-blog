@@ -50,7 +50,7 @@ website:
           - text: Privacy Policy
             href:  about/privacy.qmd
           - text: Governance
-            href:  governance.qmd
+            href:  about/governance.qmd
           - text: Bylaws
             href:  rc-docs/Bylaws-GU-Draft-7-9-2024.docx.pdf
           - text: ISC Charter
