@@ -52,11 +52,11 @@ website:
           - text: Governance
             href:  governance.qmd
           - text: Bylaws
-            href:  docs/Bylaws-GU-Draft-7-9-2024.docx.pdf
+            href:  rc-docs/Bylaws-GU-Draft-7-9-2024.docx.pdf
           - text: ISC Charter
-            href:  docs/ISC-Charter-08-11-23.pdf
+            href:  rc-docs/ISC-Charter-08-11-23.pdf
           - text: Marketing Committee Charter
-            href:  docs/R-Consortium-Marketing-Committee-Charter-2021-10-27.pdf
+            href:  rc-docs/R-Consortium-Marketing-Committee-Charter-2021-10-27.pdf
 
       - ./webinars/webinars.qmd
       - text: R/Medicine
