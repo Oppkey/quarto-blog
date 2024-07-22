@@ -1,0 +1,714 @@
+## News
+The R Consortium recently spoke with Samrit Pramanik of the Kolkata R User Group about his experience starting a new R User Group in India. Samrit highlighted Kolkata's rich history…
+
+Isabella Velasquez, co-organizer of R-Ladies Seattle, recently spoke with the R Consortium about her journey with R and the group’s recent activities. Isabella started as a beginner but has become…
+
+The R Submission Working Group is making significant strides in promoting the use of R for regulatory submissions in the pharmaceutical industry. At PharmaSUG 2024, held from May 19-22 in…
+
+Vincent Guyader, organizer of the R Addicts Paris and president of ThinkR, recently updated the R Consortium on the group's activities. Last year, Vincent discussed the application of R in…
+
+Guest blog contributed by Ning Leng, People and Product Leader, Roche-Genentech. Eric Nantz, Director, Eli Lilly and Company; Ben Straub, Principal Programmer, GSK; Sam Parmar, Statistical Data Scientist, Pfizer.  Supporting…
+
+Umar Isah Adam, the founder and organizer of the R User Group Kano, Nigeria, spoke with the R Consortium during the pandemic about his efforts to engage the next generation…
+
+Keith Karani Wachira, the Dekut R Community organizer based in Nyeri, Kenya, was recently interviewed by the R Consortium and shared his journey in the R community, which began in…
+
+The R Consortium recently interviewed Victor Lee, organizer of the Korea R User Group, about his role establishing and expanding the Korean R community. Victor shared his journey, beginning with…
+
+Marcela Victoria Soto, co-organizer of the R4HR -Club de R para RRHH, Buenos Aires, Argentina, recently updated the R Consortium about the group’s recent activities. Last year, Sergio García Mora,…
+
+This post was authored by Gregory Chen, Biostatistics and Research Decision Sciences (BARDS), MSD, Switzerland, and Ning Leng, Product Development Data Sciences (PDD), F. Hoffmann-La Roche, USA On January 30,…
+
+Last year, Edson Kambeu, founder and organizer of the Botswana R User Group, shared his plans with the R Consortium to implement data into local businesses in the New R…
+
+Gergely Daróczi, the founder and organizer of the Budapest Users of R Network, updated the R Consortium about the group’s recent activities. Last year, Gergely discussed the group's inception, and…
+
+The R Consortium recently interviewed Jan Vitek, a professor at Northeastern University's Khoury College of Computer Sciences. He specializes in programming languages, compilers, and systems. Notably, he developed one of…
+
+The R Validation Hub next meeting is May 21st, 12:00 PM EST.  Join the call here!  In the dynamic field of pharmaceutical research, open source R packages offer incredible potential…
+
+Maria Prokofieva, organizer of the Business Analytics and R Business User Group, spoke to the R Consortium last year about the Adoption of R by the Actuaries Community in Melbourne.…
+
+What to get a feel for the kind of content will be available at R/Medicine 2024? We’re spotlighting the most engaging and educational sessions from past R Medicine Virtual Conferences.…
+
+The R Consortium's working group R Submissions Working Group is spearheading an innovative approach to clinical trial data sharing, according to a feature in Nature. This initiative, led by Eric…
+
+Last year, the R Consortium had a conversation with Amal Tlili, the co-organizer of the Tunis R User Group, regarding the Use of R for Marketing and CRM in Tunisia.…
+
+The R Consortium recently spoke with Mario Annau, co-organizer of the Vienna R User Group. During the conversation, he discussed the use of R in the finance and pharmaceutical industries…
+
+Kirill Müller is the author of the {DBI} package, which helps to connect R and database management systems (DBMS). The connection to a DBMS is achieved through database-specific backend packages…
+
+Come celebrate 10 YEARS of the New York R Conference! This year's conference takes place May 16th & 17th with workshops May 15th. We are taking a trip down memory…
+
+The R Consortium recently spoke with the organizing team of the R User Group at the University of Manchester (R.U.M.). R.U.M. aims to bring together R users of all levels…
+
+Contributed by Abbie Brookes, Senior Data Analyst at Datacove Datacove is pleased to announce the availability of tickets for the upcoming EARL (Enterprise Applications of the R Language) conference.  The…
+
+The R/Medicine conference provides a forum for sharing R based tools and approaches used to analyze and gain insights from health data. Conference workshops provide a way to learn and…
+
+Are you ready to delve into the world of finance through the lens of R? Look no further than the R Finance Conference (May 18, 2024,  University of Illinois Chicago)…
+
+SatRDays London 2024 is set to ignite the data science community with a vibrant lineup of speakers and a rich array of topics ranging from survival analysis to geospatial data.…
+
+Angie Reed sampling Chlorophyll on the Penobscot River where a dam was removed  In a recent interview by the R Consortium, Angie Reed, Water Resources Planner for the Penobscot Indian…
+
+The R Consortium is rolling out its 2024 R User Groups (RUGS) Grant Program, and it's an opportunity you don't want to miss. The program, which aims to foster vibrant…
+
+The R Consortium had a conversation with Anietie Edem Udokang, who is the founder and organizer of the Offa R Users Group (ORUG). He discussed the emerging local R community…
+
+Fernanda Kelly, founder and organizer of the R-Ladies Goiânia, recently talked to the R Consortium about the group’s efforts to provide a learning and networking platform to gender and ethnic…
+
+Contributed by Charlie Gao, Director at Hibiki AI Limited {nanonext} is an R binding to the state of the art C messaging library NNG (Nanomsg Next Generation), created as a…
+
+Last year, R Consortium talked to John Blischak and Tim Hoolihan of the Cleveland R User Group about their regular structured and casual virtual meetups during the pandemic. Recently, Alec…
+
+Help build R infrastructure! We're opening the call for proposals for the 2024 Infrastructure Steering Committee (ISC) Grant Program. The R Consortium is dedicated to enriching the R Ecosystem, directly…
+
+Excerpted from the Annual Report Access the annual report here! Letter from the Chair — Mehar Pratap Singh, Chairman Welcome to the 2023 Annual Report of the R Consortium. This…
+
+The R Consortium recently reconnected with Paul Stewart, founder of Moffitt Cancer Center Bio-Data Club in Tampa, Florida. Since the last update on January 6th, 2023, the Moffitt Cancer Center…
+
+Join the R Validation Hub mailing list! The recent R Validation Hub Community meeting brought together around 50 participants to explore the concept of "validation" within the R programming ecosystem.…
+
+Join the R Consortium for an enlightening webinar on March 20th, 2024, at 4:00 PM ET, featuring Mine Cetinkaya-Rundel, Professor of the Practice of Statistical Science at Duke University. Discover…
+
+Nadejda Sero, the founder of the R Ladies Cotonou chapter, shared with the R Consortium her experiences learning R, the challenges of running an R community in a developing country,…
+
+The R Consortium recently hosted a webinar series tailored specifically for insurance and actuarial science professionals. This series, called the R/Insurance webinar series, led by experts Georgios Bakoloukas and Benedikt…
+
+The R Consortium talked to Barry Decicco, founder, and organizer of the Ann Arbor R User Group, based in Ann Arbor, Michigan. Barry shared his experience working with R as…
+
+Dive into the world of validation at the first R Validation Hub community meeting of the year! What defines a validated R package? Is it ensuring reproducibility across systems? Prioritizing…
+
+The R Consortium is excited to announce the opening of our call for proposals for the 2024 Infrastructure Steering Committee (ISC) Grant Program on March 1st, 2024. This initiative is…
+
+The R Consortium recently connected with Kylie Bemis, assistant teaching professor at the Khoury College of Computer Sciences at Northeastern University. She has a keen interest in statistical computing frameworks…
+
+Are you passionate about financial economics and eager to learn more about empirical research methods? Then our upcoming webinar is an unmissable opportunity for you! Discover Tidy Finance: A Revolutionary…
+
+The R Consortium recently talked with Natalia Andriychuk, Statistical Data Scientist at Pfizer and co-founder of the RTP R User Group (Research Triangle Park in Raleigh, North Carolina), to get…
+
+Are you seeking faster R data processing and enhanced machine learning capabilities for massive datasets in databases? Look no further. Join us in our upcoming webinar to discover how Oracle…
+
+Quick update on the 2024 R User Groups (RUGS) Program. The review of the first batch of grants is in progress, marking the beginning of the awarding phase. But there’s…
+
+Last year, Antonio Hegar of the R Glasgow user group shared the challenges of organizing an R user group in Glasgow. The group now regularly hosts events, attracting local R…
+
+The R Consortium recently connected with Lampros Sp. Mouselimis, the creator of the ICESat2R package, discussing the ICESat-2 mission, a significant initiative in understanding the Earth's surface dynamics. This NASA…
+
+Recently, Kamil Sijko of the Warsaw R User Group discussed with the R Consortium his transition from academia to leading data science in the business sector. He noted the current…
+
+In the rapidly evolving sphere of pharmaceutical data analysis, a significant transition is taking place – the shift from traditional SAS to the versatile R programming language. Pfizer, a trailblazer…
+
+The Karachi R User Group, Pakistan, hosted its second event, “Unveiling the Power of R Shiny Dashboards,” on December 30, 2023. The R Consortium spoke with Uzair Aslam, the group’s…
+
+The R Consortium is excited to open the doors to the 2024 RUGS Program, starting January 8th, 2024! We are committed to supporting R User Groups (RUGS) worldwide in your…
+
+Hello, Data Enthusiasts! Are you ready to take your data visualization skills to the next level in the fascinating world of survival analysis? We're thrilled to invite you to our…
+
+Zac Nash and Abbie Brookes, co-founders of MancR (left), and Jeremy Horne (right), Director of Datacove The R Consortium recently reached out to Abbie Brookes, Senior Analyst and AI Consultant…
+
+Last year, Julia Silge, co-organizer of the Salt Lake City R User Group discussed the group's plans to meld in-person and online activities with the R Consortium. This year, Andrew…
+
+The North East Data Scientists group hosts the annual Shiny in Production Conference. Colin Gillespie shared the details of the event, how it’s grown in its second year, and how…
+
+This blog is contributed by Mark Hornick, Senior Director, Oracle Machine Learning. Oracle is an R Consortium member. Hey R users! You rely on R as a powerful language and…
+
+Mouna earned the Opportunity Scholarship for the Posit 2023 Conference and thoroughly enjoyed the amazing experience. The R Consortium recently interviewed Mouna Belaid, a co-organizer of R-Ladies Paris, who provided…
+
+Guest blog contributed by Rikimaru Nishimura, Statistical Programming, Janssen Pharmaceutical K.K. I would like to introduce the task force of Open-Source Software (OSS) in Data Science Expert Committee, Drug Evaluation…
+
+Introduction: The actuarial profession is on the cusp of a transformation spearheaded by integrating programming into the traditional spreadsheet-based workflow. Georgios Bakoloukas, Head Model and Analytics, Swiss Re and Benedikt…
+
+The use of the R programming language has seen exponential growth across industries, with its role being especially pronounced in the pharmaceutical sector. Japan stands out in this growth narrative,…
+
+Laura M. Sangalli is a professor of Statistics at Politecnico di Milano, Italy. Her research interests include functional data analysis, high-dimensional and complex data, spatial data analysis, and biostatistics. With…
+
+Guest blog contributed by Wenlan Pan, Statistical Programmer Analyst, Johnson & Johnson Transforming the Landscape - The Rise of R in the China Pharmaceutical Industry In recent years, the China…
+
+After a brief hiatus, the R Validation Hub recently reconvened for its community meeting, celebrating a year of remarkable achievements and setting the stage for future endeavors. In 2023, the…
+
+Contributed post by Mike Smith, Senior Director Statistics at Pfizer Photo credit: R-Ladies at LatinR 2023 There’s likely a group of people meeting fairly near where you are right now,…
+
+Madrid R Users Group (RUG) is a community of industry professionals from a diverse range of backgrounds that provides a learning and networking platform. The organizing committee of the Madrid…
+
+Mark Padgham, a Software Research Scientist for rOpenSci, has decades of experience in R, C, and C++, and maintains many packages on CRAN. Mark is leading the development of the…
+
+This blog post contributed by PHUSE CAMIS As we draw towards the end of 2023, the PHUSE CAMIS Working Group reflect on their key progress and successes this year. The CAMIS…
+
+The R Consortium recently caught up with Bilikisu Wunmi Olatunji, founder of the Abuja R User Group and R-Ladies Abuja. Bilikisu shared they began conducting in-person meetups last month by…
+
+Abstract: Join us on November 28th for our last Community meeting of 2023. The R Validation Hub's Executive Committee will summarize this year's achievements, our presence at conferences and other…
+
+The R Consortium recently spoke to Simisani Ndaba, Founder and Organiser of R-Ladies Gaborone. Since the last time we spoke to R-Ladies Gaborone, Simisani has expanded the group to other…
+
+Are you an analyst, statistician, or data science enthusiast keen on understanding how open source software like R shapes the future of regulatory submissions? This webinar is for you! "R…
+
+This blog post contributed by Mouna Belaid, on behalf of the R-Ladies Paris team We were delighted to host a recent hybrid event called Feedback from Experiences in Data Science…
+
+R Consortium recently talked to Sam Parmar of the Indy UseR group about using R in public health and pharma in Indianapolis. Sam also spoke about his volunteer work with…
+
+In this PHUSE video interview, Pfizer is making strides in incorporating open source tools into its clinical reporting processes. Michael Rimler, PHUSE Open Source Technologies Director, brings in Mike Smith,…
+
+The R Consortium recently had the opportunity to talk to Isidro Hidalgo Arellano and Gema Fernández-Avilés Calderón of the R Quixote user group in Spain. They discussed the R for…
+
+Blog post for R Consortium partner PHUSE Join PHUSE in Birmingham, UK, from November 5-8 for an event that promises to energise your learning through connection with the PHUSE Community…
+
+Ted Laderas of the Portland R User Group shared his experience of pioneering the Cascadia R Conference for the Pacific Northwest and the West Coast. The conference is now in…
+
+satRdays are R-focused conferences that are held on Saturdays. They happen all over the globe, and are organized by local R community organizers to help and grow the local community.  …
+
+Peter Solymos of the Edmonton R User Group (Yegrug) recently spoke to the R Consortium about the growing acceptance of R in the industry in Edmonton. He also discussed his…
+
+The R Consortium recently reconnected with Poo “KH” Kuan Hoong, founder of the Malaysia R User Group (Also on Facebook). We talked with KH last year when he spoke about…
+
+The R Consortium is pleased to announce that on Sept 27, 2023, the R Submissions Working Group successfully completed the follow-up to the pilot 2 R shiny based submission and…
+
+Javier Orraca-Deatcu of the Southern California R User Group (SoCal RUG) highlighted his work at a health insurance company for quality of life improvements through data science models. He uses…
+
+LatinR 2023 is being held October 18-23, 2023, in Montevideo, Uruguay. Presentations are held in Spanish, Portuguese, or English. Register now!  LatinR was founded in 2017, Natalia da Silva, Riva…
+
+The R-Consortium recently talked to Adriana Picoral of the R-Ladies Tucson about the diverse R community in Tucson, Arizona. Adriana founded the R-Ladies chapter in 2018 and has been actively…
+
+The R User Group-Philippines (RUG-PH) celebrated its 10th anniversary on the 16th of August. The group marked the occasion with its first physical event since the pandemic, and it highlighted…
+
+The R Consortium is pleased to announce that on August 28, 2023, the R Submissions Working Group successfully submitted an R-based test submission pilot 3 package through the FDA eCTD…
+
+The R Validation Hub - a working group established within the R Consortium to support the adoption of R within a biopharmaceutical regulatory setting - held a two-part mini-series about…
+
+The R Validation Hub - a working group established within the R Consortium to support the adoption of R within a biopharmaceutical regulatory setting - held a two-part mini-series about…
+
+The Berlin R User Group fosters a diverse and vibrant R community in Berlin. Rafael Camargo shared some insights from his experience regarding the potential of R and some anecdotes…
+
+Round two is here! The R Consortium Infrastructure Steering Committee (ISC) orchestrates two rounds of proposal calls and grant awards per year to fortify the R ecosystem's technical infrastructure. We…
+
+Ivan Millanes from the R en Rosario recently talked to the R-Consortium. He shared the group’s vision to create an inclusive knowledge-sharing platform for a diverse R community in Rosario.…
+
+Motivated by the growth of the R Consortium over the past several years and the expansion of activities, the R Consortium Board of Directors has taken a step to ensure…
+
+R-Ladies Morelia is celebrating its first anniversary on the 31st of July 2023, and hosting a hybrid event to mark this occasion. In this event, they plan on providing the…
+
+This is a guest post by Joseph Korszun, Senior Manager of Data Solutions at ProCogia. ProCogia is a member of the R Consortium. Joe is a data scientist with a…
+
+Dorota Rizik of the R Ladies New York recently talked to the R Consortium about the diverse R community in New York. She also discussed how her current job at…
+
+Andy Thomason, code performance consultant and lecturer at the University of London covering programming, physics and AI courses focused on game development, created an open source project to add Rust’s…
+
+After serving as chair of the board for the R Consortium and being involved in multiple R Consortium committees both on the technical and community development sides, as well as…
+
+The R Validation Hub recently had its community meeting after a brief hiatus. The team discussed announcements, common challenges, and brainstormed ideas for possible future projects through the R Validation…
+
+Mustafa Cavus, organizer of the Eskisehir R User Group, in Turkey, discussed the diverse and thriving R community in Eskisehir. He shared the details of a 4-day event hosted by…
+
+The R Consortium is sponsoring the New York R Conference, presented by Lander Analytics! This in-person and virtual conference will be running from July 13-14, with workshops (tickets sold separately)…
+
+Guest author: Ari Lamstein Ari Lamstein is a Director of Analytics at MarketBridge, a Marketing Analytics Consultancy. Back in 2018, when I was most involved in developing choroplethr, Joe Rickert,…
+
+Join us for an update from the R Consortium's R Validation Hub, which supports the use of R within regulated industries. The community meeting will be on June 27, 12…
+
+The R Consortium recently talked to Rachel Heyard of the Zürich R User Group to discuss the vibrant R community in Zürich. The group collaborates with different companies in Zürich…
+
+The R Consortium has begun the disbursement of grants to help R User Groups (RUGS) around the world organize, share information, and support each other. We are currently accepting applications…
+
+Francisco Rodríguez Sánchez shared with the R Consortium how the R language has changed and improved his work as a computational ecologist, leading him to become a passionate advocate, professional,…
+
+CAMIS is a PHUSE working group in collaboration with PSI and the R consortium. Initially, the repository contains R and SAS analysis result comparisons, however, the team hopes to extend to…
+
+Have you ever run into the problem of trying to write a vector or matrix that R cannot store? Dr. Kylie Bemis, faculty in the Khoury College of Computer Sciences…
+
+The R Consortium recently talked to Sébastien Rochette, organizer of the Meetup R Nantes, about his involvement in the R community. The group hosts a mix of physical and online…
+
+The R Consortium, a Linux Foundation project supporting the R Foundation and R community, today announced that Parexel has joined the R Consortium as a Silver Member.  Parexel is a…
+
+Working with internet sources can be a tricky subject. In order to deal with modern packages and workflows, a resource for testing online packages can be very useful. R Consortium…
+
+The fifteenth annual R/Finance conference for applied finance using R will be held on May 19 and 20, 2023 in Chicago, IL, at the University of Illinois at Chicago.  The…
+
+The {riskassessment} app, presented by Aaron Clark from the R Validation Hub, was voted best Shiny app at shinyConf 2023. Congratulations! The Demo app: https://rinpharma.shinyapps.io/risk\_assessment/  GitHub: https://github.com/pharmaR/riskassessment  User guide: https://pharmar.github.io/riskassessment/ …
+
+Binod Jung Bogati, the organizer of the R User Group Nepal, discussed his experience of fostering the budding R community in Nepal. He shared the details of a recent beginner…
+
+Jackson Kwok, Infrastructure Steering Committee (ISC) recipient for the 2020 cycle, discusses the project Sketch and its implementation in 2021 as an R Package in the CRAN environment. The Sketch…
+
+Antonio Hegar, organizer of the R Glasgow user group (also on Twitter), shared with the R Consortium his efforts to build an R community in Glasgow. He discussed the widespread…
+
+Vincent Guyader talked to the R Consortium about his background with the R language, describing his acquisition of experience and skills in developing solutions to scientific and industrial problems. He…
+
+Here! The R Consortium gives grants to help R User Groups (RUGS) around the world organize, share information, and support each other. We are currently accepting applications!  The R Consortium…
+
+Interactive map and R package enable the research community with new insights about the ocean Global Fishing Watch is an international nonprofit organization dedicated to advancing ocean governance through increased…
+
+Dr. Maria Prokofieva of the Business Analytics and R Business User Group, Melbourne, recently talked to the R Consortium about the growing use of R and Data Science in Australia.…
+
+Daniel Fischer of the UseR Chile Group recently talked to the R Consortium about the use of R for Data Analysis in Chile. He shared that even though there is…
+
+Donald Szlosek, the MaineR User Group organizer, recently highlighted the significant growth and impact of the R community in Maine to the R Consortium. Donald emphasizes the crucial role of…
+
+Woo June Jung, Founder of the R Korea Group (also on Facebook) recently talked to the R Consortium to discuss his efforts to promote the use of R in Korea.…
+
+Join us at R/Medicine 2023! The 6th annual conference will be fully virtual from June 5 through 9 and feature two days of workshops followed by a day of demos,…
+
+Anyone familiar with R will know that in addition to being a superb language for statistical computing, it comprises an ecosystem and community of extraordinary depth and commitment. Because of…
+
+The R Consortium recently interviewed Amal Tlili of the Tunis R User Group (Also on Twitter) to discuss her background in R and the use of R in the industry…
+
+The R Consortium is happy to announce and help promote the Data Science project for French-speaking Women in Africa. This program begins on March 6th, 2023, and will be led…
+
+Sergio García Mora, founder and organizer of the R4HR Club de R para RRHH, gives us a deep dive into the success of the R community in Buenos Aires, a…
+
+R is turning 23 this year on February 28/29th! R 1.0.0 was first released on February 29, 2000, implementing a dialect of the language S, which was developed at Bell…
+
+The R Consortium recently talked to Agatha Rodrigues of the R-Ladies Vitória. Agatha talked about the growing R community in Vitória and stressed the importance of further promoting the use…
+
+Carlos Ortega, organizer of Grupo de Usuarios de R de Madrid (Madrid useR Group), shares about the thriving community in Madrid, Spain. Carlos highlights the group's loyal members and the…
+
+Dr. Heather Turner of the Warwick R User Group (also on Twitter) recently talked to the R Consortium about the group’s struggle to stay active amid the pandemic. With the…
+
+Dr. Gergely Daróczi is an active member of the R community, founder of the Budapest Users of R Network Group and organizer of the satRday and eRum conferences. Gergely shares…
+
+Paul Stewart of the Moffitt Cancer Center Bio-Data Club talked to the R Consortium about the group’s experience of shifting events online. Paul shared that despite his initial concerns they…
+
+The R Consortium caught up with Elio Campitelli, organizer of the R en Buenos Aires Group in Buenos Aires, Argentina, to talk about their experience leading a group with almost…
+
+By: Simisani Ndaba and Edson Kambeu  Starting from the far left; Simisani Ndaba (Instructor), Reatile Setilo, Phenyo Sabone, Kelly Masoto, Epiphany Ntongana, Edson Kambeu (Instructor), Emma Ramajalwa, Boago Okgetheng Saturday…
+
+The R Consortium caught up with Michael Schulte-Mecklenbeck of the BernR User Group to talk about the challenges of organizing an R User Group during the pandemic. The group has…
+
+The R Consortium is happy to announce that on Nov 18th, 2022, the R Submissions Working Group successfully submitted a test submission package with a Shiny component through the FDA…
+
+The Oxford R useR Group organizers are leading the R meetup effort in Oxford, UK. The group has over 600 subscribers and brings together >20 R enthusiasts together monthly in…
+
+Dr. Shirin Elsinghorst recently shared her great experience with the R language, motivating her to start the Münster R useR Germany. Shirin shared how R has become a very important…
+
+Vassilis Georgiou of the AthensR User Group talked to the R-Consortium about the group’s journey during the pandemic. Even though the group wasn’t hosting very regular online meetups, it remained…
+
+The R Consortium recently caught up with Fousseynou Bah of the Bamako Data Science Group (also on Facebook) and talked about the budding R community in Mali. Online events allowed…
+
+We are proud sponsors of the 2022 Government & Public Sector R Conference hosted by Lander Analytics! This year’s conference will take place on December 1st & 2nd with workshops…
+
+Vivek Patil of the Inland Northwest R User Group (INRUG) talked to the R Consortium about the R Community located in Spokane, Washington, the diverse group of members of INRUG,…
+
+Date: Friday, 28th October, 2022 • Time: 4:00pm - 5:00pm (WAT) Register Here: https://forms.gle/TGinG326AgHrfqej7 Join the Osun RUG, Nigeria at their event on A Survey of Changes around the Tidyverse…
+
+Poo Kuan Hoong of the Malaysia R User Group (Also on Facebook) recently talked to the R-Consortium. He discussed the group’s rather smooth transition to regular online events. The group…
+
+The R Consortium recently spoke with Dr. Péter Sólymos, organizer of Edmonton R User Group-Yegrug, Edmonton, Canada, about how his interest in learning R came up, how he currently uses…
+
+The R Validation Hub is happy to announce the Regulatory R Repository Working Group, which will be tasked with designing and prototyping the tools to support a cross-pharma, collaborative repository…
+
+The R Consortium recently caught up with Alyssa Columbus of R-Ladies Irvine (also on MeetUp and Twitter) to discuss the group’s progress during the pandemic. Alyssa discussed the group’s efforts…
+
+The R Consortium recently spoke with Ryan Benz, one of the organizers for the Southern California R Users Group which covers Los Angeles and Orange County, CA. Ryan shares more…
+
+The R Consortium recently caught up with Geraldine Klarenberg of the R Users Group Gainesville (also on Twitter) to talk about the group's journey during the pandemic. Besides the regular…
+
+The September Call for Proposals is now open, and the Infrastructure Steering Committee would like to encourage proposals from the R Community to upgrade the software infrastructure supporting the satRdays…
+
+The R Consortium recently interviewed John Blischak and Tim Hoolihan with the Cleveland R UseR Group. The organizers share more about how the group managed to continue to grow with…
+
+R Consortium recently talked to Mario Amau, co-organizer of the Vienna<-R about the lively R community in Vienna. The group is committed to providing its members with valuable talks and…
+
+The R Consortium recently interviewed Szilard Pafka with the Real Data Science USA R Group (formerly known as the Los Angeles R User Group). The former Los Angeles R useR…
+
+Kristen Chan of R-Ladies Taipei talked to R-Consortium about the unique pandemic situation in Taiwan. Originally, Taiwan was able to keep the pandemic under control, so the group was able…
+
+R Consortium recently talked to Allan Miller with the East Bay R Language Enthusiasts Group about the group's history and success in environmental and health industries. The group aims to…
+
+Every year, The R Consortium Infrastructure Steering Committee (ISC) conducts two cycles of calling for proposals and awarding grants for projects that will enhance the technical infrastructure of the R…
+
+The Osun R Users group in Nigeria will be hosting a two-hour Zoom class webinar on Design and Analysis of Experiments with R Syntax!  Register Today! Dr. Ayubu Anapapa Okango…
+
+R Consortium recently talked to Tuli Amutenya of the Namibia R Users Group about the challenges of starting a group during the pandemic. She shared the struggle of keeping the…
+
+Originally posted in the RStudio R Community blog, written by Dr. Maria Prokofieva, professor, Victoria University Business School, Australia, and works with CPA Australia. Dr. Prokofieva is a member of…
+
+Alice Walsh and Karla Fettich of the R Ladies Philly talked to the R Consortium about the thriving R Community in Philadelphia. The group has broadened its reach both locally…
+
+View the full interview: https://www.youtube.com/watch?v=4yW5TRZslj8  Ehouman Evans (Ph.D.), Agroforestry Project Manager at CIRAD, gives an interview to the R Consortium about his journey with R, his career, how he’s applied…
+
+R Consortium recently talked to Till Straube of the Campus UseR Group, Frankfurt, Germany, about the group’s aim to provide an informal knowledge-sharing environment for Campus R users. The unique…
+
+Growing a user base for R at a university can be challenging at the best of times, especially when dealing with the silos that are present in the university system.…
+
+R consortium talks to Yanina Bellini Saibene about how the pandemic has affected the R-Ladies Santa Rosa. Rather than being reactive to the events of the pandemic, she started a…
+
+Shankar Vaidyaraman and Derrick Kearney sit down with R Consortium to talk about how the Indy UseR Group coped with the pandemic. They started moving towards online events early, how…
+
+Nothing is harder than starting right as the pandemic hits. Today, R Consortium talks to Joselyn Chávez of R Ladies Cuernavaca about what it was like to establish a chapter…
+
+R-Consortium talked to Dr. Sydeaka Watson of the Dallas, Texas chapter of R-Ladies Global about turning the challenges of the pandemic into opportunities for the group. She shared the initial…
+
+R Consortium talks to Mickaël Canouil about the idea of reproducible teaching tools, cross-platform support, and the use of package building in his community. Mickaël says one of the most…
+
+The next Francophone SatRday Conference will be Saturday, August 6, at 9 am UTC, and will cover Using R for Data Science and Epidemiology. Join experts Ehouman Evans, Marie Ruth…
+
+Many of the local businesses in Africa have no idea of what data can be used for or how it can be used to help their business. R Consortium talks…
+
+R Consortium talks to Colin Gillespie (from Jumping Rivers) about how a relatively small area deals with increasing membership, what companies are doing to make their data science teams more…
+
+R consortium talked to Emily Bellis and Asela Wijeratne, organizers of the A-State R User Group, about their campus R user group. They discussed the struggle of managing a new…
+
+A lot of what we use in the day to day life in the developed world may not always be available to those in the developing world. R Consortium talks…
+
+R Consortium talked to Zhenning (Jimmy) Xu of the Bakersfield Data Analytics and R Users Group about the challenges of engaging members of a small and budding R community. Zhenning…
+
+SAN FRANCISCO, May 2, 2022 – The R Consortium, a Linux Foundation project supporting the R Foundation and worldwide R community, today announced that Pfizer has joined as a Silver…
+
+Announcing R/Medicine 2022! The conference will be fully virtual from August 23 through 26 and feature two days of workshops (included with the low registration fee!) and two days of keynotes featuring…
+
+Sat, April 30, 11am West Africa Time (WAT) Organized by the OSUN R USERS GROUP, Nigeria, and coordinated by Timothy A. OGUNLEYE. Speaker Kevin O'Brien is an active contributor of…
+
+R Consortium recently talked to Francisco Rodriguez-Sanchez of Seville R User Group (also on Twitter) about the growth of the group over the years and the challenges of online events.…
+
+The R Consortium is pleased to announce the new 2022 R User Groups (RUGs), Conferences and Training program. This is an updated version of the RUGS program of previous years…
+
+The first 2022 call for proposals for R Consortium Infrastructure Steering (ISC) grants is now open and will be accepting proposals through May 1, 2022. This year, the R Consortium has…
+
+“A worldwide epidemiological database for COVID-19 at fine-grained spatial resolution” by COVID-19 Data Hub developer, Emanuele Guidotti was published in Scientific Data on the March 28, 2022, and is available…
+
+R Consortium talked to Bolaram Paul of the Sylhet R User Group about the challenges faced by the group because of the pandemic. As a group focused on physical events,…
+
+The R Consortium is happy to announce that the R Submissions Working Group successfully completed the follow-up to the original pilot 1 eCTD submission! All submission materials can be found…
+
+R Consortium recently caught up with Emmanuel Olamijuwon and Nontsikelelo Shongwe, organizers of the Eswatini R Users Group (Twitter: EswatiniUseR). They discussed how the R user base is growing in…
+
+From the rOpenSci Project The rOpenSci project, a developer collective that develops tools and fosters community to enable open science with R, is hiring a new community manager. rOpenSci is…
+
+Recent update by Marly Cormar on the Risk Assessment Shiny App. Marly is an executive committee member of the R Validation Hub where she advocates for the use of R…
+
+R Consortium recently talked with Aurora González Vidal of UMUR Asociación de Usuarios de R Murcia (Also on Twitter). She covered the historic involvement of Murcia in the evolution of…
+
+Anicet Ebou is a PhD student in Bioinformatics at the Institut National Polytechnique Félix HOUPHOUËT-BOIGNY de Yamoussoukro (INP-HB), Ivory Coast. He works as a bioinformatician to design tools and methods…
+
+R Consortium talked to Denisse Fierro Arcos of the R-Ladies Galapagos Chapter (also on Twitter) about the struggles of managing an R-Ladies group during the pandemic. Denisse talked about the…
+
+Tell us about yourself My name is Dattijo Murtala Makama, I am currently working as a Senior Software Engineer at the National Center for Artificial Intelligence and Robotics (NCAIR). I…
+
+Salt Lake City R User Group noticed that their users were missing something during their online meetings. R Consortium talks to Julia Silge about how they planned on mixing online…
+
+The R consortium recently checked in with Vebashini Naidoo, one of the organizers of the R-Ladies Johannesburg. The group started in July 2018 and has so far had 19 physical meetings…
+
+The R Consortium recently reached out to Umar Isah Adam to find out more about the status of the R User Group Kano. Umar is a freelance data analyst who…
+
+Folajimi Aroloye is a data analytics professional and educator. He is the organizer for the Lagos R User Group. He is involved in capacity building. Folajimi started his data science…
+
+Alimi Eyitayo is a Graduate of Computer Engineering and a social engineering professional with over 12 years of experience in the field of information technology. She is an international speaker…
+
+R consortium had a discussion with Asimbongeni Dhlodhlo, one of the key leaders spearheading the ZimR UseRs group in Zimbabwe. He talks on how the COVID-19 pandemic has affected them…
+
+Jonathan Lin of the Calgary R User group (meetup | website) talks to R Consortium about their adaptation into the COVID world and their struggles with the higher production value…
+
+The R consortium spoke with Timothy Ogunleye on adapting to fit the system during the lockdown. We found out how they were able to adjust and move from having so…
+
+R Consortium talked to Raoul Wolf of the Oslo UseR! Group about the wide adoption of R in Norway, both in academia and industry. He explained how the pandemic initially…
+
+The R Consortium is happy to announce that on Nov 22nd, 2021, the R Submissions Working Group successfully submitted an R-based test submission package through the FDA eCTD gateway! The…
+
+The R Consortium’s R Tables for Regulatory Submissions (RTRS) Working Group has made considerable progress in identifying and working through the issues involved with developing a modern R based framework…
+
+The R-Consortium talked to Novica Nakov of R Skopje about the challenges of managing an R User Group during the pandemic. Novica told us about the budding R community in…
+
+By Di Cook, Mitch O'Hara-Wild, H. Sherry Zhang, Stephanie Kobakian, Michael Kane, Catherine Hurley, Simon Urbanek The R Journal is a primary outlet for publishing research of interest to the R community.…
+
+The R consortium talked to Mustafa CAVUS of the Eskisehir R Users Group (also on Twitter) about handling group activities during the pandemic. Mustafa shared that online events during the…
+
+One of the difficult parts of running a group in an online space is maintaining social interactions that you would normally foster with in-person meetups. R Consortium talks to Adnan…
+
+To understand what R Ladies in Santiago is like, R Consortium talked to Riva Quiroga about how they are dealing with organizing and meeting during the pandemic. We also discussed…
+
+By Amanda Hart, Co-organizer of South Coast MA UseR Group 2020 was a year of firsts: first global pandemic in my lifetime, first year working remotely, first year not traveling…
+
+It can be difficult running an R user group in a country where R does not have a large following. R Consortium talked with Francis Mensah, who runs the R…
+
+R consortium talks to Nino Macharashvili of DataFest Tbilisi (also on Facebook) on how they are dealing with life in the COVID age. As they were one of the early…
+
+The largest data journalism conference in Latin America reaches its sixth edition in a row bringing discussions on the climate crisis, access to information, and data protection, in addition to…
+
+Date/Time: Wednesday, November 17, 3pm – 5pm GMT / 7am – 9am PST / 10am – 12 noon EST Register now! In this session we will be looking at various…
+
+R Consortium talks to Harvey Lieberman on their growth both pre and post COVID. They have adapted in a way that promotes R in Pharma as well as allowing them…
+
+During the pandemic, we have seen a lot of growth within the R community. Recently, R Consortium talked to Emilio López Cano, president of R Hispano, about the growth of…
+
+The deadline for submitting proposals is October 31, 2021. The September 2021 ISC Call for Proposals is now open. The R Consortium’s Infrastructure Steering Committee (ISC) solicits progressive, pioneering projects…
+
+Originally posted on Mango Solutions website The Enterprise Applications of the R Language Conference (EARL) is a cross-sector conference focusing on the commercial use of the R programming language. The…
+
+Bilikisu Aderinto, Founder/Organizer of the Abuja R User Group and R-Ladies Abuja, talks about the lack of R User groups in her area, and her desire to start one, leading…
+
+R Consortium talks to LA R Users founder Szilard Pafka about how the community started, how they adapted to the pandemic and how things have evolved in the past fifteen…
+
+Upcoming event: PSI Scientific Meeting: Generating Insights through Modern Applications of Data Visualisation While data visualisation has been used to gain insights into medical data for over 150 years, modern methods including…
+
+By Sergio Garcia Mora R4HR, formerly known as the Club de R para RRHH, is a Latin American based community whose mission is to spread the adoption of R in…
+
+Full video recording available here (58:52 mins) Summary: In this presentation, Andy Nicholls, Head of Data Science within GSK Biostatistics, provided an overview of GSK’s WARP environment for Biostatistics. The presentation described…
+
+R Consortium talks to Laura Swales of the London R User Group on how they are dealing with COVID and changing some of the basics of their meeting. As they…
+
+By Mehar Pratap Singh, CEO and Founder – ProCogia R consortium fulfills a unique need in the growing data science space.  Also, R language resources are critical tools in the data-driven…
+
+R Consortium talks to Yanina Bellini Saibene, Riva Quiroga, and Natalia da Silva on starting up a conference in Latin America, the importance of networking, and some of the difficulties…
+
+R Consortium talks to Daniela Vázquez of R Ladies Montevideo on how they are building community in Latin America and trying to host a conference that people would attend. The…
+
+By Samantha Toet, Derrick Kearney, Sydeaka Watson, Gwynn Sturdevant, Kevin O’Brien, and Joe Rickert  We’re trying something new and we want your support.  One of the goals of the R-Consortium…
+
+Stephan Kadauke, MD, PhD, is an Assistant Professor of Clinical Pathology and Lab Medicine. He runs the Cell and Gene Therapy Lab at the Children’s Hospital of Philadelphia (CHOP) and…
+
+During this Working with Databases in R online presentation, Christopher Maronga shares his years of practical experience in accessing and working with Databases in R. R Consortium assisted by providing…
+
+The R Conference has been able to thrive with the changes that have occurred due to COVID. They also are planning for life post-COVID, with the lessons that they have…
+
+R Consortium talked with Jared Lander about the R Community in the New York Metro area. The R Community's ability to draw upon not only their large metro area as…
+
+R Consortium talked to Bioconductor Asia co-organizer Matt Ritchie about the upcoming conference (BioC Asia 2021), how COVID has affected attendance at the conference, and how they deal with multilingualism…
+
+Authored by: the R-Ladies Philly organizing team Since the start of the COVID-19 pandemic in March 2020, R-Ladies Philly has shifted from local in-person meetups to virtual events. Hundreds of…
+
+R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups around the world organize, share information and support each other. The wealth of…
+
+R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups around the world organize, share information and support each other. The wealth of…
+
+ Kristen Chan, R-Ladies Taipei organizer R Consortium’s R User Group and Small Conference Support Program (RUGS) is made to support R groups around the world by providing grants to help…
+
+R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups around the world organize, share information and support each other. The wealth of…
+
+GSK providing COVID era leadership, helping adoption of R Language as standard tool for pharmaceutical industry SAN FRANCISCO, May 4, 2021 – The R Consortium, a Linux Foundation project supporting…
+
+R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups around the world organize, share information and support each other. The wealth of…
+
+The deadline for submitting proposals is April 19, 2021. The March 2021 ISC Call for Proposals is now open. The R Consortium’s Infrastructure Steering Committee (ISC) solicits progressive, pioneering projects that…
+
+Join us March 18, 9:00 a.m. - 10:30 a.m. PDT. More information! The role of data journalists in the scientific process has traditionally been overlooked. However, the most recent pandemic…
+
+On November 2 - 7, 2020, the 5th edition of the Brazilian Conference on Data Journalism and Digital Methods (CODA.Br) took place with 50 national and international guest speakers and…
+
+On February 7th, 2021, in the very first in the Why R? World Series, Kevin O'Brien of the Why R? Foundation spoke with Nontsikelelo Shongwe, an enthusiastic R user from…
+
+by Emanuele Guidotti & David Ardia, originally published in the Journal of Open Source Software In December 2019 the first cases of pneumonia of unknown etiology were reported in Wuhan…
+
+source: R User Groups on meetup.com - 35 countries • 85 groups • 65,200+ members The R Consortium is excited to announce the 2021 R User Group and Small Conference Support Program (RUGS). We…
+
+Citizen science is a critical engine for creating professional tools that become new standards in epidemic outbreak response. The problem is connecting people on the front lines - “COVID-19 response…
+
+Originally published in the TIBCO Community Blog, by Adam Faskowitz As COVID-19 continues to impact people’s lives, we are interested in predicting case trends of the near future. Trying to…
+
+Originally published in the TIBCO Community Blog, by Adam Faskowitz R0, the basic reproduction number, and Rt, the time-varying reproduction number, are quantities used when trying to understand the reproduction…
+
+Originally published in the TIBCO Community Blog, by Adam Faskowitz TIBCO Spotfire is a unique platform that combines advanced visualization and data science techniques. The culmination of its capabilities can…
+
+The R Consortium’s COVID-19 Working Group is providing a new home for the COVID-19 Data Hub Project. The goal of the COVID-19 Data Hub is to provide the worldwide research…
+
+Thurs, December 10th, 9am PDT/12pm EDT/18:00 CEST – Register now! Hosted by the COVID-19 Data Forum/Stanford Data Science Initiative/R Consortium Join the R Consortium and learn about mobility data in…
+
+This November 2nd-7th, 2020, the 5th edition of the Brazilian Conference on Data Journalism and Digital Methods (Coda.Br) will be taking place with 50 national and international guest speakers and…
+
+The R/Pharma virtual conference this year was held October 13-15th, 2020. R/Pharma focuses on the use of R in the development of pharmaceuticals, covering topics from reproducible research to drug…
+
+The deadline for submitting proposals is midnight, October 1st, 2020. The September 2020 ISC Call for Proposals is now open. The R Consortium’s Infrastructure Steering Committee (ISC) solicits progressive, pioneering projects…
+
+Originally posted on the R Hub blog JS and R, what a clickbait! Come for JS, stay for our posts about Solaris and WinBuilder. 😉 No matter how strongly you believe in JavaScript…
+
+The second COVID-19 Data Forum, co-sponsored by the Stanford Data Science Institute and the R Consortium, was held August 13, 2020. This series of forums brings together experts working to…
+
+This fall, the R Consortium's support for advancing data science in medicine continues with the third of three exceptional events, pulling together experts in their fields, including the Covid-19 Data Forum,…
+
+August 27-29, 5:30am PDT / 8:30am EDT / 2:30pm CEST – Register now! Brought to you by the Children’s Hospital of Philadelphia, Yale School of Public Health, and the R…
+
+Thurs, August 13th, 9am PDT/12pm EDT/18:00 CEST - Register now! Hosted by the COVID-19 Data Forum/Stanford Data Science Initiative/R ConsortiumCOVID-19 is the first pandemic to occur in the age of…
+
+This useR!2020 session and video was organized by Laura Acion, Yanina Bellini Saibene, Paola Corrales, and Paloma Rojas Saunero. Leonardo Collado Torres coordinated the blog post submission. On June 19th, 2020,…
+
+R Consortium interview with Dr. Heather Turner, Chair of Forwards, the R Foundation taskforce for underrepresented groups in the R Community In January, R Consortium posted about a crowd-funding campaign…
+
+Originally posted on the R Hub blog This post was contributed by Peter Li. Thank you, Peter! packageRank is an R package that helps put package download counts into context. It does…
+
+Bringing the R community together against COVID-19 Originally posted on the R Epidemics Consortium blog We are proud to announce that the R Consortium has awarded RECON a grant for $23,300 to…
+
+The first COVID-19 Data Forum, co-sponsored by the Stanford Data Science Institute and the R Consortium, was held May 14, 2020. The forum used Zoom as a way to connect…
+
+The Stanford Data Science Institute, which aims to give Stanford faculty and students the tools, skills and understanding they need to do cutting-edge research, is joining with the R Consortium…
+
+The R Consortium helps provide all sorts of resources to projects, companies, and events to help build R infrastructure and expand the R community. We have given out grants over…
+
+By Rachael Dempsey, Senior Enterprise Advocate at RStudio / Greater Boston useR Organizer Last month, the Boston useR Group held our very first virtual meetup and opened this up to…
+
+Esri, international supplier of geographic information system software, web GIS and geodatabase management applications, is providing a comprehensive set of resources for researchers and others mapping the spread of the…
+
+By Leonardo Collado Torres, Ph. D., Research Scientist, Lieber Institute for Brain Development, Brain genomics #rstats coder working w/ @andrewejaffe @LieberInstitute. @lcgunam @jhubiostat @jtleek alumni. @LIBDrstats @CDSBMexico co-founder I have…
+
+The March 2020 ISC Call for Proposals is now open. Once again, we are looking for ambitious projects that will contribute to the infrastructure of the R ecosystem and benefit…
+
+Services include R consulting, development, and training; contributes to multiple R open source projects including golem, framework for building robust Shiny apps SAN FRANCISCO, March 3, 2020 – The R…
+
+By Benaiah Ubah, Claudia Vitolo and Rick Pack Introduction Google Summer of Code (GSoC) is an annual 3-month open-source software development (coding) program that provides a platform for mentors and…
+
+By Heather Turner, Chair of Forwards, the R Foundation taskforce for underrepresented groups in the R Community In this post I will give the background to the Forwards Southern Africa…
+
+Two membership levels now available: Platinum and Silver SAN FRANCISCO, January 29, 2020 – The R Consortium, a Linux Foundation project supporting the R Foundation and R community, today announced…
+
+By Aurora González-Vidal (president) and Antonio Maurandi (vice-president), Users Murcia R (UMUR) UMUR (Users Murcia R) is an association whose first official act was the organization of the X National Spanish meeting…
+
+Thank you to Carlos Ortega, Principal Data Scientist, Teradata, for providing this summary and pictures from the conference The XI Conference of R Users (XI Jornadas de Usuarios de R),…
+
+Congratulations to our very own Hadley Wickham, Infrastructure Steering Committee Chairperson, for winning the “Nobel Prize of Statistics.” The award is given to a person under the age of 41,…
+
+by Benaiah Ubah R is a fast-growing language for statistical computing and graphics backed by a powerfully inclusive community of users and developers. The R community received a significant boost…
+
+Strengthen the R community with Your Project The R Consortium is committed to supporting the R community by funding projects that create important infrastructure and fortify long term stability for…
+
+By Ben Ubah, Claudia Vitolo and Rick Pack We recently announced an R-Ladies focused open-source dynamic dashboard built using R and Javascript. That work has now been extended to encompass…
+
+The R Consortium is posting new blog guidelines to help facilitate posts from members, ISC grants recipients and the community at large. Please review and send in your ideas! R…
+
+Fall Grant Application Cycle Starts September 2019 SAN FRANCISCO, August 28, 2019 – The R Consortium, a Linux Foundation project supporting the R Foundation and R community, today announced a…
+
+The R Consortium actively supports new projects to help R development both technically and organizationally. Improving R infrastructure and building for long term stability are key goals of the R…
+
+by Ben Ubah, Claudia Vitolo and Rick Pack Introduction One of the most important qualities of the R Language is its thriving community. The R community has a reputation for…
+
+Refactoring and updating the SWIG R moduleRichard BeareThis project is complete. See the project page for a summary. stars: Scalable, spatiotemporal tidy arrays for REdzer PebesmaThe stars package currently averaging…
+
+The R Consortium is committed to the R Community. We support R projects, meetups and events, via grants and sponsorships. Over the last four years, the R Consortium has given…
+
+by Ari Lamstein Ari Lamstein is an independent consultant and organizer of the Census Working Group. The US Census Bureau recently launched Census Academy, an online platform focused on training the…
+
+[![](https://www.r-consortium.org/wp-content/uploads/sites/13/2019/03/CII-passing-lg.jpg)](https://www.r-consortium.org/blog/2019/03/27/cii-best-practices-r-package-leaderboard)
+
+Since my last post on the Core Infrastructure Initiative CII Best Practices Badge for R Packages – responding to concerns, there have been many R language projects started – and…
+
+[![](https://www.r-consortium.org/wp-content/uploads/sites/13/2019/03/LicensePlates-sm.jpg)](https://www.r-consortium.org/blog/2019/03/25/package-licensing-and-enterprise-use)
+
+For enterprise users of R, licensing terms of open source software can occupy a significant share of Legal and Corporate Architecture departments time. In Should R Consortium Recommend CII Best…
+
+We are excited to announce a wide and diverse group of new R Consortium funded projects. If you are interested in finding out more about these projects, connect with the…
+
+SAN FRANCISCO, March 07, 2019 - The R Consortium, a Linux Foundation project supporting the R community, today welcomed Genentech as a Gold member.  Genentech is the first company in…
+
+The March 2019 ISC Call for Proposals is now open. Once again, we are looking for ambitious projects that will contribute to the infrastructure of the R ecosystem and benefit…
+
+The R Consortium's 2019 R User Group and Small Conference Support program which provides cash grants to R focused user groups, and small R-themed conferences is now accepting applications for…
+
+In the past few years, we have seen an increase in the demand for R – both from employers looking for skilled R-users and professionals looking to further improve their…
+
+R Consortium announced four months ago the formation of the R Community Diversity and Inclusion Working Group (RCDI-WG), a focal point to address diversity and inclusion issues in the R community. It's…
+
+In an effort to provide greater transparency with respect to R Consortium activities, the ISC provides quarterly updates for all R Consortium funded projects. The following is our update for Q3…
+
+by Joseph Rickert The second and final ISC Call for Proposals for 2018 is now open. We are looking for ambitious projects that will contribute to the infrastructure of the…
+
+Our last post Should R Consortium Recommend CII Best Practices Badge for R Packages: Latest Survey Results summarized results from the CII Best Practices survey conducted this summer. A goal…
+
+In an effort to provide greater transparency with respect to R Consortium activities, the ISC provides quarterly updates for all R Consortium funded projects. The following is our update for Q2…
+
+Based on our Fall 2017 survey, where the R Consortium asked about opportunities, concerns, and issues facing the R community, the R Consortium conducted a new survey this past month…
+
+The first annual R/Medicine conference is being held September 7-8 in New Haven, CT, and is a collaboration between R Consortium and the Yale School of Public Health Biostatistics Department.…
+
+End of August here in North America means summer is winding down, kids are headed back to school, and the annual Open Source Summit hosted by the Linux Foundation is…
+
+With over 12,000 R packages on CRAN alone, the choice of which package to use for a given task is challenging. While summary descriptions, documentation, download counts and word-of-mouth may…
+
+An explicit goal of the R Consortium is to help create a welcoming space for everyone, no matter their race, ethnicity, gender, gender identity and expression, socio-economic status, nationality, citizenship,…
+
+The R Consortium supports the R Community through investments in sustainable infrastructure, community programs and collaborative projects. Through the The Funded Project Program, now in it's fourth year, the R…
+
+R-Hub, which was originally conceived as a useful tool for R package developers to build and test R packages on a variety of platforms, was the first project funded by the R…
+
+In an effort to provide greater transparency with respect to R Consortium activities, the ISC is initiating process to provide quarterly updates for all R Consortium funded projects. The following…
+
+Editor's Note: This post comes from Mark Hornick, who leads the Code Coverage WG and serves on the Board of Directors.  In the Fall of 2017, the R Consortium surveyed the…
+
+In 2016, R-Ladies started their effort for a global expansion, with the help from the R-Consortium. Back then there were only 4 active chapters (San Francisco, Taipei, Twin Cities  and…
+
+The R Consortium ISC is pleased to announce that the projects listed below were funded under the 2017 edition of the ISC Funded Projects program. This program, which provides financial…
+
+by Joseph Rickert The first ISC Call for Proposals for 2018 is now open. We are looking for ambitious projects that will contribute to the infrastructure of the R ecosystem…
+
+In just one year, the R Consortium through the R User Group Support program sponsored 76 R user groups and 3 small conferences with cash grants totaling just under $30,000.…
+
+The R Consortium was happy to be a sponsor rOpenSci's ozunconf last October in Melbourne. You can read about the "unconference" on rOpenSci's blog and follow some of the projects begun at the event here.…
+
+Per the R Consortium ByLaws and ISC Charter, the Silver Member class is entitled to elect individuals representative of the Silver Member class for a term starting January 1, 2018…
+
+Editor's Note: This post comes from Nicoleta Caragea, uRos2017 conference organizer. uRos2017 is a conference held in November 2017  for collaboration around the use of R in Romania.  Through the RUGS program, R…
+
+by Joseph Rickert The ISC has determined that an error in the ISC proposal submission process has caused us to lose some, but not all proposals. If you submitted a…
+
+by Joseph Rickert and Hadley Wickham The second and final ISC Call for Proposals for 2017 is now open. In this round, with the intention of spreading the available funds…
+
+by Joseph Rickert and Hadley Wickham Help us keep the conversation going: Take the R Consortium's Survey. Let us know: What are you thinking? What do you make of the…
+
+by Mark Hornick, Code Coverage Working Group Leader The “Code Coverage Tool for R” project, proposed by Oracle and approved by the R Consortium Infrastructure Steering Committee, started just over…
+
+by Kirill Müller The “Improving DBI” project, funded by the R consortium and started about a year ago includes the definition and implementation of a testable specification for DBI and…
+
+by Hadley Wickham and Joseph Rickert The Infrastructure Steering Committee (ISC) was very pleased with both the quantity and quality of proposals received during the recent round of funding which…
+
+Join us for a webinar on Jan 31, 2017 at 9:30 AM PST. Hear about R Consortium activities by watching the first ISC Project Status Webinar held on Tuesday, January 31st at 9:30AM PST (5:30PM…
+
+Grant is a part of the Moore Foundation’s Data-Driven Discovery Initiative to support data scientists SAN FRANCISCO – – The R Consortium, an open source foundation supporting the R user…
+
+by Edzer Pebesma Support for handling and analyzing spatial data in R goes back a long way. In 2003, a group of package developers sat together and decided to adopt…
+
+by Hadley Wickham The infrastructure Steering Committee (ISC) is pleased to announce that the committee is now ready to accept proposals for the first round of funding in 2017. The ISC…
+
+by Kirill Müller In early 2016 the R Consortium partially accepted my "Improving DBI" proposal. An important part is the design and implementation of a testable DBI specification. Initially I…
+
+by Richard Cotton and Thomas Leeper R is gradually taking over the world (of data analysis).  However, proficiency in English remains a prerequisite for effectively working with R.  While R…
+
+The R Consortium is very happy to announce RC RUGS, the R Consortium R User Group Support Program. We believe that user groups are a great strength of the R…
+
+Join us,  November 9-10 at the Watson Developer Conference (R Consortium is co-sponsoring the event), at the Innovation Hangar in SanFrancisco, CA, for an opportunity to learn about the latest Watson technologies.  Also meet some of the…
+
+R Hub - Public Beta Oct 25, 2016 9:00 AM - 10:00 AM PDT R-HUB, the most significant project that the R Consortium has funded to date, is making progress.…
+
+In another sign of R's push into the enterprise, leading GIS vendor Esri has joined the R Consortium, adding to a roster of tech companies that includes Microsoft, IBM, Oracle…
+
+by Gergely Daroczi, organizer Almost 200 people from 19 countries registered for the first satRday conference which was held last Saturday, September 3rd, in Budapest. The final count showed that…
+
+by Joseph Rickert and Hadley Wickham The Infrastructure Steering Committee (ISC) has approved funding for three of the thirteen proposed projects received during the most recent round of contributed proposals…
+
+There are thousands of programming languages, but some of them are far more popular than others. READ MORE
+
+Interest in the R statistics language is soaring, especially for data analysis. Get to know this hot programming option in our beginner's guide. READ MORE
+
+Signals commitment to open source to help improve data analysis and address growing demands of big data SAN FRANCISCO (Spark Summit) June 6, 2016 – The R Consortium, an open…
+
+The r-hub builder is the first major project of the R consortium. It is an R package build and continuous integration service, open to all members of the R community.…
+
+With terabytes of data at hand, every business is trying to figure out the best way to understand information about their customers and themselves. READ MORE
+
+The R Consortium, which is an independent open source foundation that supports the R community and a Linux Foundation project, announced this morning that it is funding seven community projects…
+
+ R Consortium awards seven grant recipients and forms two working groups to advance R programming language SAN FRANCISCO – March 23, 2016 – The R Consortium, an open source foundation…
+
+2016 is already shaping up to be another banner year for the R Project. The project is as active as ever, with the new R 3.2.4 just released (and R…
+
+SAN FRANCISCO and BOSTON (EARL Conference), November 2, 2015 – The R Consortium, a Linux Foundation Collaborative Project and open source foundation to support the R user community, today announced…
+
+R-Hub is the first project backed by the Infrastructure Steering Committee; more grant money now available. READ MORE
+
+The R Consortium and the Linux Foundation will fund a new open source developer hub for the R programming language called R-Hub, which complements CRAN and R-Forge. READ MORE.
+
+R-Hub, a developing, building, testing and R packages validation service, is the recipient of the first ever R Consortium grant. READ MORE
+
+The R Consortium has announced its first grant will go to a new service designed for developing, building, testing and validating R packages. READ MORE.
+
+by Joseph Rickert This week, the Infrastructure Steering Committee (ISC) of the R Consortium unanimously elected Hadley Wickham as its chair thereby also giving Hadley a seat on the R…
+
+The R Consortium was formed to serve the interests of the R user community, and to that end the members of the R Consortium would like to share some best…
+
+Since the announcement of the R Consortium on June 30, the members of the Consortium have begun the mission of supporting the R project and the vast community of R…
+
+Data scientists from industry and academic research will work together to advance world’s most popular language for analytics and data science and support the rapid growth of the R user…
+
+The nonprofit Linux Foundation today announced a new initiative called the R Consortium, a new group to unite the users of the open-source R programming language, which is widely used among data…
+
+As more data scientists and researchers embrace the R programming language and statistical computing environment, the Linux Foundation has moved to strengthen the user community and, with it, the development…
+
+As foreshadowed on Twitter yesterday, a new R Consortium of major vendors launched today aimed at "strengthen both the technical and user communities," according to a Linux Foundation announcement. READ MORE
+
+In case you missed the news last week, the R Consortium was announced. This new non-profit trade group will work with the R Foundation to support the R Community and the…
