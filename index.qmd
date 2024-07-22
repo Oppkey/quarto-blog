@@ -17,10 +17,16 @@ page-layout: full
 </section>
 
 <section class="what-is-r-section">
+  <div style="display: flex; flex-wrap: wrap">
+  <div style="flex: 1; min-width: 300px; padding: 10px;">
   <h2>WHAT IS THE R CONSORTIUM</h2>
   <p>The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects.</p>
-  <p>The R language is an open source environment for statistical computing and graphics, and runs on a wide variety of computing platforms. The R language has enjoyed significant growth, and now supports over 2 million users. A broad range of industries have adopted the R language, including biotech, finance, research and high technology industries. The R language is often integrated into third party analysis, visualization and reporting applications.
-</p>
+  <p>The R language is an open source environment for statistical computing and graphics, and runs on a wide variety of computing platforms. The R language has enjoyed significant growth, and now supports over 2 million users. A broad range of industries have adopted the R language, including biotech, finance, research and high technology industries. The R language is often integrated into third party analysis, visualization and reporting applications.</p>
+  </div>
+  <div style="flex: 1; min-width: 300px; padding: 20px; border">
+  <iframe style="width: 100%; height: 100%; border-radius: 15px; overflow: hidden;"  src="https://www.youtube.com/embed/XcBLEVknqvY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div>
+  </div>
 <button class="dark-button"><a href="about/about.qmd" style="text-decoration: none;">LEARN MORE</a></button>
 <button class="dark-button"><a href="docs/RC-AR-2023_Final-Draft_1-30-24.pdf" style="text-decoration: none;">READ OUR ANNUAL REPORT 2023</a></button>
 
