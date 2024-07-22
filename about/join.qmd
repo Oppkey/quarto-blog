@@ -23,48 +23,6 @@ The R Consortium is the mechanism for corporate entities and other organizations
 -   Enables better identification and recruitment of data scientists working in R.
 -   Convenes thought leadership events, summits, and panels among subject matter experts to discuss technology, standards, specifications, best practices, and collaboration
 
-```{r}
-#| echo: false
-#| warning: false
-#| message: false
-
-# Load necessary libraries
-library(dplyr)
-library(gt)
-
-# Create the data frame
-membership_benefits <- tibble(
-  Benefit = c(
-    "One seat on the Board of Directors with full voting rights",
-    "One seat on the ISC with full voting rights",
-    "Elect Silver representatives to the Board and ISC",
-    "Company logo on R Consortium website and collateral",
-    "R Consortium logo on company website",
-    "Membership dues (annually)"
-  ),
-  Platinum = c("X", "X", "", "X", "X", "US$100,000"),
-  Silver = c("", "", "X", "X", "X", "100+ FTE US $25,000<br><100 FTE / non-profits, universities US $10,000")
-)
-
-# Create the gt table
-membership_benefits |>
-  gt() |>
-  tab_header(title = md("**Benefits by Member Class**")) |>
-  cols_label(
-    Benefit = "Benefits by member class",
-    Platinum = "Platinum",
-    Silver = "Silver"
-  ) |>
-  cols_align(
-    align = "center", 
-    columns = vars(Platinum, Silver)
-  ) |>
-  tab_options(
-    heading.background.color = "lightblue",
-    column_labels.background.color = "gray85"
-  )
-
-```
 
 <table><tbody><tr><td><h5><strong>Benefits by member class</strong></h5></td><td><h5><strong>Platinum</strong></h5></td><td><h5><strong>Silver</strong></h5></td><td></td></tr><tr><td><span>One seat on the Board of Directors with full voting rights</span></td><td><pre><span>X</span></pre></td><td></td><td></td></tr><tr><td><span>One seat on the ISC with full voting rights &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td><pre><span>X</span></pre></td><td></td><td></td></tr><tr><td><span>Elect Silver representatives to the Board and ISC ( 1 Board seat per 3 Silver members, 1 ISC seat for all Silver members )</span></td><td></td><td><pre><span>X</span></pre></td><td></td></tr><tr><td><span>Company logo on R Consortium website and collateral</span></td><td><pre><span>X</span></pre></td><td><pre><span>X</span></pre></td><td></td></tr><tr><td><span>R Consortium logo on company website</span></td><td><pre><span>X</span></pre></td><td><pre><span>X</span></pre></td><td></td></tr><tr><td><span>Membership dues ( annually )</span></td><td><p><span>US$100,000</span></p></td><td><p><span>100+ FTE US $25,000</span></p><p><span>&lt;100 FTE / non-profits, universities US $10,000</span></p></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
 
@@ -84,3 +42,63 @@ membership_benefits |>
 4. Begin participating in Events, Discussions, Projects and working Groups.
 
 If you have questions about membership or joining the R Consortium, please contact our [member support desk](https://members.r-consortium.org/) and you will be contacted as soon as possible. Thank you.
+
+```{r, day1}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(lubridate)
+library(gt)
+# For every day of the conference, have data laid out in this way
+schedule_day_1 <-
+  dplyr::tribble(
+    ~start_time, ~end_time, ~t_number, ~t_type, ~t_title, ~t_speakers, ~t_speaker_titles, ~t_companies,
+    "2024-06-10 11:00", "2024-06-10 14:00", "1A", "Workshop", "Causal Inference in R", "Travis Gerke", "Director of Data Science", "Prostate Cancer Clinical Trials Consortium",
+    "2024-06-10 11:00", "2024-06-10 14:00", "1B", "Workshop", "Promover la Equidad Científica: Una Introducción al uso de R para la programación en Bioestadística y Ciencia de Datos, en Español", "Catalina Canizares-Escobar, Francisco Cardozo", "Study Coordinator, PhD student", "Florida International University",
+    "2024-06-10 14:00", "2024-06-10 14:30",  NA, "Break", NA, NA, NA, NA,
+    "2024-06-10 14:30", "2024-06-10 17:30", "2A", "Workshop", "Google BigQuery: First Steps in R", "Joy Payton", "Data Scientist", "CHOP",
+    "2024-06-10 14:30", "2024-06-10 17:30", "2B", "Workshop", "Project Oriented Workflows", "Shannon Pileggi", "Data Scientist", "Prostate Cancer Clinical Trials Consortium",
+    "2024-06-10 17:30", "2024-06-10 20:30", "3A", "Workshop", "Tidy time series analysis and forecasting", "Mitchell O'Hara-Wild", "Data Scientist", "Nectric"
+  ) |>
+  dplyr::mutate(duration = time_length(ymd_hm(end_time) - ymd_hm(start_time), unit = "mins"))
+```
+
+```{r}
+
+# Create a table for the day of events
+gt(schedule_day_1) |>
+  tab_header(title = md("<br>Workshop Day 1<br>Monday, June 10, 2024.<br>All Times EST<br><br>")) |> # <- insert the date
+  fmt_time(columns = c(start_time, end_time), time_style = "h_m_p") |>
+  fmt_duration(
+    columns = duration,
+    input_units = "minutes",
+    output_units = c("hours", "minutes")
+  ) |>
+  cols_move(columns = duration, after = end_time) |>
+  cols_merge(
+    columns = c(t_number, t_type, t_title, t_speakers, t_speaker_titles, t_companies),
+    pattern = md("<<{1} - >>{2}<br><< {3}<br>{4}<br>{5}, {6}>>")
+  ) |>
+  cols_label(
+    start_time ~ "Start Time",
+    end_time ~ "End Time",
+    duration ~ "Duration",
+    t_number ~ ""
+  ) |>
+  cols_align(align = "center") |>
+  cols_width(
+    c(start_time, end_time, duration) ~ px(90),
+    everything() ~ px(600)
+  ) |>
+  opt_align_table_header(align = "left") |>
+  tab_options(
+    heading.background.color = "lightblue",
+    column_labels.background.color = "gray85"
+  ) |>
+  tab_style(
+    locations = cells_body(rows = t_type == "Break"),
+    style = cell_fill(color = "bisque")
+  )
+
+```
