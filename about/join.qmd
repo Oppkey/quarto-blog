@@ -21,7 +21,7 @@ The R Consortium is the mechanism for corporate entities and other organizations
 -   Funds open-source community-driven projects that widely impact the R Community
 -   Provides opportunities to form working relationships that transcend company affiliations.
 -   Enables better identification and recruitment of data scientists working in R.
--   Convenes thought leadership events, summits, and panels among subject matter experts to discuss technology, standards, specifications, best practices, and collaboration 
+-   Convenes thought leadership events, summits, and panels among subject matter experts to discuss technology, standards, specifications, best practices, and collaboration
 
 ```{r}
 #| echo: false
@@ -33,15 +33,17 @@ library(dplyr)
 library(gt)
 
 # Create the data frame
-membership_benefits <- dplyr::tribble(
-  ~Benefit, ~Platinum, ~Silver,
-  "One seat on the Board of Directors with full voting rights", "X", "",
-  "One seat on the ISC with full voting rights", "X", "",
-  "Elect Silver representatives to the Board and ISC", "", "X",
-  "Company logo on R Consortium website and collateral", "X", "X",
-  "R Consortium logo on company website", "X", "X",
-  "Membership dues (annually)", "US$100,000", "100+ FTE US $25,000 
-  <100 FTE / non-profits, universities US $10,000"
+membership_benefits <- tibble(
+  Benefit = c(
+    "One seat on the Board of Directors with full voting rights",
+    "One seat on the ISC with full voting rights",
+    "Elect Silver representatives to the Board and ISC",
+    "Company logo on R Consortium website and collateral",
+    "R Consortium logo on company website",
+    "Membership dues (annually)"
+  ),
+  Platinum = c("X", "X", "", "X", "X", "US$100,000"),
+  Silver = c("", "", "X", "X", "X", "100+ FTE US $25,000<br><100 FTE / non-profits, universities US $10,000")
 )
 
 # Create the gt table
@@ -53,11 +55,15 @@ membership_benefits |>
     Platinum = "Platinum",
     Silver = "Silver"
   ) |>
-  cols_align(align = "center", columns = vars(Platinum, Silver)) |>
+  cols_align(
+    align = "center", 
+    columns = vars(Platinum, Silver)
+  ) |>
   tab_options(
     heading.background.color = "lightblue",
     column_labels.background.color = "gray85"
   )
+
 ```
 
 <table><tbody><tr><td><h5><strong>Benefits by member class</strong></h5></td><td><h5><strong>Platinum</strong></h5></td><td><h5><strong>Silver</strong></h5></td><td></td></tr><tr><td><span>One seat on the Board of Directors with full voting rights</span></td><td><pre><span>X</span></pre></td><td></td><td></td></tr><tr><td><span>One seat on the ISC with full voting rights &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></td><td><pre><span>X</span></pre></td><td></td><td></td></tr><tr><td><span>Elect Silver representatives to the Board and ISC ( 1 Board seat per 3 Silver members, 1 ISC seat for all Silver members )</span></td><td></td><td><pre><span>X</span></pre></td><td></td></tr><tr><td><span>Company logo on R Consortium website and collateral</span></td><td><pre><span>X</span></pre></td><td><pre><span>X</span></pre></td><td></td></tr><tr><td><span>R Consortium logo on company website</span></td><td><pre><span>X</span></pre></td><td><pre><span>X</span></pre></td><td></td></tr><tr><td><span>Membership dues ( annually )</span></td><td><p><span>US$100,000</span></p></td><td><p><span>100+ FTE US $25,000</span></p><p><span>&lt;100 FTE / non-profits, universities US $10,000</span></p></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
