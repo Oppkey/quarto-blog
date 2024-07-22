@@ -13,10 +13,10 @@ website:
     right:
       - text: "Members"
         menu:
-          - text: Members
-            href:  members.qmd
+          - text: "Members"
+            href: members.qmd
           - text: Join
-            href:  about/join.qmd
+            href: about/join.qmd
           - text: Membership Agreement
             href:  https://www.r-consortium.org/wp-content/uploads/sites/13/2019/11/R-Consortium-Membership-Agreement-1157181-v2-Approved-11.20.19.pdf
 

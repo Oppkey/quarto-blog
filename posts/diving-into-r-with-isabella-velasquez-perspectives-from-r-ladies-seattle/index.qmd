@@ -103,4 +103,4 @@ Recently, I worked on creating a custom template in [Quarto](https://quarto.org/
 R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups organize, share information, and support each other worldwide. We have given grants over the past four years, encompassing over 68,000 members in 33 countries. We would like to include you! Cash grants and meetup.com accounts are awarded based on the intended use of the funds and the amount of money available to distribute.
 
 
-[Learn more](https://www.r-consortium.org/all-projects/r-user-group-support-program)
+[Learn more](../../all-projects/rugsprogram.qmd)
