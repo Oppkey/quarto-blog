@@ -43,7 +43,7 @@ The R Consortium is the mechanism for corporate entities and other organizations
 
 If you have questions about membership or joining the R Consortium, please contact our [member support desk](https://members.r-consortium.org/) and you will be contacted as soon as possible. Thank you.
 
-```{r, day1}
+```{.r}
 #| echo: false
 #| warning: false
 #| message: false
