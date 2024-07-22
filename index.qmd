@@ -25,7 +25,7 @@ format: html
   </div>
   <div style="flex: 1; min-width: 300px; padding: 20px; border; display: flex; justify-content: flex-end; align-items: end;">
   <a class="video-popup" href="https://www.youtube.com/watch?v=XcBLEVknqvY" target="blank">
-  <img src="https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/rcon_video_preview.png" alt="Video Preview" style="width: 70%; height: auto; cursor: pointer;">
+  <img src="https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/rcon_video_preview.png" alt="Video Preview" style="width: 70%; height: auto; cursor: pointer; margin-left: 30%">
   </a>
   </div>
   </div>
