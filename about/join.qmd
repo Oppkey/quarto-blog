@@ -21,7 +21,7 @@ The R Consortium is the mechanism for corporate entities and other organizations
 -   Funds open-source community-driven projects that widely impact the R Community
 -   Provides opportunities to form working relationships that transcend company affiliations.
 -   Enables better identification and recruitment of data scientists working in R.
--   Convenes thought leadership events, summits, and panels among subject matter experts to discuss technology, standards, specifications, best practices, and collaboration
+-   Convenes thought leadership events, summits, and panels among subject matter experts to discuss technology, standards, specifications, best practices, and collaboration 
 
 ```{r}
 #| echo: false
