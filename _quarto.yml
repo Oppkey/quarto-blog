@@ -90,7 +90,7 @@ format:
        - cosmo.scss
     css: styles.css
 execute:
-  freeze: false
+  freeze: auto
 
 editor:
   render-on-save: true
