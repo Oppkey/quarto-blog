@@ -240,4 +240,15 @@ td {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+    vertical-align: middle !important;
 } 
+
+
+/* Element | http://localhost:4237/about/join.html */
+
+#platinum > a:nth-child(2) {
+    /* display: table-row-group; */
+    /* display: table-cell; */
+    display: none;
+  }
+  
