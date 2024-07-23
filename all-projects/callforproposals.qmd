@@ -37,7 +37,7 @@ While all projects are considered, the ISC generally does not accept projects th
 
 Please provide a 2 to 5 page proposal that describes the problem you want to solve. We expect submissions to include these components:
 
-1. **The Problem:** What problem do you want to solve? Why is it a problem? Who does it affect? What will solving the problem enable? This section should include a brief summary of existing work, such as R packages that may be relevant. If you are proposing a change to R itself, you must include a letter of support from a member of [R Core](../contributors.html).
+1. **The Problem:** What problem do you want to solve? Why is it a problem? Who does it affect? What will solving the problem enable? This section should include a brief summary of existing work, such as R packages that may be relevant. If you are proposing a change to R itself, you must include a letter of support from a member of [R Core](https://www.r-project.org/contributors.html).
 
 2. **The Plan:** How are you going to solve the problem? Include the concrete actions you will take and an estimated timeline. What are likely failure modes and how will you recover from them?
 
