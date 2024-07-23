@@ -4,40 +4,40 @@ A major goal of the R Consortium is to strengthen and improve the infrastructure
 
 Technical Infrastructure projects that have be funded include:
 
-- [R-hub](#), a centralized tool for checking R packages
-- [Testing DBI](#) and improving key open source database backends.
-- Improvements in packages such as [mapview](#) and [sf](#)
+- [R-hub](https://r-hub.github.io/rhub/index.html), a centralized tool for checking R packages
+- [Testing DBI](https://github.com/rstats-db/DBItest) and improving key open source database backends.
+- Improvements in packages such as [mapview](https://github.com/r-spatial/mapview) and [sf](https://github.com/r-spatial/sf)
 - Improving Translations in R
 - Ongoing infrastructural development for R on Windows and macOS
 
 Social Infrastructure projects include:
 
-- [SatRDays](#), bootstrapping a system for local R conferences.
+- [SatRDays](http://satrdays.org/), bootstrapping a system for local R conferences.
 - Data-Driven Discovery and Tracking of R Consortium Activities
 
-The [Infrastructure Steering Committee (ISC)](#) projects should have a focus on technical infrastructure or involve software development to support social infrastructure. Conferences, training sessions, and user groups will be funded through the [RUGS program](#).
+The [Infrastructure Steering Committee (ISC)](https://www.r-consortium.org/about/governance) projects should have a focus on technical infrastructure or involve software development to support social infrastructure. Conferences, training sessions, and user groups will be funded through the [RUGS program](https://www.r-consortium.org/all-projects/r-user-group-support-program).
 
-To apply for an ISC grant please continue with the instructions below. To seek funding for a conference, training session or user group please apply through the [RUGS program page](#).
+To apply for an ISC grant please continue with the instructions below. To seek funding for a conference, training session or user group please apply through the [RUGS program page](https://www.r-consortium.org/all-projects/r-user-group-support-program).
 
 ## Projects the ISC Funds
 
 The ISC is interested in projects that:
 
 - Are likely to have a broad impact on the R community.
-- Have a focused scope (a good example is the [Simple Features for R project](#)). If you have a larger project, consider breaking it up into smaller chunks (a good example of this done is with the [DBI/DBItest project](#) submission, where multiple proposals came in over time to address the various needs).
+- Have a focused scope (a good example is the [Simple Features for R project](https://github.com/r-spatial/sf)). If you have a larger project, consider breaking it up into smaller chunks (a good example of this done is with the [DBI/DBItest project](http://dbi.r-dbi.org/) submission, where multiple proposals came in over time to address the various needs).
 - Have a low-to-medium risk with a low-to-medium reward. The ISC tends not fund high-risk, high-reward projects.
 
 While all projects are considered, the ISC generally does not accept projects that:
 
 - Impact only a small part of the R community
 - Request conference, workshop, or meetup sponsorship. For these, you should look at our user group program or connect with the marketing committee for larger events.
-- Are very exploratory. These are better to be pursued through the [working group program](#).
+- Are very exploratory. These are better to be pursued through the [working group program](https://www.r-consortium.org/all-projects/isc-working-groups).
 
 ## Submitting a Proposal
 
 Please provide a 2 to 5 page proposal that describes the problem you want to solve. We expect submissions to include these components:
 
-1. **The Problem:** What problem do you want to solve? Why is it a problem? Who does it affect? What will solving the problem enable? This section should include a brief summary of existing work, such as R packages that may be relevant. If you are proposing a change to R itself, you must include a letter of support from a member of [R Core](#).
+1. **The Problem:** What problem do you want to solve? Why is it a problem? Who does it affect? What will solving the problem enable? This section should include a brief summary of existing work, such as R packages that may be relevant. If you are proposing a change to R itself, you must include a letter of support from a member of [R Core](https://www.r-project.org/contributors.html).
 
 2. **The Plan:** How are you going to solve the problem? Include the concrete actions you will take and an estimated timeline. What are likely failure modes and how will you recover from them?
 
@@ -51,7 +51,7 @@ Please provide a 2 to 5 page proposal that describes the problem you want to sol
 
 The ISC has a limited grant budget, and we want to ensure that funded projects deliver the maximum benefit to the community. Successful proposals show well-defined milestones, with initial work completed to minimize delivery risk, e.g., upfront research and well-defined action plans.
 
-If you would like a template to help you structure your proposal, we encourage you to use one contributed by [Steph Locke](#) at [https://github.com/RConsortium/isc-proposal](https://github.com/RConsortium/isc-proposal).
+If you would like a template to help you structure your proposal, we encourage you to use one contributed by [Steph Locke](https://github.com/stephlocke) at [https://github.com/RConsortium/isc-proposal](https://github.com/RConsortium/isc-proposal).
 
 We encourage you to seek feedback from the community before formally submitting your proposal. You are welcome to email individual committee members who might be particularly interested in your proposal to get their informal opinion, and you may want to publicize it more widely to get feedback from the broader R community.
 
@@ -83,7 +83,7 @@ All proposals will be read and reviewed by the Chair of the ISC and assigned to 
 
 50% of the grant will be paid out when the contract is signed and 50% upon completion.
 
-All accepted projects will be published on the [R Consortium blog](#).
+All accepted projects will be published on the [R Consortium blog](https://www.r-consortium.org/news/blog).
 
 We review this process yearly to ensure that the process is as smooth as possible, and to incorporate the knowledge gained from putting it into practice. All decisions to accept or reject proposals will be made by R Consortium in its sole discretion and shall be final.
 
