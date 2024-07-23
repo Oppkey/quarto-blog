@@ -87,6 +87,7 @@ section#hero > p {
     max-width: 768px;
     text-align: center; 
     margin: 0 auto;
+    
 }
 
 /* aligning sections */
@@ -241,3 +242,16 @@ table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
 } 
+
+.scroll-title a {
+    display: none;
+}
+
+#hero h2 {
+    cursor: pointer;
+    
+}
+
+#hero a {
+    display:none;
+}
