@@ -16,6 +16,7 @@ format: html
         <p>Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</p>
 </section>
 
+
 <section class="what-is-r-section">
   <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 2; min-width: 300px; padding: 10px; align-items: center;">
