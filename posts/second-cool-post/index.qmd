@@ -361,3 +361,10 @@ You can also include LaTeX math:
 $$
 P\left(A=2\middle|\frac{A^2}{B}>4\right)
 $$
+
+```{r}
+#| tbl-cap-location: margin
+knitr::kable(
+  mtcars[1:6, 1:6], caption = 'A subset of mtcars.'
+)
+```
