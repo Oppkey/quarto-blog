@@ -170,3 +170,4 @@ knitr::kable(
   mtcars[1:6, 1:6], caption = 'A subset of mtcars.'
 )
 ```
+ 
