@@ -18,12 +18,10 @@ format: html
     opacity: 1;
   }
 }
-
 .animate-slideInFromLeft {
   opacity: 0;
   animation: slideInFromLeft 1s forwards;
 }
-
 .scroll-title {
   background-color: rgb(30, 81, 164);
   color: white;
