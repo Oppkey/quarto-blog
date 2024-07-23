@@ -87,6 +87,7 @@ section#hero > p {
     max-width: 768px;
     text-align: center; 
     margin: 0 auto;
+    
 }
 
 /* aligning sections */
@@ -97,7 +98,6 @@ section#hero > p {
 
 .joining-r-section {
     a:link {
-        color: white;
     }
     a:visited {
         color: white;
@@ -240,6 +240,19 @@ td {
 table, th, td {
     border: 1px solid black;
     border-collapse: collapse;
+} 
+
+.scroll-title a {
+    display: none;
+}
+
+#hero h2 {
+    cursor: pointer;
+    
+}
+
+#hero a {
+    display:none;
     vertical-align: middle !important;
 } 
 
