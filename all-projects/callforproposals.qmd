@@ -15,9 +15,9 @@ Social Infrastructure projects include:
 - [SatRDays](http://satrdays.org/), bootstrapping a system for local R conferences.
 - Data-Driven Discovery and Tracking of R Consortium Activities
 
-The [Infrastructure Steering Committee (ISC)](https://www.r-consortium.org/about/governance) projects should have a focus on technical infrastructure or involve software development to support social infrastructure. Conferences, training sessions, and user groups will be funded through the [RUGS program](https://www.r-consortium.org/all-projects/r-user-group-support-program).
+The [Infrastructure Steering Committee (ISC)](../about/governance.html) projects should have a focus on technical infrastructure or involve software development to support social infrastructure. Conferences, training sessions, and user groups will be funded through the [RUGS program](../all-projects/rugsprogram.html).
 
-To apply for an ISC grant please continue with the instructions below. To seek funding for a conference, training session or user group please apply through the [RUGS program page](https://www.r-consortium.org/all-projects/r-user-group-support-program).
+To apply for an ISC grant please continue with the instructions below. To seek funding for a conference, training session or user group please apply through the [RUGS program page](../all-projects/rugsprogram.html).
 
 ## Projects the ISC Funds
 
@@ -31,13 +31,13 @@ While all projects are considered, the ISC generally does not accept projects th
 
 - Impact only a small part of the R community
 - Request conference, workshop, or meetup sponsorship. For these, you should look at our user group program or connect with the marketing committee for larger events.
-- Are very exploratory. These are better to be pursued through the [working group program](https://www.r-consortium.org/all-projects/isc-working-groups).
+- Are very exploratory. These are better to be pursued through the [working group program](../all-projects/isc-working-groups.html).
 
 ## Submitting a Proposal
 
 Please provide a 2 to 5 page proposal that describes the problem you want to solve. We expect submissions to include these components:
 
-1. **The Problem:** What problem do you want to solve? Why is it a problem? Who does it affect? What will solving the problem enable? This section should include a brief summary of existing work, such as R packages that may be relevant. If you are proposing a change to R itself, you must include a letter of support from a member of [R Core](https://www.r-project.org/contributors.html).
+1. **The Problem:** What problem do you want to solve? Why is it a problem? Who does it affect? What will solving the problem enable? This section should include a brief summary of existing work, such as R packages that may be relevant. If you are proposing a change to R itself, you must include a letter of support from a member of [R Core](../contributors.html).
 
 2. **The Plan:** How are you going to solve the problem? Include the concrete actions you will take and an estimated timeline. What are likely failure modes and how will you recover from them?
 
@@ -57,9 +57,9 @@ We encourage you to seek feedback from the community before formally submitting 
 
 ## How to Apply
 
-Once you have completed your proposal, create a self-contained PDF and complete [this form](https://forms.google.com) (requires signing in via a Google Account). When you submit the form, you should see a response page saying “Thank you for your proposal!” Soon thereafter, you will receive an email from forms-receipts-noreply@google.com with all the details of your submission. If you do not receive that email, please be sure to check your spam folder. If you do not see it, reach out to us as soon as possible.
+Once you have completed your proposal, create a self-contained PDF and complete [this form](https://docs.google.com/forms/d/e/1FAIpQLSdVTmELssWjzD9UDPs9cTZ4NEJBrBN5cUss7cU0eEtgPeVtBw/viewform) (requires signing in via a Google Account). When you submit the form, you should see a response page saying “Thank you for your proposal!” Soon thereafter, you will receive an email from forms-receipts-noreply@google.com with all the details of your submission. If you do not receive that email, please be sure to check your spam folder. If you do not see it, reach out to us as soon as possible.
 
-Please note that the R Consortium utilizes a standard agreement for all funded projects selected in an effort to streamline the award process and to fund the greatest amount of projects as possible. The standard agreement is available for review in advance: [Individual Consultant Agreement for R Consortium ISC Projects – 20170622](https://www.r-consortium.org).
+Please note that the R Consortium utilizes a standard agreement for all funded projects selected in an effort to streamline the award process and to fund the greatest amount of projects as possible. The standard agreement is available for review in advance: [Individual Consultant Agreement for R Consortium ISC Projects – 20170622](../rc-docs/Individual-Consultant-Agreement-for-R-Consortium-ISC-Projects-20170622.pdf).
 
 If you have any questions please email proposal@r-consortium.org.
 
@@ -83,7 +83,7 @@ All proposals will be read and reviewed by the Chair of the ISC and assigned to 
 
 50% of the grant will be paid out when the contract is signed and 50% upon completion.
 
-All accepted projects will be published on the [R Consortium blog](https://www.r-consortium.org/news/blog).
+All accepted projects will be published on the [R Consortium blog](../blog).
 
 We review this process yearly to ensure that the process is as smooth as possible, and to incorporate the knowledge gained from putting it into practice. All decisions to accept or reject proposals will be made by R Consortium in its sole discretion and shall be final.
 
