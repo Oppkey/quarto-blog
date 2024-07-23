@@ -100,7 +100,7 @@ format: html
 </section>
 
 <section class="joining-r-section" id="joining-r">
-<h2 class="scroll-title" data-target="joining-r">Joining R Consortium</h2>
+<h2 class="scroll-title" data-target="joining-r" style="border:none;">Joining R Consortium</h2>
 
 <p>
 Industry-leading organizations have joined the R Consortium to support an open source governance and foundation model to provide support to the R community, the R Foundation and groups and individuals, using, maintaining and distributing R software.
