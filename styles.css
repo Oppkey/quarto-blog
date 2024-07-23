@@ -254,4 +254,18 @@ table, th, td {
 
 #hero a {
     display:none;
+    vertical-align: middle !important;
+} 
+
+
+/* Element | /about/join.html */
+
+#platinum > a:nth-child(2) {
+    /* display: table-row-group; */
+    /* display: table-cell; */
+    display: none;
+  }
+
+#table-membership td {
+    text-align: center;
 }
