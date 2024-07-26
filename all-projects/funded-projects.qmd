@@ -30,7 +30,7 @@ The ISC generally funds two grant cycles per year. Cumulatively, we have awarded
 2022 (group 2)
 
 * [D3po: R Package for Easy Interactive D3 Visualization With Shiny](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#D3po:%20R%20Package%20for%20Easy%20Interactive%20D3%20Visualization%20With%20Shiny)
-* [Tooling and Guidance for Translations of Markdown-Based R Content (Quarto, R Markdown)](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Tooling%20and%20Guidance%20for%20Translations%20of%20Markdown-Based%20R%20Content%20(Quarto,%20R%20Markdown)
+* [Tooling and Guidance for Translations of Markdown-Based R Content \(Quarto, R Markdown\)](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Tooling%20and%20Guidance%20for%20Translations%20of%20Markdown-Based%20R%20Content%20\(Quarto,%20R%20Markdown\))
 * [Online Submission and Review Infrastructure for the R Journal](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Online%20Submission%20and%20Review%20Infrastructure%20for%20the%20R%20Journal)
 * [Upgrading SatRdays Website Template](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Upgrading%20SatRdays%20Website%20Template)
 * [Building the “Spatial Data Science With R” Educational Materials and Pedagogical Infrastructure](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Building%20the%20%E2%80%9CSpatial%20Data%20Science%20With%20R%E2%80%9D%20Educational%20Materials%20and%20Pedagogical%20Infrastructure)
