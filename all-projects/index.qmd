@@ -39,16 +39,6 @@ format: html
   }
 </style>
 
-# Sponsored Activities
-
-All participants in R Consortium sponsored activities are bound to the [R Consortium Code of Conduct](../codeofconduct.qmd).
-
-## Working Groups
-
-Working Groups are designed to support shared R&D activities for determining the best path or approach for a problem domain. Examples of current working groups include API design and testing infrastructure.
-
-You can learn more about the [current working groups](isc-working-groups.qmd).
-
 ## Funded Projects
 
 For activities that are well defined and scoped, yet require funding to help bring to fruition, the ISC has established a grant fund. Twice yearly, the ISC awards grants for projects such as code development, workshops, infrastructure, and other projects to help sustain the R community.

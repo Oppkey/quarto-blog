@@ -1,11 +1,15 @@
 # Funded Projects
 
-
 The goal of the Infrastructure Steering Committee (the ISC) is to support projects that broadly help the R community. This might be software development, developing new teaching materials, documenting best practices, standardizing APIs or doing research. Currently, the ISC chiefly provides financial support for projects proposed by individuals or teams who have the skills to carry out the work, but we can also provide administrative support, promotion and some collaboration tools for groups who would like to study more ambitious projects.
 
 
-The ISC generally funds two grant cycles per year. Cumulatively, we have awarded over $750k in community development grants over 5 years.
+The ISC generally funds two grant cycles per year. Cumulatively, we have awarded over $750k in community development grants over 5 years. 
 
+Interested in strengthening the R community? [Submit a Proposal](callforproposals.qmd). Please note, grants from the R Consortium are not adjusted to accommodate for internal institutional overhead.
+
+
+
+## Recipients of ISC Grants
 
 2023 (group 2)
 
@@ -169,8 +173,4 @@ The ISC generally funds two grant cycles per year. Cumulatively, we have awarded
 * [Simple Features for R](https://www.r-consortium.org/projects/awarded-projects/2016-group-1#simple+features+for+r)
 * [Software Carpentry R Instructor Training](https://www.r-consortium.org/projects/awarded-projects/2016-group-1#software+carpentry+r+instructor+training)
 
-[Interested in strengthening the R community? Submit a Proposal](callforproposals.qmd)
-
-
-Please note, grants from the R Consortium are not adjusted to accommodate for internal institutional overhead.
 
