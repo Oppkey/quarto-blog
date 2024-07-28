@@ -65,8 +65,8 @@ website:
         href:  https://rconsortium.github.io/RMedicine_website/
       - text: "News"
         menu:
-          - text: News
-            href: news.qmd
+          - text: R Lists
+            href: news/lists.qmd
           - text: Events
             href: news/events.qmd
           - text: Blog
