@@ -51,7 +51,7 @@ For community projects of importance to the R community and needing long-term su
 
 Three projects are currently Top Level Projects:
 
-- [R-Hub](https://github.com/r-hub)
+- [DBI](https://r-dbi.org/)
 - [R-Ladies](https://rladies.org/)
 - [R User Group Support Program (RUGS)](rugsprogram.qmd)
 

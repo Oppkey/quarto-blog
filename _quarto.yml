@@ -32,6 +32,8 @@ website:
             href:  https://github.com/r-hub
           - text: R-Ladies
             href:   https://rladies.org/
+          - text: DBI
+            href:   https://r-dbi.org/
           - text: RUGS Program
             href:  all-projects/rugsprogram.qmd
           - text: Working Groups
