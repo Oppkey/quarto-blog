@@ -12,6 +12,10 @@ section {
     width: 100%;
 }
 
+.navbar {
+    padding-right: 100px !important; /* Adjust the value to increase the space */
+}
+
 .navbar-logo {
     min-height: 50px;
 }
