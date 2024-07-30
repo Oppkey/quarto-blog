@@ -275,6 +275,7 @@ Hello, Data Enthusiasts! Are you ready to take your data visualization skills to
 
 Zac Nash and Abbie Brookes, co-founders of MancR (left), and Jeremy Horne (right), Director of Datacove The R Consortium recently reached out to Abbie Brookes, Senior Analyst and AI Consultant…
 
+
 ### [Empowering the R Community: Insights from Myles Mitchell of the Leeds Data Science Group](https://www.r-consortium.org/blog/2024/07/22/empowering-the-r-community-insights-from-myles-mitchell-of-the-leeds-data-science-group) [ARCHIVE]
 
 The R Consortium recently interviewed Myles Mitchell, co-organizer of the Leeds Data Science group, to discuss the local R community and the group’s recent
