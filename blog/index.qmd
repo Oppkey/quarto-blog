@@ -1,6 +1,12 @@
 [Want to contribute to the R Consortium blog? Please review our Blog Post Guidelines.](https://www.r-consortium.org/news/blog/guidelines)
 
 
+### [R-Ladies Rome: Empowering Women in Data Science Through Collaboration and Innovation](../posts/r-ladies-rome-empowering-women-in-data-science-through-collaboration-and-innovation/index.qmd) 
+
+Federica Gazzelloni, co-organizer of R-Ladies Rome, recently spoke with the R Consortium about the fast-growing R community in Rome...
+
+
+
 ### [Kolkata R User Group: A Rich History with Statistics ](../posts/kolkata-r-user-group-a-rich-history-with-statistics)
 
 The R Consortium recently spoke with Samrit Pramanik of the Kolkata R User Group about his experience starting a new R User Group in India. Samrit highlighted Kolkata's rich history…
@@ -56,9 +62,6 @@ This post was authored by Gregory Chen, Biostatistics and Research Decision Scie
 
 Last year, Edson Kambeu, founder and organizer of the Botswana R User Group, shared his plans with the R Consortium to implement data into local businesses in the New R…
 
-### [R-Ladies Rome: Empowering Women in Data Science Through Collaboration and Innovation](../posts/r-ladies-rome-empowering-women-in-data-science-through-collaboration-and-innovation/index.qmd) 
-
-Federica Gazzelloni, co-organizer of R-Ladies Rome, recently spoke with the R Consortium about the fast-growing R community in Rome...
 
 ### [Gergely Daróczi’s Journey: Empowering R Users in Hungary](https://www.r-consortium.org/blog/2024/05/16/gergely-daroczis-journey-empowering-r-users-in-hungary) [ARCHIVE]
 

@@ -9,7 +9,7 @@ date: "06/11/2024"
 
 [Keith Karani Wachira](https://www.linkedin.com/in/karani-keith-3794041a4/?originalSubdomain=ke), the [Dekut R Community ](https://www.meetup.com/dekutrcommunity/)organizer based in Nyeri, Kenya, was recently interviewed by the R Consortium and shared his journey in the R community, which began in 2019 during his university years. Sparked by a tech meetup, Keith’s interest grew through the pandemic sessions. Now in academia, he uses R to address business automation challenges, attracting industry professionals to his practical sessions. Excited by trends like AI integration and tools like Quarto, Keith foresees increased automation and efficiency. Outside work, he enjoys baseball, graphic design, web development, and teaching R, finding great reward in his students’ success.
 
-Please share about your background and your involvement in the R Community. What is your level of experience with the R language? 
+**Please share about your background and your involvement in the R Community. What is your level of experience with the R language?** 
 
 I began my journey with R in early 2019 while studying at university. In May 2019, I learned about a tech community through a friend who posted in one of our school’s WhatsApp groups, inviting us to join a meetup. Curious, I decided to attend.
 
@@ -32,13 +32,13 @@ Throughout 2020, I attended regularly but still lacked confidence in the languag
 
 Eric’s leadership greatly influenced me. He taught us how to write blogs using Markdown and publish on RPubs. This is a bit about my background. Today, we continue to teach R, following a structured approach to help others intermediate in using the language.
 
-What industry are you currently in? How do you use R in your work?
+**What industry are you currently in? How do you use R in your work?**
 
 I’m currently in academia, primarily focusing on various technical challenges. We hold sessions where we demonstrate the use of R in robotics for members in Electrical Engineering and Telecommunication Engineering. For those in Actuarial Science, we show how to create time series models using R.
 
 Coming from a background in business and information technology, I focus on solving business challenges, particularly automating business processes and addressing issues in banking, logistics, retail using opensource datasets. Our efforts are not limited to academia; we concentrate on applying R across different disciplines within academia to tackle these challenges.
 
-Why do industry professionals come to your user group? What is the benefit of attending?
+**Why do industry professionals come to your user group? What is the benefit of attending?**
 
 
 
@@ -69,7 +69,7 @@ Participants learned to leverage the R ecosystem for coding, structuring their w
 ![](unnamed%20(3).jpg)
 
 
-What trends do you currently see in R language and your industry? Any trends you see developing in the near future?
+**What trends do you currently see in R language and your industry? Any trends you see developing in the near future?**
 
 A trend I’ve noticed is the widespread effort to include everyone in learning programming languages like R. This is evident in the emergence of specialized groups such as R for Medicine and R for Pharma. Two of our alumni even demonstrated how R can be used in robotics through a talk at Posit Conference 2022, demonstrating its applicability in specific industries. This specialization fascinates me, and I am eager to see how R will be used across various fields.
 
@@ -77,7 +77,7 @@ Another trend is using tools like Quarto, which facilitates the implementation o
 
 The integration of AI will likely lead to the automation of many manual processes, further enhancing R’s utility and efficiency in various industries.
 
-We would like to get to know you more personally. Can you please tell me about yourself? For example, your hobbies/interests or anything else you want to share.
+**We would like to get to know you more personally. Can you please tell me about yourself? For example, your hobbies/interests or anything else you want to share.**
 
 
 

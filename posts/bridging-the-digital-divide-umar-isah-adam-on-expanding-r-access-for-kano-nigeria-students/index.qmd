@@ -16,11 +16,11 @@ date: "06/17/2024"
 ![](unnamed.jpg )
 
 
-***Please share your background and involvement with the RUGS group.***
+**Please share your background and involvement with the RUGS group.**
 
 My name is Umar Isah Adam, and I’m from Kano State, Nigeria. I studied mathematics at the [Federal University Dutse](https://fud.edu.ng/), Jigawa State. During my studies, I became interested in statistics and technology. One of my lecturers mentioned R as a statistical analysis tool, which piqued my interest. I learned it by researching online and watching videos. Later, a friend introduced me to R User Groups. I found that I was interested in R and noticed there wasn’t a group in Kano State, so I applied to start a chapter there, and it was approved.
 
-***Can you share what the R community is like in Kano, Nigeria? ***
+**Can you share what the R community is like in Kano, Nigeria? **
 
 The use of R is relatively new in Kano State. Most academics in the area use [SPSS](https://www.ibm.com/products/spss-statistics) in their work. It makes it challenging for R to gain traction in this environment. Despite the challenges, we have been making progress with the support of our user group. Currently, I work as an assistant lecturer at a college in Kano State. I recently organized a well-attended seminar for lecturers and students at the Kano State College of Education and Preliminary Studies. I also posted a video of the workshop on YouTube and have received requests for more information.
 
@@ -30,13 +30,13 @@ We aim to introduce R to the academic community, and after this, we plan to move
 
 Additionally, there is an issue with student access. Most of our students don’t have personal computers and can only access them on campus, usually at the ICT department. This lack of access also affects student engagement. However, among academics and lecturers in our colleges, there is growing interest in R.
 
-***Do you host in-person or online events? How do you make your events inclusive? ***
+**Do you host in-person or online events? How do you make your events inclusive? **
 
 It’s important to remember that online events became essential during the pandemic. However, due to internet connectivity issues, we avoid online meetings or events most of the time. As a result, our sessions are usually held offline. We have been hosting events within colleges and other institutions to make them easily accessible to students and academics. It is also more cost-effective and popular than hosting in private locations. Advertising these events has proven effective, as interested individuals are usually willing to attend when they see the advertisement. 
 
 We attempted to transfer between colleges, such as those owned by the state government. The majority of the data and processes are research-based. Therefore, we strive to incorporate more R programming aligned with academic requirements. We aim to limit topics to the use of R in academia to ensure that attendees feel more connected and can see the practical applications of using R. For instance, compared to using SPSS, where one often needs to use code or convert data into another format, with R, one can easily import data into the working environment and manipulate it as needed.
 
-***Please share about a project you are currently working on or have worked on using the R language. What is the goal/reason, result, or anything interesting, especially related to your industry?***
+**Please share about a project you are currently working on or have worked on using the R language. What is the goal/reason, result, or anything interesting, especially related to your industry?**
 
 I usually demonstrate to people around me, including the school management, how easy it is to use R. For example, we need help with the examination office potentially losing some of their data. However, they have a backup on an external drive. I am importing the data from the old template to the new one in Excel format. I am also working on calculating the student results and offloading them into the new portal we have developed. Doing this job manually might take a month, but if I successfully create this program, it will complete the job in two to three days. It will demonstrate to the school management the importance and impact of using R.
 
