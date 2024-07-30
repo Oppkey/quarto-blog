@@ -77,7 +77,7 @@ Last year, Edson Kambeu, founder and organizer of the Botswana R User Group, sha
 Gergely Daróczi, the founder and organizer of the Budapest Users of R Network, updated the R Consortium about the group’s recent activities. Last year, Gergely discussed the group's inception, and…
 
 
-### [Enhancing R: The Vision and Impact of Jan Vitek’s MaintainR Initiative](https://www.r-consortium.org/blog/2024/05/15/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative) [ARCHIVE]
+### [Enhancing R: The Vision and Impact of Jan Vitek’s MaintainR Initiative](/posts/enhancing-r-the-vision-and-impact-of-jan-viteks-maintainr-initiative/)
 
 The R Consortium recently interviewed Jan Vitek, a professor at Northeastern University's Khoury College of Computer Sciences. He specializes in programming languages, compilers, and systems. Notably, he developed one of…
 
