@@ -36,7 +36,8 @@ Umar Isah Adam, the founder and organizer of the R User Group Kano, Nigeria, spo
 Keith Karani Wachira, the Dekut R Community organizer based in Nyeri, Kenya, was recently interviewed by the R Consortium and shared his journey in the R community, which began in…
 
 
-### [Full-time Korea R User Group Founder Victor Lee Sees AI Future for R and Quarto Textbooks](/posts/full-time-korea-r-user-group-founder-victor-lee-sees-ai-future-for-r-and-quarto-textbook/)
+
+### [Full-time Korea R User Group Founder Victor Lee Sees AI Future for R and Quarto Textbooks](../posts/Full-time-Korea-R-User-Group-Founder-Victor-Lee-Sees-AI-Future-for-R-and-Quarto-Textbooks-R-Consortium)
 
 The R Consortium recently interviewed Victor Lee, organizer of the Korea R User Group, about his role establishing and expanding the Korean R community. Victor shared his journey, beginning with…
 
