@@ -1,5 +1,6 @@
 ---
 title: "R/Medicine: Quarto for Reproducible Medical Manuscripts"
+image: images/Screenshot-2024-02-20-at-10.47.50 AM-1024x573.webp
 ---
 
 <hr>
