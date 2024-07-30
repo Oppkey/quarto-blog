@@ -59,8 +59,8 @@ website:
             href:  rc-docs/ISC-Charter-08-11-23.pdf
           - text: Marketing Committee Charter (PDF)
             href:  rc-docs/R-Consortium-Marketing-Committee-Charter-2021-10-27.pdf
-
-      - ./webinars/webinars.qmd
+      - text: Webinars
+        href:  ./webinars/webinars.qmd
       - text: R/Medicine
         href:  https://rconsortium.github.io/RMedicine_website/
       - text: "News"
