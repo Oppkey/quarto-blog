@@ -71,7 +71,7 @@ This post was authored by Gregory Chen, Biostatistics and Research Decision Scie
 Last year, Edson Kambeu, founder and organizer of the Botswana R User Group, shared his plans with the R Consortium to implement data into local businesses in the New R…
 
 
-### [Gergely Daróczi’s Journey: Empowering R Users in Hungary](https://www.r-consortium.org/blog/2024/05/16/gergely-daroczis-journey-empowering-r-users-in-hungary) [ARCHIVE]
+### [Gergely Daróczi’s Journey: Empowering R Users in Hungary](/posts/gergely-daroczis-journey-empowering-r-users-in-hungary/)
 
 Gergely Daróczi, the founder and organizer of the Budapest Users of R Network, updated the R Consortium about the group’s recent activities. Last year, Gergely discussed the group's inception, and…
 
