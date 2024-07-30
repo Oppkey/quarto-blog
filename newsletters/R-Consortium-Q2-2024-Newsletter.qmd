@@ -1,3 +1,7 @@
+---
+image: images/R-CONSORTIUM-Q7-2023-NEWSLETTER-1-1024x576.webp
+---
+
 # R Consortium Q2 2024 Newsletter
 
 Hello from the R Consortium! This quarterly newsletter puts together the latest updates about our organization’s activities, the progress each working group has made, upcoming R-related events, and recordings of past events. In short, all you need to know about our work to promote the R language and how we lead community initiatives. Please share this newsletter!
