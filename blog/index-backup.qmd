@@ -1,12 +1,4 @@
----
-listing:
-  contents: "../posts/*/index.qmd"
-  sort: "date desc"
-  type: table
-
-page-layout: full
----
-[Want to contribute to the R Consortium blog? Please review our Blog Post Guidelines.](guidelines.qmd)
+[Want to contribute to the R Consortium blog? Please review our Blog Post Guidelines.](https://www.r-consortium.org/news/blog/guidelines)
 
 
 ### [Kolkata R User Group: A Rich History with Statistics ](../posts/kolkata-r-user-group-a-rich-history-with-statistics)
@@ -34,15 +26,14 @@ Vincent Guyader, organizer of the R Addicts Paris and president of ThinkR, recen
 Guest blog contributed by Ning Leng, People and Product Leader, Roche-Genentech. Eric Nantz, Director, Eli Lilly and Company; Ben Straub, Principal Programmer, GSK; Sam Parmar, Statistical Data Scientist, Pfizer.  Supporting the science of drug development requires computational tools with careful implementations of core statistical functions and data structures...
 
 
-### [Bridging the Digital Divide: Umar Isah Adam on Expanding R Access for Kano, Nigeria Students](../posts/bridging-the-digital-divide-umar-isah-adam-on-expanding-r-access-for-kano-nigeria-students)
+### [Bridging the Digital Divide: Umar Isah Adam on Expanding R Access for Kano, Nigeria Students](https://www.r-consortium.org/blog/2024/06/17/bridging-the-digital-divide-umar-isah-adam-on-expanding-r-access-for-kano-nigeria-students) [ARCHIVE]
 
 Umar Isah Adam, the founder and organizer of the R User Group Kano, Nigeria, spoke with the R Consortium during the pandemic about his efforts to engage the next generation…
 
 
-### [Keith Karani Wachira: Leading the Dekut R Community in Kenya and Innovating with R ](../posts/keith-karani-wachira-leading-the-dekut-r-community-in-kenya-and-innovating-with-r/)
+### [Keith Karani Wachira: Leading the Dekut R Community in Kenya and Innovating with R ](https://www.r-consortium.org/blog/2024/06/11/keith-karani-wachira-leading-the-dekut-r-community-in-kenya-and-innovating-with-r) [ARCHIVE]
 
 Keith Karani Wachira, the Dekut R Community organizer based in Nyeri, Kenya, was recently interviewed by the R Consortium and shared his journey in the R community, which began in…
-
 
 
 ### [Full-time Korea R User Group Founder Victor Lee Sees AI Future for R and Quarto Textbooks](../posts/Full-time-Korea-R-User-Group-Founder-Victor-Lee-Sees-AI-Future-for-R-and-Quarto-Textbooks-R-Consortium)
@@ -50,23 +41,20 @@ Keith Karani Wachira, the Dekut R Community organizer based in Nyeri, Kenya, was
 The R Consortium recently interviewed Victor Lee, organizer of the Korea R User Group, about his role establishing and expanding the Korean R community. Victor shared his journey, beginning with…
 
 
-### [R4HR in Buenos Aires: Leveraging R for Dynamic HR Solutions](/posts/r4hr-in-buenos-aires-leveraging-r-for-dynamic-hr-solution/)
+### [R4HR in Buenos Aires: Leveraging R for Dynamic HR Solutions](https://www.r-consortium.org/blog/2024/05/30/r4hr-in-buenos-aires-leveraging-r-for-dynamic-hr-solutions) [ARCHIVE]
 
 Marcela Victoria Soto, co-organizer of the R4HR -Club de R para RRHH, Buenos Aires, Argentina, recently updated the R Consortium about the group’s recent activities. Last year, Sergio García Mora,…
 
 
-### [One More Step Forward: The R Consortium Submission Working Group’s Presentation to Swissmedic on Regulatory Submission using R and Shiny](/posts/one-more-step-forward-the-r-consortium-submission-working-group-presentation-to-swissmedic-on-regulator-submission-using-r-and-shiny/) 
+### [One More Step Forward: The R Consortium Submission Working Group’s Presentation to Swissmedic on Regulatory Submission using R and Shiny](https://www.r-consortium.org/blog/2024/05/29/one-more-step-forward-the-r-consortium-submission-working-groups-presentation-to-swissmedic-on-regulatory-submission-using-r-and-shiny) [ARCHIVE]
 
 This post was authored by Gregory Chen, Biostatistics and Research Decision Sciences (BARDS), MSD, Switzerland, and Ning Leng, Product Development Data Sciences (PDD), F. Hoffmann-La Roche, USA On January 30,…
 
 
-### [Collaborative Growth: The Botswana R User Group and Regional Partnerships](/posts/collaborative-growth-the-botswana-r-user-group-and-regional-partnerships/) 
+### [Collaborative Growth: The Botswana R User Group and Regional Partnerships](https://www.r-consortium.org/blog/2024/05/24/collaborative-growth-the-botswana-r-user-group-and-regional-partnerships) [ARCHIVE]
 
 Last year, Edson Kambeu, founder and organizer of the Botswana R User Group, shared his plans with the R Consortium to implement data into local businesses in the New R…
 
-### [R-Ladies Rome: Empowering Women in Data Science Through Collaboration and Innovation](../posts/r-ladies-rome-empowering-women-in-data-science-through-collaboration-and-innovation/index.qmd) 
-
-Federica Gazzelloni, co-organizer of R-Ladies Rome, recently spoke with the R Consortium about the fast-growing R community in Rome...
 
 ### [Gergely Daróczi’s Journey: Empowering R Users in Hungary](https://www.r-consortium.org/blog/2024/05/16/gergely-daroczis-journey-empowering-r-users-in-hungary) [ARCHIVE]
 
@@ -288,4 +276,3 @@ Hello, Data Enthusiasts! Are you ready to take your data visualization skills to
 Zac Nash and Abbie Brookes, co-founders of MancR (left), and Jeremy Horne (right), Director of Datacove The R Consortium recently reached out to Abbie Brookes, Senior Analyst and AI Consultant…
 
 # [R Consortium blog archive (2015-2024)](https://www.r-consortium.org/news/blog)
-
