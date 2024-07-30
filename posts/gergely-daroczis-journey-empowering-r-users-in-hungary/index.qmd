@@ -29,7 +29,7 @@ Gergely Daróczi, the founder and organizer of the [Budapest Users of R Network]
   </div>
 </div>
 
-
+<div style="margin-bottom: 40px;"></div>
 **Please share about your background and involvement with the RUGS group.**
 
 
