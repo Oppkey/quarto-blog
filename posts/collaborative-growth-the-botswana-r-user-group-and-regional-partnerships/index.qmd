@@ -17,7 +17,7 @@ The Botswana R User Group is seeking speakers for their upcoming online events. 
 ![](media.png)
 
 
-_Please share about your background and involvement with the RUGS group._
+***Please share about your background and involvement with the RUGS group.***
 
 My educational background is in finance. I pursued finance and investments for my master’s degree but also studied economics during my undergraduate years. Mathematics has been my strongest subject since primary school, and I’m passionate about it. This passion led me to develop an interest in Statistics and statistical software.
 
@@ -31,7 +31,7 @@ As I was learning R around 2019 and beginning to follow several R Users on Twitt
 
 In February 2020, I reached out to [Heather Turner](https://www.r-consortium.org/blog/2023/01/25/comeback-reviving-the-warwick-r-user-group-with-in-person-and-online-events), who was scheduled to visit Botswana and other Southern African countries to conduct Introduction to R workshops. During our conversation, Heather provided me with all the information needed to start a community. As a result, in March 2020, Botswana R Users was established during Heather Turner’s Introduction to R workshop.
 
-_How has your group been doing since we last talked? _
+***How has your group been doing since we last talked? ***
 
 Our meetup group had about 100 members when we last talked to you. We now have almost 400 members. However, I have observed that people from different countries are joining us. We are now a global meetup group rather than a Botswana User group. This is because we mostly hold online meetups, which allow people from other countries to join. 
 
@@ -64,15 +64,15 @@ We value collaborations with our partner R User meetup groups in Southern Africa
 ![](media%20(3).png)
 [Vebash Naidoo](https://www.linkedin.com/in/vebashini-naidoo-4260a96a/?originalSubdomain=za) of RLadies Jozi presenting in an online meetup for Botswana R Users 
 
-_You have a Meetup titled “[GIS and Creating Dashboards in R. A case study of conflicts events in Kenya](https://www.meetup.com/botswana-r-users/events/298287992/),” can you share more on the topic covered? Why this topic? _
+***You have a Meetup titled “[GIS and Creating Dashboards in R. A case study of conflicts events in Kenya](https://www.meetup.com/botswana-r-users/events/298287992/),” can you share more on the topic covered? Why this topic?***
 
 I had an opportunity to attend a series of workshops and webinars organized by the United Nations for their Datathon. I realized the importance of GIS in advancing sustainable development. In January 2024, I invited [Godwin Murithi](https://www.linkedin.com/in/godwin-murithi-847830138/?originalSubdomain=uk), a GIS specialist, to present a topic on GIS. The topic was “GIS and Creating Dashboards in R. A case study of conflict events in Kenya.” We wanted to expose our members to the rising field of GIS and show them how the R language and various packages can help solve GIS problems. It was a fascinating topic for our participants, and they loved it. 
 
-_How has the use of R evolved in the industry since we last talked?_
+***How has the use of R evolved in the industry since we last talked?***
 
 We are observing an increasing acceptance of the R programming language, particularly in universities. Some universities have adopted R as their primary language for statistics and quantitative programs. This trend indicates academic institutions’ growing preference for open source programming languages.
 
-_Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?   _
+***Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?   ***
 
 Organizing is one of the most challenging tasks. To get speakers, I have primarily used [Twitter](https://twitter.com/botswana_r) (now called X) and LinkedIn to communicate with people who might want to speak at our meetup groups. Lately, there has been a problem with sending direct messages on Twitter. The reason is that Twitter has changed its messaging system. Now, to send a direct message, you need to be verified. I have been affected by the fact that my usual way of talking to people has been disrupted. Therefore, I have resorted to using LinkedIn to search for people interested in R and reach out to them. Sometimes, they are too busy or cancel, which can be challenging. However, I have been successful in finding potential speakers through these platforms.
 
@@ -80,13 +80,13 @@ Occasionally, we use different video conferencing tools like Zoom and Google Mee
 
 We also use GitHub. We have our account, and if the speaker has their material on GitHub, they can share the link with us. Alternatively, they can provide us with the material directly, and we will upload it onto our own GitHub account for the community to access. Ultimately, it all depends on the speaker’s preference.
 
-_Please share about a project you are working on or have worked on using the R language. What is the goal/reason, result, or anything interesting, especially related to the industry you work in?_
+***Please share about a project you are working on or have worked on using the R language. What is the goal/reason, result, or anything interesting, especially related to the industry you work in?***
 
 One of my recent school projects was to create a dashboard about [UK imports and exports](https://github.com/edkambeu/uk_trade_exports_shiny_app), which I completed towards the end of last year. I developed this project using Shiny and R packages such as [Shiny Dashboard](https://rstudio.github.io/shinydashboard/), [ggplot2](https://ggplot2.tidyverse.org/), and [dplyr](https://dplyr.tidyverse.org/). 
 
 I’m currently working on another project that is still in its early stages. The goal of this project is to identify areas in Botswana that require greater financial inclusion. I am currently gathering data and plan to utilize R and Python to apply geospatial techniques.
 
-_What trends do you currently see in R language and your industry? Any trends you see developing in the near future?_
+***What trends do you currently see in R language and your industry? Any trends you see developing in the near future?***
 
 I have observed that people find Quarto and GIS techniques interesting. The community is gaining increasing interest in these areas, and I foresee the increasing use of R in GIS applications. 
 

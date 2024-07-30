@@ -1,7 +1,7 @@
 ---
 title: "One More Step Forward: The R Consortium Submission Working Group’s Presentation to Swissmedic on Regulatory Submission using R and Shiny"
 description: "On January 30, 2024, the R Consortium Submission Working Group made a presentation to Swissmedic in Bern, Switzerland, with 10 attendees in person and 50 online."
-author: "R Consortium"
+author: "Guest Authors"
 image: "Screen%20Shot%202024-05-27%20at%204.27.19%20PM.png"
 date: "05/29/2024"
 ---

@@ -56,6 +56,9 @@ This post was authored by Gregory Chen, Biostatistics and Research Decision Scie
 
 Last year, Edson Kambeu, founder and organizer of the Botswana R User Group, shared his plans with the R Consortium to implement data into local businesses in the New R…
 
+### [R-Ladies Rome: Empowering Women in Data Science Through Collaboration and Innovation](../posts/r-ladies-rome-empowering-women-in-data-science-through-collaboration-and-innovation/index.qmd) 
+
+Federica Gazzelloni, co-organizer of R-Ladies Rome, recently spoke with the R Consortium about the fast-growing R community in Rome...
 
 ### [Gergely Daróczi’s Journey: Empowering R Users in Hungary](https://www.r-consortium.org/blog/2024/05/16/gergely-daroczis-journey-empowering-r-users-in-hungary) [ARCHIVE]
 
@@ -278,6 +281,3 @@ Zac Nash and Abbie Brookes, co-founders of MancR (left), and Jeremy Horne (right
 
 # [R Consortium blog archive (2015-2024)](https://www.r-consortium.org/news/blog)
 
-### [R-Ladies Rome: Empowering Women in Data Science Through Collaboration and Innovation](../posts/r-ladies-rome-empowering-women-in-data-science-through-collaboration-and-innovation/index.qmd) 
-
-Federica Gazzelloni, co-organizer of R-Ladies Rome, recently spoke with the R Consortium about the fast-growing R community in Rome...
