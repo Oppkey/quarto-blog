@@ -1,6 +1,6 @@
 ---
-title: "Tackling Hurdles: Embracing Open Source Packages in Pharmaceutical Research"
-description: "In the dynamic field of pharmaceutical research, open source R packages offer incredible potential to innovate and enhance efficiency."
+title: "R/Medicine is coming June 10-14, 2024 – See Top Five R Medicine Talks from Previous Years"
+description: "What to get a feel for the kind of content will be available at R/Medicine 2024?"
 author: "R Consortium"
 date: "04/30/2024"
 ---
