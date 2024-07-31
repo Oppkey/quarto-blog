@@ -17,7 +17,7 @@ I am a data scientist at [Jumping Rivers](https://www.jumpingrivers.com/), a dat
 
 At Jumping Rivers, we receive funding from the R Consortium. We organize the [Leeds Data Science Meetups](https://www.meetup.com/leeds-data-science-meetup/) every two months and the [North East Data Science Meetups](https://www.meetup.com/newcastle-upon-tyne-data-science-meetup/) every three months. Additionally, we hold annual conferences, such as [Shiny in Production](https://shiny-in-production.jumpingrivers.com/) (October) and [SatRdays London](https://satrday-london-2024.jumpingrivers.com/) (April), which run once a year. I organize the North East and Leeds Data Science Meetups for Jumping Rivers.
 
-***Can you share what the local R Community is like?***
+**Can you share what the local R Community is like?**
 
 ![](image_2.jpg)
 
@@ -49,7 +49,8 @@ These are in-person meetups. We could attract more people if we recorded and liv
 
 In the northeast and Leeds data science meetups, there is a significant interest in machine learning, training and deploying machine learning models, and productionizing these models (ML Ops). Attendees often expect talks on these topics and are particularly interested in chatGPT, generative AI, and other related issues. However, data science encompasses a broader range of areas, including visualizing data and creating dashboards, and we try to cover all of these areas in our talks and workshops. Despite our efforts, there is a clear trend toward machine learning-focused discussions, with many talk submissions focusing on ML Ops and deploying models on the cloud.
 
-**How do I Join?**
+How do I Join?**
+How do I Join?
 
 R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups organize, share information, and support each other worldwide. We have given grants over the past four years, encompassing over 68,000 members in 33 countries. We would like to include you! Cash grants and meetup.com accounts are awarded based on the intended use of the funds and the amount of money available to distribute.
 
