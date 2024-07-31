@@ -11,7 +11,7 @@ The R Consortium recently interviewed [Myles Mitchell](https://www.linkedin.com/
 
 The Leeds Data Science group is hosting an in-person event titled “[***Improving the Fidelity and Stability of Large Language Models***](https://www.meetup.com/leeds-data-science-meetup/events/300758737/)” on the 23rd of July. 
 
-***Please share about your background and involvement with the RUGS group.***
+**Please share about your background and involvement with the RUGS group.**
 
 I am a data scientist at [Jumping Rivers](https://www.jumpingrivers.com/), a data science consultancy. We collaborate with various companies on data-related projects, such as data storage, modeling, developing data visualization dashboards, and offering data science training. Initially, I had a background in Python, but I learned R while working at Jumping Rivers, where many of our staff are proficient in R, and much of our infrastructure is written in R.
 
@@ -27,13 +27,13 @@ Both universities teach R, and many industries in the area employ data science t
 
 Data science is relevant across almost all industries, and R, along with Python and other languages, is a crucial tool in solving data science problems. In the Northeast, consultancies like Jumping Rivers specialize in data science. In summary, we have a large community of students and industry professionals in the Northeast, and it’s a similar story in Leeds.
 
-***You have a Meetup on “[Improving the Fidelity and Stability of Large Language Models](https://www.meetup.com/leeds-data-science-meetup/events/300758737/)”, can you share more on the topic covered? Why this topic?***
+**You have a Meetup on “[Improving the Fidelity and Stability of Large Language Models](https://www.meetup.com/leeds-data-science-meetup/events/300758737/)”, can you share more on the topic covered? Why this topic?**
 
 During our Meetup on “Improving the Fidelity and Stability of Large Language Models,” we will explore how to enhance software solutions with AI capabilities, focusing on improving the accuracy and reliability of these models. Drawing from real-world experiences, we will discuss successful strategies for development, tackle the challenge of model ‘hallucinations,’ and address other significant obstacles. This topic is essential as the AI sector continues to grow rapidly, and integrating AI effectively is crucial for developers to achieve robust performance and innovative functionality in their projects. The session is designed for developers of all skill levels interested in incorporating AI into their work, ensuring they can implement practical and effective methodologies for positive outcomes.
 
 [Ryan Mangan](https://www.linkedin.com/in/ryanmangan01/?originalSubdomain=uk) will be presenting this meetup. Ryan is a seasoned technologist with over 18 years of experience in cloud computing, AI, and virtualization. He founded [Efficient Ether Ltd](https://www.linkedin.com/company/efficientether/), a Microsoft startup specializing in AI, cloud optimization, and sustainability. Ryan is a recognized [Microsoft MVP](https://mvp.microsoft.com/), [VMware vExpert](https://vexpert.vmware.com/), and Chartered Fellow of the British Computer Society. He has authored several e-books and publications, including “[Mastering Azure Virtual Desktop](https://www.amazon.com/Mastering-Azure-Virtual-Desktop-implementation/dp/1801075026),” and is active in public speaking and blogging within the tech community. 
 
-***Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?***
+**Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?**
 
 Regarding techniques, I’m currently reviewing how we organize our meetups. Our meetups are free to attend for all participants, and we aim to create a welcoming and accessible environment for everyone to network and meet like-minded individuals in the area. The meetups are held every two to three months on weekdays in the evenings, providing attendees with time to travel from their place of work to the venue. We offer refreshments at the start, including pizza and soft drinks, and we ensure that vegan, gluten-free, and halal options are included to cater to a wide range of dietary preferences. 
 
@@ -45,12 +45,11 @@ Most attendees attend our meetups to network and meet industry professionals, es
 
 These are in-person meetups. We could attract more people if we recorded and live-streamed it on Zoom. However, managing a Zoom call and recording would create more work for the organizers, and an in-person event provides better networking opportunities than online. In saying that, we will continue to look at ways to make these accessible and appeal to a wide range of backgrounds, and we will always take feedback from the community seriously.
 
-***What trends do you currently see in R language and your industry? Any trends you see developing in the near future?***
+**What trends do you currently see in R language and your industry? Any trends you see developing in the near future?**
 
 In the northeast and Leeds data science meetups, there is a significant interest in machine learning, training and deploying machine learning models, and productionizing these models (ML Ops). Attendees often expect talks on these topics and are particularly interested in chatGPT, generative AI, and other related issues. However, data science encompasses a broader range of areas, including visualizing data and creating dashboards, and we try to cover all of these areas in our talks and workshops. Despite our efforts, there is a clear trend toward machine learning-focused discussions, with many talk submissions focusing on ML Ops and deploying models on the cloud.
 
-How do I Join?**
-How do I Join?
+## How do I Join?
 
 R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups organize, share information, and support each other worldwide. We have given grants over the past four years, encompassing over 68,000 members in 33 countries. We would like to include you! Cash grants and meetup.com accounts are awarded based on the intended use of the funds and the amount of money available to distribute.
 
