@@ -6,7 +6,7 @@ image: "images/Katherine.png"
 date: "08/02/2024"
 ---
 
-![Katherine](images/Katherine.png)
+![](images/Katherine.png)
 
 
 The R Consortium is pleased to announce that Katherine Jeschke has been appointed Chair of the Grants Committee.
