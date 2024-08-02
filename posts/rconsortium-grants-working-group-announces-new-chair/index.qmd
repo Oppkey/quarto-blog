@@ -2,11 +2,11 @@
 title: "R Consortium Grants Working Group Announces New Chair"
 description: "The R Consortium is pleased to announce that Katherine Jeschke has been appointed Chair of the Grants Committee."
 author: "R Consortium"
-image: "psug2024-main2.png"
+image: "images/Katherine.png"
 date: "08/02/2024"
 ---
 
-![Katherine](Katherine.png)
+![Katherine](images/Katherine.png)
 
 
 The R Consortium is pleased to announce that Katherine Jeschke has been appointed Chair of the Grants Committee.
