@@ -1,12 +1,12 @@
 ---
-title: "R Consortium Grants Working Group Announces New Chair"
+title: "R Consortium Grants Committee Announces New Chair"
 description: "The R Consortium is pleased to announce that Katherine Jeschke has been appointed Chair of the Grants Committee."
 author: "R Consortium"
 image: "images/Katherine.png"
 date: "08/02/2024"
 ---
 
-![Katherine](images/Katherine.png)
+![](images/Katherine.png)
 
 
 The R Consortium is pleased to announce that Katherine Jeschke has been appointed Chair of the Grants Committee.
@@ -19,4 +19,4 @@ She holds an MA degree in American History and Museum Administration from George
 
 “Getting acquainted with our various grants and procedures while evaluating the strategic effectiveness of R Consortium grants is a big undertaking, but her background and years of experience should ease her way,” said Joseph Rickert, Executive Director of the R Consortium.
 
-She may be reached at kj.jeschke@posit.co.
+She may be reached at kj.jeschke@posit.co
