@@ -94,7 +94,7 @@ format: html
   </a>
   </div>
   </div>
-<button class="darkButton"><a href="about/about.qmd" style="text-decoration: none;">LEARN MORE</a></button>
+<button class="darkButton"><a href="about/index.qmd" style="text-decoration: none;">LEARN MORE</a></button>
 <button class="darkButton"><a href="docs/RC-AR-2023_Final-Draft_1-30-24.pdf" style="text-decoration: none;">READ OUR ANNUAL REPORT 2023</a></button>
 
 </section>
@@ -106,7 +106,7 @@ format: html
 Industry-leading organizations have joined the R Consortium to support an open source governance and foundation model to provide support to the R community, the R Foundation and groups and individuals, using, maintaining and distributing R software.
 </p>
 
-<button class="joiningRButton"><a href="join.qmd" style="text-decoration: none;">LEARN MORE ABOUT MEMBERSHIP</a></button>
+<button class="joiningRButton"><a href="about/join.qmd" style="text-decoration: none;">LEARN MORE ABOUT MEMBERSHIP</a></button>
 
 </section>
 

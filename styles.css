@@ -94,6 +94,8 @@ section#hero > p {
     
 }
 
+/* creating a second hero section to show off different graphics */
+
 section#hero1 {
     padding-top: 199px;
     padding-bottom: 72px;
@@ -101,7 +103,7 @@ section#hero1 {
     padding-right: 80px;
     text-align: center;
     color: white;
-    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('images/WaterManagement_2.jpg');
+    background: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('images/WaterMangement_2.jpg');
     /* Display 1 */
     font-size: 36px;
     font-style: normal;
