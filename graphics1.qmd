@@ -65,7 +65,7 @@ format: html
   color: black;
 }
 .joining-r-section {
-  background-image: url('images/Background_1.jpg');
+  background-image: url('images/WaterManagement_v2.4.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
