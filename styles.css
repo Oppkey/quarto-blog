@@ -69,6 +69,11 @@ section {
 
 }
 
+.hero img {
+    max-width: 50%; /* Adjust the percentage as needed */
+    height: auto;
+  }
+
 section#hero {
     padding-top: 128px;
     padding-bottom: 72px;
@@ -78,12 +83,39 @@ section#hero {
     color: white;
     background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('hero-picture.png');
     /* Display 1 */
-    font-size: 28px;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 800;
+}
+
+section#hero > p {
+    font-size: 18px; 
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px; /* 155.556% */ 
+    max-width: 768px;
+    text-align: center; 
+    margin: 0 auto;
+    
+}
+
+/* creating a second hero section to show off different graphics */
+
+section#hero1 {
+    padding-top: 199px;
+    padding-bottom: 72px;
+    padding-left: 40px;
+    padding-right: 80px;
+    text-align: center;
+    color: white;
+    background: linear-gradient( rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6) ), url('images/new_community_2.jpg');
+    /* Display 1 */
+    font-size: 36px;
     font-style: normal;
     font-weight: 500;
 }
 
-section#hero > p {
+section#hero1 > p {
     font-size: 18px; 
     font-style: normal;
     font-weight: 400;

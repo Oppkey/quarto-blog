@@ -65,7 +65,7 @@ format: html
   color: black;
 }
 .joining-r-section {
-  background-image: url('joining-r-consoritum-bg.webp');
+  background-image: url('images/WaterManagement_v2.4.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -76,8 +76,8 @@ format: html
 
 </style>
 
-<section id="hero">
-    <h2 id="scroll-to-hero">R Consortium</h2>
+<section id="hero1">
+    <h2 id="scroll-to-hero1">R Consortium</h2>
     <p>Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</p>
 </section>
 
@@ -161,7 +161,7 @@ document.addEventListener("DOMContentLoaded", function() {
     });
   });
 });
-document.getElementById('scroll-to-hero').addEventListener('click', function() {
-    document.getElementById('hero').scrollIntoView({ behavior: 'smooth' });
+document.getElementById('scroll-to-hero1').addEventListener('click', function() {
+    document.getElementById('hero1').scrollIntoView({ behavior: 'smooth' });
 });
 </script>

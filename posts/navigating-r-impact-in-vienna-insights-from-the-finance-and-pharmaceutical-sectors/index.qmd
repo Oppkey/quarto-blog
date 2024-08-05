@@ -2,8 +2,9 @@
 title: "Navigating R’s Impact in Vienna: Insights from the Finance and Pharmaceutical Sectors"
 description: "The R Consortium recently spoke with Mario Annau, co-organizer of the Vienna R User Group. During the conversation, he discussed the use of R in the finance and pharmaceutical industries in Vienna."
 author: "R Consortium"
-image: "Untitled.jpg"
-date: "04/19/2024"
+
+image: "annau.jpg"
+date: "05/19/2024"
 format:
   html:
     css: 
@@ -23,7 +24,7 @@ In September 2022, [Mario Annau](https://www.linkedin.com/in/mario-annau-a68b205
 <div class="container">
   <div class="row align-items-center">
   <div class="col-md-4">
-  <img src="Untitled.jpg" class="img-fluid" alt="Gergely Daróczi">
+  <img src="annau.jpg" class="img-fluid" alt="Gergely Daróczi">
   </div>
   <div class="col-md-8">
   <p>
@@ -50,7 +51,7 @@ I learned about open source technologies during my university studies and discov
 
 
 
-![](Untitled(1).jpg)
+![](viennar.jpg)
 
 
 It’s evident that the industry has started accepting open source, including R. I work primarily in the financial sector and pharma, which are industries where R is widely used. R is also a strong contender, alongside Python, in these fields.
@@ -96,7 +97,7 @@ I am often amazed by the gratitude expressed by individuals around the world who
 In light of the current global situation, people are less likely to travel or move to different cities for work or other purposes. Therefore, hybrid events are the most suitable way to improve accessibility and encourage community participation. Event organizers should consider using hybrid formats to provide a more inclusive and efficient experience for all participants.
 
 
-## **How do I Join?**
+## How do I Join?
 
 R Consortium’s R User Group and Small Conference Support Program (RUGS) provides grants to help R groups organize, share information, and support each other worldwide. We have given grants over the past four years, encompassing over 68,000 members in 33 countries. We would like to include you! Cash grants and meetup.com accounts are awarded based on the intended use of the funds and the amount of money available to distribute.
 
