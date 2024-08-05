@@ -19,7 +19,7 @@ Hédia and Amal met during the [Bioinformatics and Genome Analyses course at Pas
 
 in 2023. With a deep commitment to inclusivity and empowerment, they’ve dedicated themselves to breaking down barriers faced by women and individuals from low-income countries when accessing education in these cutting-edge areas. By organizing workshops tailored to these communities, they aim to provide valuable skills and knowledge and foster a more diverse and equitable future in the bioinformatics field.
 
-**_Please share about your background and involvement with the RUGS group._**
+**Please share about your background and involvement with the RUGS group.**
 
 Amal: We are biologists, and our academic curriculum did not include any programming courses. However, with the advancement of sequencing technologies, biologists are now facing the challenge of analyzing vast amounts of genomic data. This is a significant challenge for us. For my PhD project, I was involved in [RNA-Seq](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2949280/) and RAD-Seq projects. To overcome this challenge, I attended a course on analyzing genomic data using Unix, where I met Hedia for the first time. Additionally, in the framework of my thesis project,  I had the opportunity to visit the [Plant Immunity Group at RIKEN Yokohama](https://www.riken.jp/en/research/labs/csrs/plant_immun/) in Japan for an internship. While there, I learned a lot from the talented scientists and their exciting research in bioinformatics.
 
@@ -33,13 +33,13 @@ Learning bioinformatics can be challenging, especially in regions like Tunisia w
 
 Our community is a friendly, inclusive, and welcoming space for anyone passionate about bioinformatics, data science, artificial intelligence, and beyond. We’re all about growing together and learning from each other in a supportive environment. Whether you’re just starting out or have lots of experience, we encourage you to dive in, ask questions, and share your insights. We all rise by lifting others. Don’t worry about asking the “wrong” question. Every question is a chance to understand and learn something new. Come join us and be part of our journey of discovery and growth. We can’t wait to learn with you!
 
-**_Can you share what the R community is like in Tunisia?_**
+**Can you share what the R community is like in Tunisia?**
 
 Hedia: In Tunisia, programming is mainly used in the industry, but it is not widely taught in the curriculum for biologists. This creates a gap between what is taught in the academic courses and what is required in the industry. As a result, individuals are expected to possess programming skills when they work in the industry. Still, they may not have been able to learn programming during their academic courses. This gap must be addressed to better prepare individuals for the job market.
 
 ![](TunisRUser_Logo.jpeg)
 
-**_Can you please update us about the group’s recent activities?_**
+**Can you please update us about the group’s recent activities?**
 
 Amal: First, it is important to mention that Arabic is our native language in Tunisia. However, French is the predominant teaching language in many subjects, including biology and informatics. Despite this, we have decided to conduct our workshop in English for the Tunis user group for two main reasons. Firstly, we aim to bridge the gap between the academic skills acquired in French and English resources. Secondly, by using English as our teaching language, we can reach a broader audience of scientists who share our needs.
 
@@ -47,7 +47,7 @@ We decided to allow us the flexibility to choose speakers without language barri
 
 We aim not only to cover biological subjects but also those related to artificial intelligence. Recently, we conducted two successful workshops on Building a [Chatbot with OpenAI, Shiny and R](https://www.youtube.com/watch?v=-surae1djIU), and [Bioinformatics Analysis using Chatlize and ChatGPT](https://www.youtube.com/watch?v=7GfyThwIF04). We strive to have a balance between biological and AI-related subjects to make the experience easier for our participants with the help of artificial intelligence.
 
-**_What trends do you currently see in R language?_**
+**What trends do you currently see in R language?**
 
 Hedia: In bioinformatics, there is a growing trend towards single-cell and spatial transcriptomics. Our latest event was an [introduction to single-cell RNA-seq analysis](https://www.youtube.com/watch?v=7zYDUD5aYgA&t=209s). Additionally, packages based on OpenAI API are increasingly being used. For instance, many of those packages can be used by people who lack coding skills. This is particularly helpful because not all biologists possess coding skills, and it makes their work easier. Another trend we have noticed is using [Quarto](https://quarto.org/) instead of [R Markdown](https://rmarkdown.rstudio.com/). [Shiny](https://shiny.posit.co/) is also gaining popularity in this field.
 
@@ -55,7 +55,7 @@ We have been receiving a lot of queries about bioinformatics workshops lately, p
 
 We value feedback from our attendees and gather suggestions from our latest events to improve our upcoming ones. Our events are designed to stay current with trends in the industry, and we often invite guest speakers to talk about relevant topics. For instance, during one of our workshops about Building a Chatbot with OpenAI, we had 200 participants whom we taught how to use R and create their chatbots. We learn from our experiences, and when we notice an interest in a particular area, we look to bring in speakers to teach on that subject.
 
-**_Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?_**   
+**Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?**   
 
 Hedia: Our organization had a sponsorship for our [Zoom](https://zoom.us/) account, an important tool for hosting events. One of the features that we utilize is the captions option, which allows participants from all over the world to have captions in their language and helps them follow the workshop. This is particularly helpful for those who may have difficulty understanding English. We are very grateful to [Appsilon](https://www.appsilon.com/) for their sponsorship of our Zoom account.
 
@@ -63,13 +63,13 @@ Amal: Thanks to Appsilon’s sponsorship, we have accepted more participants for
 
 Hedia: We provide teaching materials for our speaker sessions on [GitHub](https://github.com/tunisrusergroup). You can find all the materials on [YouTube](https://www.youtube.com/c/TunisRUserGroup) and use them to reproduce what the speaker did during their session. We are always open to questions, especially if you encounter bugs while trying to reproduce the speaker’s work. Recently, we received an email from a participant experiencing a bug, and we had a great time figuring it out together. If you have any questions or problems, feel free to ask us for help, and we’ll do our best to assist you. 
 
-**_Are your events online, in-person, or hybrid?_**
+**Are your events online, in-person, or hybrid?**
 
 Hedia: We are considering organizing hybrid events in the future, and we are searching for funding. We only have sponsorship for our Zoom, so we need additional funds to make this happen. We plan to organize events at multiple universities across the MENA region so important speakers can be followed in person and online. Amal, who is based in Tunis, has been in contact with many universities and academic professionals in the area. We’re currently exploring the best ways to make these hybrid events a reality, ensuring a seamless and enriching experience for everyone involved. Our goal is to make these events as engaging and accessible as possible, fostering a true sense of community.
 
 We want to organize events for online events and to provide something valuable to our community. When we meet in person, we can better understand their needs and challenges, which helps us to build and organize workshops that cater to their specific needs. Recently, Amal mentioned that some courses are not free in Tunisia, which can be a barrier for some people. Therefore, we aim to organize a free hybrid event for everyone who wants to join and learn with us. We hope to get funding for this initiative to provide this opportunity to all.
 
-**_Please share about a project you are currently working on or have worked on in the past using the R language. Goal/reason, result, anything interesting, especially related to the industry you work in?_**
+**Please share about a project you are currently working on or have worked on in the past using the R language. Goal/reason, result, anything interesting, especially related to the industry you work in?**
 
 Amal: For my PhD project, I conducted research on population genomics and RNA-seq to investigate the interaction between plants and parasitic plants. Our work shed light on the genetic diversity of _Orobanche foetida_, a parasitic plant posing a significant threat to faba beans in Tunisia. Additionally, through RNA-seq analysis, we identified a potential target gene for developing resistant varieties of faba beans against this parasitic plant. Furthermore, I recently completed a bachelor’s degree in biostatistics, specifically focusing on Aphid diversity in Tunisia.
 
