@@ -1,6 +1,6 @@
 ---
 title: "Enhancing Clinical Trial Data Sharing with R Consortium’s R Submissions Working Group"
-description: "The R Consortium’s working group R Submissions Working Group is spearheading an innovative approach to clinical trial data sharing, according to a feature in Nature."
+description: "The R Consortium's working group R Submissions Working Group is spearheading an innovative approach to clinical trial data sharing, according to a feature in Nature. This initiative, led by Eric…"
 author: "R Consortium"
 date: "05/29/2024"
 ---
