@@ -142,4 +142,6 @@ Click on “Create pull request” on Github
 
 ![](images/uploading_your_post_5.png)
 
-**NEED TO ADD SECTION ON APPROVAL PROCESS AND TIMING**
+**Approval Process and Timing**
+
+- Email info@r-consortium.org

@@ -2,6 +2,8 @@
 
 ## Live site here: [https://oppkeyquarto.netlify.app/](https://oppkeyquarto.netlify.app/)
 
+## How to Post: [How to Post](https://oppkeyquarto.netlify.app/blog/how_to_post.html)
+
 ## Running locally
 
 Clone repo
