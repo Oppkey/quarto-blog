@@ -3,7 +3,7 @@ title: "Navigating R’s Impact in Vienna: Insights from the Finance and Pharmac
 description: "The R Consortium recently spoke with Mario Annau, co-organizer of the Vienna R User Group. During the conversation, he discussed the use of R in the finance and pharmaceutical industries in Vienna."
 author: "R Consortium"
 image: "Untitled.jpg"
-date: "05/19/2024"
+date: "04/19/2024"
 format:
   html:
     css: 
