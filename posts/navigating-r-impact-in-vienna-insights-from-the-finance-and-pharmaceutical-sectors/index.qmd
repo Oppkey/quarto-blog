@@ -4,7 +4,7 @@ description: "The R Consortium recently spoke with Mario Annau, co-organizer of 
 author: "R Consortium"
 
 image: "annau.jpg"
-date: "05/19/2024"
+date: "04/19/2024"
 format:
   html:
     css: 
