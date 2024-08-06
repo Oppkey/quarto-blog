@@ -84,7 +84,7 @@ format: html
 <section class="what-is-r-section" id="what-is-r">
   <div style="display: flex; flex-wrap: wrap;">
   <div style="flex: 2; min-width: 300px; padding: 10px; align-items: center;">
-  <h2 class="scroll-title" data-target="what-is-r">WHAT IS THE R CONSORTIUM</h2>
+  <h2 class="scroll-title" >WHAT IS THE R CONSORTIUM</h2>
   <p>The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects.</p>
   <p>The R language is an open source environment for statistical computing and graphics, and runs on a wide variety of computing platforms. The R language has enjoyed significant growth, and now supports over 2 million users. A broad range of industries have adopted the R language, including biotech, finance, research and high technology industries. The R language is often integrated into third party analysis, visualization and reporting applications.</p>
   </div>
@@ -100,7 +100,7 @@ format: html
 </section>
 
 <section class="joining-r-section" id="joining-r">
-<h2 class="scroll-title" data-target="joining-r" style="border:none;">Joining R Consortium</h2>
+<h2 class="scroll-title"  style="border:none;">Joining R Consortium</h2>
 
 <p>
 Industry-leading organizations have joined the R Consortium to support an open source governance and foundation model to provide support to the R community, the R Foundation and groups and individuals, using, maintaining and distributing R software.
@@ -111,14 +111,14 @@ Industry-leading organizations have joined the R Consortium to support an open s
 </section>
 
 <section class="need-help-section" id="need-help">
-<h2 class="scroll-title" data-target="need-help">Need Help?</h2>
+<h2 class="scroll-title" >Need Help?</h2>
 <p>
 If you need help such as with billing, mailing lists or other wise then please use this service desk for support
 </p>
 <button class="darkButton"><a href="https://members.r-consortium.org/" style="text-decoration: none;">GET HELP</a></button>
 </section>
 <section id="latest-news">
-<h2 class="scroll-title" data-target="latest-news" >Latest NEWS AND UPDATES</h2>
+<h2 class="scroll-title" >Latest NEWS AND UPDATES</h2>
 <setion>
 <script>
 
