@@ -331,3 +331,7 @@ table, th, td {
 #table-membership td {
     text-align: center;
 }
+
+h2 {
+    cursor: default !important;
+}
