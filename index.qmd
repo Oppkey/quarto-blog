@@ -117,9 +117,11 @@ If you need help such as with billing, mailing lists or other wise then please u
 </p>
 <button class="darkButton"><a href="https://members.r-consortium.org/" style="text-decoration: none;">GET HELP</a></button>
 </section>
+
 <section id="latest-news">
-<h2 class="scroll-title" data-target="latest-news" >Latest NEWS AND UPDATES</h2>
-<setion>
+<h2 class="scroll-title" data-target="latest-news" >LATEST NEWS AND UPDATES</h2>
+</section>
+
 <script>
 
 document.addEventListener("DOMContentLoaded", function() {
