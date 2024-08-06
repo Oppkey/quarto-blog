@@ -1,3 +1,7 @@
+---
+image: images/R-CONSORTIUM-Q7-2023-NEWSLETTER-1.webp
+---
+
 # R Consortium Q3 2023 Newsletter
 
 # Welcome!
