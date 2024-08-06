@@ -25,23 +25,23 @@ Interested in strengthening the R community? [Submit a Proposal](callforproposal
 
 2023 (group 1)
 
-* [The future of DBI (extension 1)](https://www.r-consortium.org/projects/awarded-projects/2023-group-1#The%20future%20of%20DBI%20(extension%201))
-* [Secure TLS Communications for R](https://www.r-consortium.org/projects/awarded-projects/2023-group-1#Secure%20TLS%20Communications%20for%20R)
-* [volcalc: Calculate predicted volatility of chemical compounds](https://www.r-consortium.org/projects/awarded-projects/2023-group-1#volcalc:%20Calculate%20predicted%20volatility%20of%20chemical%20compounds)
-* [autotest: Automated testing of R packages](https://www.r-consortium.org/projects/awarded-projects/2023-group-1#autotest:%20Automated%20testing%20of%20R%20packages)
-* [api2r: An R Package for Auto-Generating R API Clients](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#api2r:%20An%20R%20Package%20for%20Auto-Generating%20R%20API%20Clients)
+* [The future of DBI (extension 1)](2023-group-1.html#the-future-of-dbi-extension-1)
+* [Secure TLS Communications for R](2023-group-1.html#secure-tls-communications-for-r)
+* [volcalc: Calculate predicted volatility of chemical compounds](2023-group-1.html#volcalc-calculate-predicted-volatility-of-chemical-compounds)
+* [autotest: Automated testing of R packages](2023-group-1.html#autotest-automated-testing-of-r-packages)
+* [api2r: An R Package for Auto-Generating R API Clients](2023-group-1.html#api2r-an-r-package-for-auto-generating-r-api-clients)
 
 2022 (group 2)
 
-* [D3po: R Package for Easy Interactive D3 Visualization With Shiny](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#D3po:%20R%20Package%20for%20Easy%20Interactive%20D3%20Visualization%20With%20Shiny)
-* [Tooling and Guidance for Translations of Markdown-Based R Content \(Quarto, R Markdown\)](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Tooling%20and%20Guidance%20for%20Translations%20of%20Markdown-Based%20R%20Content%20\(Quarto,%20R%20Markdown\))
-* [Online Submission and Review Infrastructure for the R Journal](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Online%20Submission%20and%20Review%20Infrastructure%20for%20the%20R%20Journal)
-* [Upgrading SatRdays Website Template](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Upgrading%20SatRdays%20Website%20Template)
-* [Building the “Spatial Data Science With R” Educational Materials and Pedagogical Infrastructure](https://www.r-consortium.org/projects/awarded-projects/2022-group-2#Building%20the%20%E2%80%9CSpatial%20Data%20Science%20With%20R%E2%80%9D%20Educational%20Materials%20and%20Pedagogical%20Infrastructure)
+* [D3po: R Package for Easy Interactive D3 Visualization With Shiny](2022-group-2.html#d3po-r-package-for-easy-interactive-d3-visualization-with-shiny)
+* [Tooling and Guidance for Translations of Markdown-Based R Content \ Quarto, R Markdown](2022-group-2.html#tooling-and-guidance-for-translations-of-markdown-based-r-content-quarto-r-markdown)
+* [Online Submission and Review Infrastructure for the R Journal](2022-group-2.html#online-submission-and-review-infrastructure-for-the-r-journal)
+* [Upgrading SatRdays Website Template](2022-group-2.html#upgrading-satrdays-website-template)
+* [Building the “Spatial Data Science With R” Educational Materials and Pedagogical Infrastructure](2022-group-2.html#building-the-spatial-data-science-with-r-educational-materials-and-pedagogical-infrastructure)
 
 2022 (group 1)
 
-* [Iterdatasampler: Expanding the lterdatasampler package](https://www.r-consortium.org/projects/awarded-projects/2022-group-1#Iterdatasampler:%20Expanding%20the%20lterdatasampler%20package)
+* [Iterdatasampler: Expanding the lterdatasampler package](2022-group-1.html)
 * [Femr: Finite Element Method for Solving PDEs in R](https://www.r-consortium.org/projects/awarded-projects/2022-group-1#Femr:%20Finite%20Element%20Method%20for%20Solving%20PDEs%20in%20R)
 * [Continuing to Improve R’s Ability to Visualise and Explore Missing Values](https://www.r-consortium.org/projects/awarded-projects/2022-group-1#Continuing%20to%20Improve%20R%E2%80%99s%20Ability%20to%20Visualise%20and%20Explore%20Missing%20Values)
 * [Dengue Data Hub](https://www.r-consortium.org/projects/awarded-projects/2022-group-1#Dengue%20Data%20Hub)
