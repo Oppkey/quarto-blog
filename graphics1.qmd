@@ -95,7 +95,7 @@ format: html
   </div>
   </div>
 <button class="darkButton"><a href="about/index.qmd" style="text-decoration: none;">LEARN MORE</a></button>
-<button class="darkButton"><a href="docs/RC-AR-2023_Final-Draft_1-30-24.pdf" style="text-decoration: none;">READ OUR ANNUAL REPORT 2023</a></button>
+<button class="darkButton"><a href="rc-docs/RC-AR-2023_Final-Draft_1-30-24.pdf" style="text-decoration: none;">READ OUR ANNUAL REPORT 2023 (PDF)</a></button>
 
 </section>
 
