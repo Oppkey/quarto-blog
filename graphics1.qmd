@@ -65,7 +65,7 @@ format: html
   color: black;
 }
 .joining-r-section {
-  background-image: url('images/WaterManagement_v2.4.jpg');
+  background-image: url('images/Background_3.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -76,8 +76,8 @@ format: html
 
 </style>
 
-<section id="hero1">
-    <h2 id="scroll-to-hero1">R Consortium</h2>
+<section id="hero2">
+    <h2 id="scroll-to-hero2">R Consortium</h2>
     <p>Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</p>
 </section>
 
@@ -90,12 +90,12 @@ format: html
   </div>
   <div style="flex: 1; min-width: 300px; padding: 20px; border; display: flex; justify-content: flex-end; align-items: end;">
   <a class="video-popup" href="https://www.youtube.com/watch?v=XcBLEVknqvY" target="blank">
-  <img src="https://www.r-consortium.org/wp-content/uploads/sites/13/2016/09/rcon_video_preview.png" alt="Video Preview" style="width: 70%; height: auto; cursor: pointer; margin-left: 30%">
+  <img src="images/rcon_video_preview.png" alt="Video Preview" style="width: 70%; height: auto; cursor: pointer; margin-left: 1%">
   </a>
   </div>
   </div>
 <button class="darkButton"><a href="about/index.qmd" style="text-decoration: none;">LEARN MORE</a></button>
-<button class="darkButton"><a href="rc-docs/RC-AR-2023_Final-Draft_1-30-24.pdf" style="text-decoration: none;">READ OUR ANNUAL REPORT 2023 (PDF)</a></button>
+<button class="darkButton"><a href="rc-docs/RC-AR-2023_Final-Draft_1-30-24.pdf" style="text-decoration: none;">READ OUR ANNUAL REPORT 2023</a></button>
 
 </section>
 
