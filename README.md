@@ -2,7 +2,7 @@
 
 This is a new Quarto-based website which updates and supersedes the original website [here:](https://www.r-consortium.org/)
 
-R Consortium Blog - How to upload your blog post to a quarto-based website
+R Consortium Blog - [How to upload your blog post to a quarto-based website](https://oppkeyquarto.netlify.app/blog/how_to_post.html)
 
 ## Contributing to this website
 
