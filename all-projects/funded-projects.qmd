@@ -15,13 +15,13 @@ Interested in strengthening the R community? [Submit a Proposal](callforproposal
 
 
 
-* [Translating R to Nepali](https://www.r-consortium.org/projects/awarded-projects/2023-group-2#Translating%20R%20to%20Nepali)
-* [RStats Mastodon Server](https://www.r-consortium.org/projects/awarded-projects/2023-group-2#Stats%20Mastodon%20Server)
-* [Tooling for internationalization of R help pages](https://www.r-consortium.org/projects/awarded-projects/2023-group-2#Tooling%20for%20internationalization%20of%20R%20help%20pages)
-* [Causal Inference in a Box](https://www.r-consortium.org/projects/awarded-projects/2023-group-2#Causal%20Inference%20in%20a%20Box)
-* [Accessibility Enhancements for the R Journal](https://www.r-consortium.org/projects/awarded-projects/2023-group-2#Accessibility%20Enhancements%20for%20the%20R%20Journal)
-* [Taking r-universe to the next level](https://www.r-consortium.org/projects/awarded-projects/2023-group-2#Taking%20r-universe%20to%20the%20next%20level)
-* [R Kafka Client](https://www.r-consortium.org/projects/awarded-projects/2023-group-2#R%20Kafka%20Client)
+* [Translating R to Nepali](2023-group-2.html#translating-r-to-nepali)
+* [RStats Mastodon Server](2023-group-2.html#rstats-mastodon-server)
+* [Tooling for internationalization of R help pages](2023-group-2.html#tooling-for-internationalization-of-r-help-pages)
+* [Causal Inference in a Box](2023-group-2.html#causal-inference-in-a-box)
+* [Accessibility Enhancements for the R Journal](2023-group-2.html#accessibility-enhancements-for-the-r-journal)
+* [Taking r-universe to the next level](2023-group-2.html#taking-r-universe-to-the-next-level)
+* [R Kafka Client](2023-group-2.html#r-kafka-client)
 
 2023 (group 1)
 
