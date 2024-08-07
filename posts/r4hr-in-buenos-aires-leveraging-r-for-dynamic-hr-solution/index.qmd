@@ -49,7 +49,7 @@ In June, we will hold a meetup to address Data Visualization in HR using the [gg
 
 This meetup’s target audience is individuals interested in understanding the benefits of working with R‌ and people in the human resources field who are interested in the topic.
 
-For this event, we conducted the invitation through Meetup and provided a Google Meet link. After the event, we will upload it to ~~[YouTube](https://www.youtube.com/playlist?list=PLZuVytUJrxQlcqu6l-P3ou4vV2mRJU2Ka)~~ and communicate to the community through [social media](https://linktr.ee/r4hrclub).
+For this event, we conducted the invitation through Meetup and provided a Google Meet link. After the event, we will upload it to [YouTube](https://www.youtube.com/playlist?list=PLZuVytUJrxQlcqu6l-P3ou4vV2mRJU2Ka) and communicate to the community through [social media](https://linktr.ee/r4hrclub).
 
 **Would you like to tell us about an interesting recent Meetup from the group?**
 
