@@ -1,4 +1,4 @@
-## New R Consortium Website
+# New R Consortium Website
 
 This is a new Quarto-based website which updates and supersedes the original website [here:](https://www.r-consortium.org/)
 
@@ -51,7 +51,7 @@ The R Consortium sponsors R-related conferences (including useR!), meetings (inc
 Enabling the use of R in commercial environments, and fostering collaboration between companies investing in R.  
 R Consortium committees are developing programs for R language certification and training, consulting, and employment.
 
-The mission of the R Consortium is formally defined in the [R Consortium bylaws](rc-docs/Bylaws-GU-Draft-7-9-2024.docx.pdf) and the [Infrastructure Steering Committee charter](rc-docs/ISC-Charter-08-11-23.pdf).
+The mission of the R Consortium is formally defined in the [R Consortium bylaws](rc-docs/Bylaws-GU-Draft-7-9-2024.docx.pdf) (PDF) and the [Infrastructure Steering Committee charter](rc-docs/ISC-Charter-08-11-23.pdf) (PDF).
 
 ## Main Links
 
@@ -63,12 +63,13 @@ Twitter: [https://twitter.com/rconsortium?lang=en](https://twitter.com/rconsorti
 LinkedIn: [https://www.linkedin.com/company/r-consortium/](https://www.linkedin.com/company/r-consortium/)  
 Mastodon: [https://fosstodon.org/@RConsortium](https://fosstodon.org/@RConsortium)
 
+---
+
+## Development Section
 
 ## Quarto Project hosted with Netlify
 
 ## Live site here: [https://oppkeyquarto.netlify.app/](https://oppkeyquarto.netlify.app/)
-
-## How to Post: [How to Post](https://oppkeyquarto.netlify.app/blog/how_to_post.html)
 
 ## Running locally
 
@@ -100,7 +101,6 @@ The .gitignore of this project is setup to ignore `_site/` and `.quarto/`
 - `_site/` is also known as `docs/` in other quarto projects
 
 - `_site` was specified as netlify publish directory on the website 
-
 
 ## Notable findings
 
