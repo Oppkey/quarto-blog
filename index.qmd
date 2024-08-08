@@ -76,6 +76,29 @@ format: html
 
 </style>
 
+<div class="tour__gallery">
+<ul class="picture__slider">
+<li class="carousel__image">
+<img src="images/carousel/rcon_member_bg1.webp" alt="Vanilla Carousel Javascript" />
+</li>
+<li class="carousel__image">
+<img src="images/carousel/rcon_slide_bg2.webp" alt="Vanilla Carousel Javascript" />
+</li>
+<li class="carousel__image">
+<img src="images/carousel/rcon_slide_bg2b.webp" alt="Vanilla Carousel Javascript" />
+</li>
+<li class="carousel__image">
+<img src="images/carousel/IMG_5390-1024x716-1.webp" alt="Vanilla Carousel Javascript" />
+</li>
+</ul>
+<div class="controls">
+<button class="btn--prev is-hidden">Prev
+</button>
+<button class="btn--next">Next 
+</button>
+</div>
+</div>
+
 <section id="hero">
     <h2>R Consortium</h2>
     <p>Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</p>
@@ -166,4 +189,63 @@ document.addEventListener("DOMContentLoaded", function() {
 document.getElementById('scroll-to-hero').addEventListener('click', function() {
     document.getElementById('hero').scrollIntoView({ behavior: 'smooth' });
 });
+</script>
+
+<script>
+const trackContainer = document.querySelector('.picture__slider');
+const carouselImage = document.querySelectorAll('.carousel__image');
+const btnPrev = document.querySelector('.btn--prev');
+const btnNext = document.querySelector('.btn--next');
+let amountToMove = carouselImage[0].offsetWidth;
+
+window.addEventListener('resize',() => {
+	amountToMove = carouselImage[0].offsetWidth;
+})
+
+let count = 0;
+btnNext.addEventListener('click', function() {
+	if(count >= carouselImage.length-1 ) return;
+	count++;
+	let imgSrc = carouselImage[count].firstElementChild;
+	if(imgSrc.getAttribute('src') === "") {
+		imgSrc.setAttribute('src',imgSrc.dataset.src);
+	}
+	trackContainer.style.transition = "transform 0.5s ease-in-out"
+	trackContainer.style.transform = 'translateX(-' + amountToMove * count + 'px)';
+	btnShowHide(count);
+});
+
+window.addEventListener('resize',() => {
+	const widthGallery = document.querySelector('.tour__gallery').offsetWidth;
+	trackContainer.style.transition = "none"
+	trackContainer.style.transform = 'translateX(-' + amountToMove * count + 'px)';
+	/*if(count === carouselImage.length-1) {
+		trackContainer.style.transform = 'translateX(-' + amountToMove * count + 'px)';
+	}*/
+});
+
+btnPrev.addEventListener('click', function() {
+	if(count === 0 ) return;
+	count--;
+	trackContainer.style.transition = "transform 0.5s ease-in-out"
+	trackContainer.style.transform = 'translateX(-' + amountToMove * count + 'px)';
+	btnShowHide(count);
+});
+
+
+
+function btnShowHide(count) {
+	if(count === 0) {
+		btnPrev.classList.add('is-hidden');
+		btnNext.classList.remove('is-hidden');
+	}
+	else if(count === carouselImage.length-1) {
+		btnPrev.classList.remove('is-hidden');
+		btnNext.classList.add('is-hidden');
+	}
+	else {
+		btnPrev.classList.remove('is-hidden');
+		btnNext.classList.remove('is-hidden');
+	}
+}
 </script>
