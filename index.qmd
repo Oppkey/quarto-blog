@@ -204,6 +204,10 @@ var Swipes = new Swiper('.swiper-container', {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
     },
+    autoplay: {
+        delay: 4500,
+        disableOnInteraction: false,
+    },
     pagination: {
         el: '.swiper-pagination',
     },
