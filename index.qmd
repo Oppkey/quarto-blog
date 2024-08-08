@@ -7,6 +7,8 @@ listing:
 page-layout: full
 format: html
 ---
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/css/swiper.css">
+
 <style>
 @keyframes slideInFromLeft {
   0% {
@@ -76,10 +78,34 @@ format: html
 
 </style>
 
-<section id="hero">
-    <h2>R Consortium</h2>
-    <p>Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</p>
-</section>
+
+<div class="swiper-container">
+<!-- swiper slides -->
+<div class="swiper-wrapper">
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/FsJ6VGpz/rcon-member-bg1.webp);">
+<h2>R User Group Program and Small Conference Funding Program now accepting applications Partner with us to support your meetup or local event.</h2>
+</div>
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/3rq6Gzgz/IMG-5390-1024x716-1.webp);">
+<h2>R Consortium: Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.</h2>
+</div>
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/K8SHqLpN/rcon-slide-bg2.webp);">
+<h2>R User Group Program and Small Conference Funding Program now accepting applications Partner with us to support your meetup or local event.</h2>
+</div>
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/Sx6twsw-p/rcon-slide-bg2b.webp);">
+<h2>Find your local R user group Network with fellow statisticians and learn from your peers. </h2>
+
+</div>
+</div>
+<!-- !swiper slides -->
+<!-- next / prev arrows -->
+<div class="swiper-button-next"></div>
+<div class="swiper-button-prev"></div>
+<!-- !next / prev arrows -->
+<!-- pagination dots -->
+<div class="swiper-pagination"></div>
+<!-- !pagination dots -->
+</div>
+
 
 <section class="what-is-r-section" id="what-is-r">
   <div style="display: flex; flex-wrap: wrap;">
@@ -165,5 +191,25 @@ document.addEventListener("DOMContentLoaded", function() {
 });
 document.getElementById('scroll-to-hero').addEventListener('click', function() {
     document.getElementById('hero').scrollIntoView({ behavior: 'smooth' });
+});
+</script>
+
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.3.3/js/swiper.min.js"></script>
+
+<script>
+var Swipes = new Swiper('.swiper-container', {
+    loop: true,
+    navigation: {
+        nextEl: '.swiper-button-next',
+        prevEl: '.swiper-button-prev',
+    },
+    autoplay: {
+        delay: 4500,
+        disableOnInteraction: false,
+    },
+    pagination: {
+        el: '.swiper-pagination',
+    },
 });
 </script>

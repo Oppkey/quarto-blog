@@ -335,3 +335,23 @@ table, th, td {
 h2 {
     cursor: default !important;
 }
+
+.swiper-container {
+    width: 100%;
+}
+
+.swiper-slide {
+    background-size: cover;
+    background-position: 50%;
+    min-height: 70vh;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.swiper-container h2 {
+    color: white;
+    max-width: 70%;
+}
