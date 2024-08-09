@@ -11,35 +11,6 @@ website:
     title: false
     logo-alt: "R Consortium logo"
     right:
-      - text: "Members"
-        menu:
-          - text: "Members"
-            href: members.qmd
-          - text: Join
-            href: about/join.qmd
-          - text: Membership Agreement (PDF)
-            href:  rc-docs/R-Consortium-Membership-Agreement-1157181-v2-Approved-11.20.19.pdf
-
-      - text: "Projects"
-        menu:
-          - text: Projects
-            href:  all-projects/index.qmd
-          - text: Funded Projects
-            href:  all-projects/funded-projects.qmd
-          - text: Call for Proposals 
-            href:  all-projects/callforproposals.qmd
-          - text: R-Hub
-            href:  https://github.com/r-hub
-          - text: R-Ladies
-            href:   https://rladies.org/
-          - text: DBI
-            href:   https://r-dbi.org/
-          - text: RUGS Program
-            href:  all-projects/rugsprogram.qmd
-          - text: Working Groups
-            href:  all-projects/isc-working-groups.qmd
-          - text: Submitting for payment
-            href:  all-projects/submittingforpayment.qmd
 
       - text: "About"
         menu:
@@ -59,14 +30,51 @@ website:
             href:  rc-docs/ISC-Charter-08-11-23.pdf
           - text: Marketing Committee Charter (PDF)
             href:  rc-docs/R-Consortium-Marketing-Committee-Charter-2021-10-27.pdf
-      - text: Webinars
-        href:  ./webinars/webinars.qmd
-      - text: R/Medicine
-        href:  https://rconsortium.github.io/RMedicine_website/
-      - text: "News"
+
+      - text: "Members"
         menu:
+          - text: "Members"
+            href: members.qmd
+          - text: Join
+            href: about/join.qmd
+          - text: Membership Agreement (PDF)
+            href:  rc-docs/R-Consortium-Membership-Agreement-1157181-v2-Approved-11.20.19.pdf
+
+      - text: "Grants"
+        menu:
+          - text: Projects
+            href:  all-projects/index.qmd
+          - text: Funded Projects
+            href:  all-projects/funded-projects.qmd
+          - text: Call for Proposals 
+            href:  all-projects/callforproposals.qmd
+          - text: RUGS Program
+            href:  all-projects/rugsprogram.qmd
+          - text: Submitting for payment
+            href:  all-projects/submittingforpayment.qmd
+
+      - text: "Projects"
+        menu:
+          - text: R-Hub
+            href:  https://github.com/r-hub
+          - text: R-Ladies
+            href:   https://rladies.org/
+          - text: DBI
+            href:   https://r-dbi.org/
+          - text: Working Groups
+            href:  all-projects/isc-working-groups.qmd
+
+      - text: "Events"
+        menu:
+          - text: R/Medicine
+            href:  https://rconsortium.github.io/RMedicine_website/
+          - text: Webinars
+            href:  ./webinars/webinars.qmd
           - text: Events
             href: news/events.qmd
+
+      - text: "News"
+        menu:
           - text: Blog
             href: blog/index.qmd
           - text: Newsletter
