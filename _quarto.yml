@@ -14,14 +14,8 @@ website:
 
       - text: "About"
         menu:
-          - text: About
+          - text: Mission Statement
             href:  about/index.qmd
-          - text: FAQ
-            href:  about/faq.qmd
-          - text: Contact
-            href:  about/contact.qmd
-          - text: Privacy Policy
-            href:  about/privacy.qmd
           - text: Governance
             href:  about/governance.qmd
           - text: Bylaws (PDF)
@@ -30,6 +24,12 @@ website:
             href:  rc-docs/ISC-Charter-08-11-23.pdf
           - text: Marketing Committee Charter (PDF)
             href:  rc-docs/R-Consortium-Marketing-Committee-Charter-2021-10-27.pdf
+          - text: FAQ
+            href:  about/faq.qmd
+          - text: Contact
+            href:  about/contact.qmd
+          - text: Privacy Policy
+            href:  about/privacy.qmd
 
       - text: "Members"
         menu:
