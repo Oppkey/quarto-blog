@@ -33,7 +33,7 @@ website:
 
       - text: "Members"
         menu:
-          - text: "Members"
+          - text: Members
             href: members.qmd
           - text: Join
             href: about/join.qmd
@@ -42,9 +42,9 @@ website:
 
       - text: "Grants"
         menu:
-          - text: Projects
+          - text: Goal of ISC Grants Program
             href:  all-projects/index.qmd
-          - text: Funded Projects
+          - text: Recipients of ISC Grants
             href:  all-projects/funded-projects.qmd
           - text: Call for Proposals 
             href:  all-projects/callforproposals.qmd
