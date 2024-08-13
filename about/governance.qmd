@@ -278,6 +278,3 @@ As a [project operating within the Linux Foundation](http://collabprojects.linux
 </div>
 </div>
 </div>
-
-
-
