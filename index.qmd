@@ -76,6 +76,21 @@ format: html
   
 }
 
+.video-popup{
+  position: relative;
+}
+
+.play {
+  border-radius: 50%;
+  padding: 10px;
+  background-color: rgb(30, 81, 164);
+  max-width: 50px;
+  max-height: 50px;
+  position: absolute;
+  right: 45%;
+  top: 45%;
+}
+
 </style>
 
 
@@ -122,6 +137,7 @@ format: html
   <div style="flex: 1; min-width: 300px; padding: 20px; border; display: flex; justify-content: flex-end; align-items: end;">
   <a class="video-popup" href="https://www.youtube.com/watch?v=XcBLEVknqvY" target="blank">
   <img src="images/rcon_video_preview.png" alt="Video Preview" style="width: 90%; height: auto; cursor: pointer; margin-left: 1%">
+  <img src="images/play-button-svgrepo-com.svg" alt="Play Button" class="play">
   </a>
   </div>
   </div>
