@@ -25,6 +25,7 @@ page-layout: full
   height: 130px;
   border-radius: 30%;
   margin-bottom: 10px;
+  object-fit: cover; 
 }
 
 /* Media query for responsiveness */
