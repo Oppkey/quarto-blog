@@ -29,6 +29,7 @@ page-layout: full
   height: 130px;
   border-radius: 30%;
   margin-bottom: 10px;
+  object-fit: cover; /* This ensures the image covers the entire area without distortion */
 }
 
 /* Media query for responsiveness */
@@ -235,18 +236,7 @@ The business of the foundation is managed by its Board of Directors, composed of
 <h4>ROCHE (PLATINUM MEMBER)</h4>
 <a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/robert-müller-b1b3a244" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>
 </div>
-<div class="profile-card">
-<img class="pic" src="./images/Hadley-2.webp" alt="Profile Image 19">
-<h2>Hadley Wickham</h2>
-<h4>R STUDIO (PLATINUM MEMBER)</h4>
-<p>Hadley is Chief Scientist at RStudio, a member of the R Foundation, and Adjunct Professor at Stanford University and the University of Auckland. He builds tools (both computational and cognitive) to make data science easier, faster, and more fun. His work includes packages for data science (the tidyverse: including ggplot2, dplyr, tidyr, purrr, and readr) and principled software development (roxygen2, testthat, devtools). He is also a writer, educator, and speaker promoting the use of R for data science. Learn more on his website, http://hadley.nz.</p>
-<div class="social-links">
-<a target="_blank" class="tmm_sociallink" href="https://www.linkedin.com/in/hadleywickham" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/linkedin.png"></a>
-<a target="_blank" class="tmm_sociallink" href="https://twitter.com/hadleywickham" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/twitter.png"></a>
-<a target="_blank" class="tmm_sociallink" href="http://hadley.nz/" title=""><img decoding="async" alt="" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/website.png"></a>
-<a target="_blank" class="tmm_sociallink" href="https://github.com/hadley" title="GitHub"><img decoding="async" alt="GitHub" src="https://www.r-consortium.org/wp-content/plugins/team-members-pro/img/links/customlink.png"></a>
-</div>
-</div>
+
 <div class="profile-card">
 <img class="pic" src="./images/Nan.webp" alt="Profile Image 20">
 <h2>Nan Xiao</h2>
