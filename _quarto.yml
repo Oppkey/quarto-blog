@@ -56,7 +56,7 @@ website:
       - text: "Projects"
         menu:
           - text: R-Hub
-            href:  https://github.com/r-hub
+            href:  https://blog.r-hub.io/2024/04/11/rhub2/
           - text: R-Ladies
             href:   https://rladies.org/
           - text: DBI
@@ -69,7 +69,7 @@ website:
           - text: R/Medicine
             href:  https://rconsortium.github.io/RMedicine_website/
           - text: Webinars
-            href:  ./webinars/webinars.qmd
+            href:  webinars/webinars.qmd
           - text: Events
             href: news/events.qmd
 
