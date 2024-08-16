@@ -85,7 +85,7 @@ The primary mission of the R Consortium is to develop and implement infrastructu
 
 ## Board of Directors
 
-The business of the foundation is managed by its Board of Directors, composed of appointed Platinum members of the R Consortium, annually elected Silver members of the R Consortium, and the ISC appointed director as [defined in the ByLaws](/rc-docs/Bylaws-GU-Draft-7-9-2024.docx.pdf) (PDF).
+The business of the foundation is managed by its Board of Directors, composed of appointed Platinum members of the R Consortium, annually elected Silver members of the R Consortium, and the ISC appointed director as [defined in the ByLaws](/rc-docs/R-Consortium-Bylaws-7-9-2024.pdf) (PDF).
 
 
 <div class="profile-cards">
