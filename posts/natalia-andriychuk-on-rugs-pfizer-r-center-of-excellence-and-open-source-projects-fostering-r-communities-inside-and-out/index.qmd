@@ -10,7 +10,7 @@ The R Consortium recently talked with [Natalia Andriychuk](https://www.linkedin.
 
 She started her R journey over 7 years ago, and since then, she has been passionate about open source development. She is a member of the Interactive Safety Graphics Task Force within the [American Statistical Association Biopharmaceutical Safety Working Group](https://community.amstat.org/biop/workinggroups/safety-home), which is developing graphical tools for the drug safety community. 
 
-![](images/natalia-at-posit-2024.png)
+![](images/natalia-at-posit-2023.png)
 _Natalia Andriychuk at posit:conf 2023_
 
 **Please share your background and involvement with the R community at Pfizer and beyond.**
