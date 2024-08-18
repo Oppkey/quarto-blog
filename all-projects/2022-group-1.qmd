@@ -4,10 +4,10 @@ The R Consortium Infrastructure Steering Committee periodically solicits proposa
 
 Grants funded in this group:
 
--   [Iterdatasampler: Expanding the lterdatasampler package](https://www.r-consortium.org/all-projects/awarded-projects/2022-group-1#Iterdatasampler:%20Expanding%20the%20lterdatasampler%20package)
--   [Femr: Finite Element Method for Solving PDEs in R](https://www.r-consortium.org/all-projects/awarded-projects/2022-group-1#Femr:%20Finite%20Element%20Method%20for%20Solving%20PDEs%20in%20R)
--   [Continuing to Improve R’s Ability to Visualise and Explore Missing Values](https://www.r-consortium.org/all-projects/awarded-projects/2022-group-1#Continuing%20to%20Improve%20R%E2%80%99s%20Ability%20to%20Visualise%20and%20Explore%20Missing%20Values)
--   [Dengue Data Hub](https://www.r-consortium.org/all-projects/awarded-projects/2022-group-1#Dengue%20Data%20Hub)
+-   [Iterdatasampler: Expanding the lterdatasampler package](#iterdatasampler-expanding-the-lterdatasampler-package)
+-   [Femr: Finite Element Method for Solving PDEs in R](#femr-finite-element-method-for-solving-pdes-in-r)
+-   [Continuing to Improve R’s Ability to Visualise and Explore Missing Values](#continuing-to-improve-rs-ability-to-visualise-and-explore-missing-values)
+-   [Dengue Data Hub](#dengue-data-hub)
 
 ___
 
