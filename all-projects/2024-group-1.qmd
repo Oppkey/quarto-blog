@@ -9,7 +9,7 @@ Grants funded in this group:
 - [R-multiverse for production](#r-multiverse-for-production)
 - [Critical Updates to Biostrings](#critical-updates-to-biostrings)
 - [Setting up igraph for success in the next decade](#setting-up-igraph-for-success-in-the-next-decade)
-- [{geotargets}: Enabling geospatial workflow management with {targets}](#{geotargets}-enabling-geospatial-workflow-management-with-{targets})
+- [{geotargets}: Enabling geospatial workflow management with {targets}](#geotargets-enabling-geospatial-workflow-management-with-targets)
 
 ___
 
