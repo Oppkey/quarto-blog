@@ -2,8 +2,6 @@
 
 2023 (group 2)
 
-
-
 * [Translating R to Nepali](2023-group-2.html#translating-r-to-nepali)
 * [RStats Mastodon Server](2023-group-2.html#rstats-mastodon-server)
 * [Tooling for internationalization of R help pages](2023-group-2.html#tooling-for-internationalization-of-r-help-pages)
