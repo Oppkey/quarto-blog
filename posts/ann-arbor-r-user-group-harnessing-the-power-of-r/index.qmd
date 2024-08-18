@@ -9,7 +9,7 @@ The R Consortium talked to [Barry Decicco](https://www.linkedin.com/in/barrydeci
 
 ![](media.jpg)
 
-**_Please share about your background and involvement with the RUGS group._**
+**Please share about your background and involvement with the RUGS group.**
 
 Throughout my professional career, I have gained extensive experience in various industries as a statistician. Statisticians are often thought of as either staying in one industry for their entire career or frequently transitioning between them. I have followed the latter path, having held positions at Ford Motor Company, their spinoff Visteon, the University of Michigan School of Nursing, the University of Michigan Health System, Nissan Motor Company, Volkswagen Credit (as a contractor), Michigan State University, and currently [Quality Insights](http://www.qualityinsights.org/).
 
@@ -21,7 +21,7 @@ I have recently started a new job primarily working with the SAS programming lan
 
 Before the COVID pandemic, the R users group met in Ann Arbor. However, the pandemic dealt a major blow to the group, and we are still recovering from its impact. In our efforts to revive the group, we continued with the same theme as before: a mix of programming and statistics. However, we have been focusing more on programming and simpler analysis to make it easier to get the group restarted. We have also introduced some new presenters covering topics such as machine learning pipelines in their presentations.
 
-**_Can you share what the R community is like in Ann Arbor?_**
+**Can you share what the R community is like in Ann Arbor?**
 
 R has become a popular programming language in academia and will likely remain relevant in this field. However, general coding and applications are more prevalent in the industrial sector. [Python](https://www.python.org/) is gaining popularity because it attracts a broader range of programmers, including those who are not data or analytics specialists. Therefore, R will continue to be a significant but specialized tool.
 
@@ -29,13 +29,13 @@ Currently, I have noticed a significant decrease in the usage of SAS. This trend
 
 If a company spends a fixed amount, say $10,000, on SAS licenses yearly, it might not like it. But then, it may hire additional staff to do the same work SAS did earlier. The salary of these people, and other associated costs, may come from a different funding source. As a result, the company may spend a significant amount of money, ranging from $120,000 to $150,000 annually, to replace a smaller amount of $10,000 to $20,000 annually. However, whether this arrangement is acceptable would depend on the funding source.
 
-**_Do you have an upcoming meeting planned? What are your plans for the RUG for this year?_**
+**Do you have an upcoming meeting planned? What are your plans for the RUG for this year?**
 
 Our next presenter, [Brittany Buggs](https://www.linkedin.com/in/brittanybuggs/), Staff Data Analyst at Rocket Mortgage, will demonstrate the usage of the [GT package for generating tables](https://www.meetup.com/ann-arbor-r-user-group/events/298545435/). Additionally, we are striving to establish closer integration with the [Ann Arbor chapter of the American Statistical Association](https://community.amstat.org/annarbor/home) to foster mutual support and collaboration between the groups. We have been conducting hybrid meetings catering to in-person and virtual attendees. [Ann Arbor Spark](https://annarborusa.org/), a local startup business development organization, has generously provided us with a physical meeting space. Our meetings follow a hybrid format, recognizing the convenience and accessibility it offers to many individuals.
 
 This year, I aim to have more presenters as I have been doing all the presentations by myself. I plan to raise awareness about R, R Markdown, and Quarto and show people how these tools can be useful. I will promote these tools at the University of Michigan and other companies.
 
-**_What trends do you currently see in the R language?_**
+**What trends do you currently see in the R language?**
 
 When it comes to data analysis, R has a clear advantage. The [tidyverse](https://www.tidyverse.org/) syntax is easy to understand, even for those unfamiliar with data tables or Pandas-like programming paradigms.
 
@@ -59,7 +59,7 @@ When using Git in conjunction with R, you can access a detailed transaction hist
 
 In fact, I used SPSS to conduct a project and leveraged GitHub as an experiment. I utilized the data management capabilities of RStudio and found the results satisfactory.
 
-**_Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?_**   
+**Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?**   
 
 I suggest that RUG organizers should arrange regular monthly meetings. It would be advantageous to fix these meetings on the same day and time every month, as it will help attendees get accustomed to the routine and know when to expect them.
 
