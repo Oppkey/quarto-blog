@@ -1,5 +1,15 @@
 # Recipients of ISC Grants
 
+2024 (group 1)
+
+- [Modular, interoperable, and extensible topological data analysis in R](2024-group-1.html#modular-interoperable-and-extensible-topological-data-analysis-in-r)
+- [ISO 19115-3 standard implementation in geometa R package](2024-group-1.html#iso-19115-3-standard-implementation-in-geometa-r-package)
+- [R-multiverse for production](2024-group-1.html#r-multiverse-for-production)
+- [Critical Updates to Biostrings](2024-group-1.html#critical-updates-to-biostrings)
+- [Setting up igraph for success in the next decade](2024-group-1.html#setting-up-igraph-for-success-in-the-next-decade)
+- [{geotargets}: Enabling geospatial workflow management with {targets}](2024-group-1.html#geotargets-enabling-geospatial-workflow-management-with-targets)
+
+
 2023 (group 2)
 
 * [Translating R to Nepali](2023-group-2.html#translating-r-to-nepali)
