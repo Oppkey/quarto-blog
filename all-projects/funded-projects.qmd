@@ -45,63 +45,63 @@
 
 2021 (group 2)
 
-* [Preparing CRAN for the Retirement of rgdal, rgeos and maptools](https://www.r-consortium.org/projects/awarded-projects/2021-group-2#Preparing%20CRAN%20for%20the%20Retirement%20of%20rgdal,%20rgeos%20and%20maptools)
-* [R Package for the ICESat-2 Altimeter Data](https://www.r-consortium.org/projects/awarded-projects/2021-group-2#R%20Package%20for%20the%20ICESat-2%20Altimeter%20Data)
-* [The Future of DBI](https://www.r-consortium.org/projects/awarded-projects/2021-group-2#The%20Future%20of%20DBI)
-* [Data Science and Machine Learning Training Workshop Using R Programming Language](https://www.r-consortium.org/projects/awarded-projects/2021-group-2#Data%20Science%20and%20Machine%20Learning%20Training%20Workshop%20Using%20R%20Programming%20Language)
+* [Preparing CRAN for the Retirement of rgdal, rgeos and maptools](2021-group-2.html#preparing-cran-for-the-retirement-of-rgdal-rgeos-and-maptools)
+* [R Package for the ICESat-2 Altimeter Data](2021-group-2.html#r-package-for-the-icesat-2-altimeter-data)
+* [The Future of DBI](2021-group-2.html#the-future-of-dbi)
+* [Data Science and Machine Learning Training Workshop Using R Programming Language](2021-group-2.html#data-science-and-machine-learning-training-workshop-using-r-programming-language)
 
 2021 (group 1)
 
-* [Accounting/Auditing Gap-Analysis](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#accounting/auditing+gap-analysis)
-* [Extendr - Rust extensions for R.](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#extendr+-+rust+extensions+for+r.)
-* [Google Earth Engine with R](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#google+earth+engine+with+r)
-* [Improving Translations in R](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#improving+translations+in+r)
-* [Minimizing wastage of blood products](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#minimizing+wastage+of+blood+products)
-* [R for Engineering Applications](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#r+for+engineering+applications)
-* [Setting up an R-Girls-Schools Network](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#setting+up+an+r-girls-schools+network)
-* [deposits: Deposit Research Data Anywhere](https://www.r-consortium.org/projects/awarded-projects/2021-group-1#deposits:+deposit+research+data+anywhere)
+* [Accounting/Auditing Gap-Analysis](2021-group-1.html#accountingauditing-gap-analysis)
+* [Extendr - Rust extensions for R.](2021-group-1.html#extendr---rust-extensions-for-r.)
+* [Google Earth Engine with R](2021-group-1.html#google-earth-engine-with-r)
+* [Improving Translations in R](2021-group-1.html#improving-translations-in-r)
+* [Minimizing wastage of blood products](2021-group-1.html#minimizing-wastage-of-blood-products)
+* [R for Engineering Applications](2021-group-1.html#r-for-engineering-applications)
+* [Setting up an R-Girls-Schools Network](2021-group-1.html#setting-up-an-r-girls-schools-network)
+* [deposits: Deposit Research Data Anywhere](2021-group-1.html#deposits-deposit-research-data-anywhere)
 
 2020 (group 2)
 
 
 
-* [Development and maintenance of the Windows build infrastructure (Top level project proposal)](https://www.r-consortium.org/projects/awarded-projects/2020-group-2#development+and+maintenance+of+the+windows+build+infrastructure+(top+level+project+proposal))
-* [Interactive visualisations in R via R-to-JavaScript-transpilation](https://www.r-consortium.org/projects/awarded-projects/2020-group-2#interactive+visualisations+in+r+via+r-to-javascript-transpilation)
+* [Development and maintenance of the Windows build infrastructure (Top level project proposal)](2020-group-2.html#development-and-maintenance-of-the-windows-build-infrastructure-top-level-project-proposal)
+* [Interactive visualisations in R via R-to-JavaScript-transpilation](2020-group-2.html#interactive-visualisations-in-r-via-r-to-javascript-transpilation)
 
 2020 (group 1)
 
 
 
-* [Consolidating R-Ladies Global organisational guidance and wisdom](https://www.r-consortium.org/projects/awarded-projects/2020-group-1#consolidating+r-ladies+global+organisational+guidance+and+wisdom)
-* [Database interoperability for spatial objects in R](https://www.r-consortium.org/projects/awarded-projects/2020-group-1#database+interoperability+for+spatial+objects+in+r)
-* [HTTP testing in R Book](https://www.r-consortium.org/projects/awarded-projects/2020-group-1#http+testing+in+r+book)
-* [MATTER 2.0: larger-than-memory data for R](https://www.r-consortium.org/projects/awarded-projects/2020-group-1#matter+2.0:+larger-than-memory+data+for+r)
-* [Spatiotemporal Data and Analytics](https://www.r-consortium.org/projects/awarded-projects/2020-group-1#spatiotemporal+data+and+analytics)
-* [The RECON COVID-19 challenge: leveraging the R community to improve COVID-19 analytics resources](https://www.r-consortium.org/projects/awarded-projects/2020-group-1#the+recon+covid-19+challenge:+leveraging+the+r+community+to+improve+covid-19+analytics+resources)
-* [sftrack v1.0: Stable API for a broad adoption](https://www.r-consortium.org/projects/awarded-projects/2020-group-1#sftrack+v1.0:+stable+api+for+a+broad+adoption)
+* [Consolidating R-Ladies Global organisational guidance and wisdom](2020-group-1.html#consolidating-r-ladies-global-organisational-guidance-and-wisdom)
+* [Database interoperability for spatial objects in R](2020-group-1.html#database-interoperability-for-spatial-objects-in-r)
+* [HTTP testing in R Book](2020-group-1.html#http-testing-in-r-book)
+* [MATTER 2.0: larger-than-memory data for R](2020-group-1.html#matter-2.0-larger-than-memory-data-for-r)
+* [Spatiotemporal Data and Analytics](2020-group-1.html#spatiotemporal-data-and-analytics)
+* [The RECON COVID-19 challenge: leveraging the R community to improve COVID-19 analytics resources](2020-group-1.html#the-recon-covid-19-challenge-leveraging-the-r-community-to-improve-covid-19-analytics-resources)
+* [sftrack v1.0: Stable API for a broad adoption](2020-group-1.html#sftrack-v1.0-stable-api-for-a-broad-adoption)
 
 2019 (group 2)
 
 
 
-* [An External R Sampling Profiler](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#an+external+r+sampling+profiler)
-* [CVXR](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#cvxr)
-* [Flipbooks](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#flipbooks)
-* [R Package Risk Assessment Application](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#r+package+risk+assessment+application)
-* [RcppDeepState, a simple way to fuzz test compiled code in R packages](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#rcppdeepstate,+a+simple+way+to+fuzz+test+compiled+code+in+r+packages)
-* [Symbolic mathematics in R with SymPy](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#symbolic+mathematics+in+r+with+sympy)
-* [Tidy spatial networks in R](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#tidy+spatial+networks+in+r)
-* [d3po: R package for easy interactive D3 visualization with Shiny](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#d3po:+r+package+for+easy+interactive+d3+visualization+with+shiny)
-* [webchem: accessing chemical information from the web](https://www.r-consortium.org/projects/awarded-projects/2019-group-2#webchem:+accessing+chemical+information+from+the+web)
+* [An External R Sampling Profiler](2019-group-2.html#an-external-r-sampling-profiler)
+* [CVXR](2019-group-2.html#cvxr)
+* [Flipbooks](2019-group-2.html#flipbooks)
+* [R Package Risk Assessment Application](2019-group-2.html#r-package-risk-assessment-application)
+* [RcppDeepState, a simple way to fuzz test compiled code in R packages](2019-group-2.html#rcppdeepstate-a-simple-way-to-fuzz-test-compiled-code-in-r-packages)
+* [Symbolic mathematics in R with SymPy](2019-group-2.html#symbolic-mathematics-in-r-with-sympy)
+* [Tidy spatial networks in R](2019-group-2.html#tidy-spatial-networks-in-r)
+* [d3po: R package for easy interactive D3 visualization with Shiny](2019-group-2.html#d3po-r-package-for-easy-interactive-d3-visualization-with-shiny)
+* [webchem: accessing chemical information from the web](2019-group-2.html#webchem-accessing-chemical-information-from-the-web)
 
 2019 (group 1)
 
 
 
-* [Enhancing usability of sample size calculations and power analyses in R with a Task View page and accompanying tutorials](https://www.r-consortium.org/projects/awarded-projects/2019-group-1#enhancing+usability+of+sample+size+calculations+and+power+analyses+in+r+with+a+task+view+page+and+accompanying+tutorials)
-* [Expanding the ‘metaverse'; an R ecosystem for meta-research](https://www.r-consortium.org/projects/awarded-projects/2019-group-1#expanding+the+%E2%80%98metaverse';+an+r+ecosystem+for+meta-research)
-* [R-global: analysing spatial data globally](https://www.r-consortium.org/projects/awarded-projects/2019-group-1#r-global:+analysing+spatial+data+globally)
-* [sftraj: A central class for tracking and movement data](https://www.r-consortium.org/projects/awarded-projects/2019-group-1#sftraj:+a+central+class+for+tracking+and+movement+data)
+* [Enhancing usability of sample size calculations and power analyses in R with a Task View page and accompanying tutorials](2019-group-1.html#enhancing-usability-of-sample-size-calculations-and-power-analyses-in-r-with-a-task-view-page-and-accompanying-tutorials)
+* [Expanding the ‘metaverse'; an R ecosystem for meta-research](2019-group-1.html#expanding-the-metaverse-an-r-ecosystem-for-meta-research)
+* [R-global: analysing spatial data globally](2019-group-1.html#r-global-analysing-spatial-data-globally)
+* [sftraj: A central class for tracking and movement data](2019-group-1.html#sftraj-a-central-class-for-tracking-and-movement-data)
 
 2018 (group 2)
 
