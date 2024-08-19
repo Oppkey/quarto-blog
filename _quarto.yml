@@ -19,7 +19,7 @@ website:
           - text: Governance
             href:  about/governance.qmd
           - text: Bylaws (PDF)
-            href:  rc-docs/Bylaws-GU-Draft-7-9-2024.docx.pdf
+            href:  rc-docs/R-Consortium-Bylaws-7-9-2024.pdf
           - text: ISC Charter (PDF)
             href:  rc-docs/ISC-Charter-08-11-23.pdf
           - text: Marketing Committee Charter (PDF)
@@ -56,7 +56,7 @@ website:
       - text: "Projects"
         menu:
           - text: R-Hub
-            href:  https://github.com/r-hub
+            href:  https://blog.r-hub.io/2024/04/11/rhub2/
           - text: R-Ladies
             href:   https://rladies.org/
           - text: DBI
@@ -69,7 +69,7 @@ website:
           - text: R/Medicine
             href:  https://rconsortium.github.io/RMedicine_website/
           - text: Webinars
-            href:  ./webinars/webinars.qmd
+            href:  webinars/webinars.qmd
           - text: Events
             href: news/events.qmd
 
@@ -79,6 +79,11 @@ website:
             href: blog/index.qmd
           - text: Newsletter
             href: newsletters/newsletters.qmd
+          - text: Annual Report 2023 (PDF)
+            href: rc-docs/RC-AR-2023_Final-Draft_1-30-24.pdf
+          - text: Annual Report 2021 (PDF)
+            href:  rc-docs/R-Consortium-5-year-retrospective-2021-10-28.pdf
+
       - codeofconduct.qmd
       - icon: github
         href: https://github.com/rconsortium

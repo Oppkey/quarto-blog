@@ -30,7 +30,7 @@ The R Consortium is the mechanism for corporate entities and other organizations
 1. Review the Membership Documents.
 
 -   [R Consortium Membership Datasheet](../rc-docs/r_consortium_datasheet.pdf) (PDF)
--   [R Consortium Bylaws](../rc-docs/Bylaws-GU-Draft-7-9-2024.docx.pdf) (PDF)
+-   [R Consortium Bylaws](../rc-docs/R-Consortium-Bylaws-7-9-2024.pdf) (PDF)
 -   [R Consortium Membership Agreement](../rc-docs/R-Consortium-Membership-Agreement-1157181-v2-Approved-11.20.19.pdf) (PDF)
 -   [R Consortium – Certificate of Incorporation](../rc-docs/R-Consortium-Certificate-of-Incorporation.pdf) (PDF)
 
