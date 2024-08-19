@@ -76,6 +76,21 @@ format: html
   
 }
 
+.video-popup{
+  position: relative;
+}
+
+.play {
+  border-radius: 50%;
+  padding: 10px;
+  background-color: rgb(30, 81, 164);
+  max-width: 50px;
+  max-height: 50px;
+  position: absolute;
+  right: 47%;
+  top: 40%;
+}
+
 </style>
 
 
@@ -119,9 +134,10 @@ format: html
   <p>The central mission of the R Consortium is to work with and provide support to the R Foundation and to the key organizations developing, maintaining, distributing and using R software through the identification, development and implementation of infrastructure projects.</p>
   <p>The R language is an open source environment for statistical computing and graphics, and runs on a wide variety of computing platforms. The R language has enjoyed significant growth, and now supports over 2 million users. A broad range of industries have adopted the R language, including biotech, finance, research and high technology industries. The R language is often integrated into third party analysis, visualization and reporting applications.</p>
   </div>
-  <div style="flex: 1; min-width: 300px; padding: 20px; border; display: flex; justify-content: flex-end; align-items: end;">
+  <div style="flex: 1; min-width: 300px; padding: 20px; border; display: flex; justify-content: flex-end; align-items: end; position: relative;">
   <a class="video-popup" href="https://www.youtube.com/watch?v=XcBLEVknqvY" target="blank">
   <img src="images/rcon_video_preview.png" alt="Video Preview" style="width: 90%; height: auto; cursor: pointer; margin-left: 1%">
+  <img src="images/play-button-svgrepo-com.svg" alt="Play Button" class="play">
   </a>
   </div>
   </div>
