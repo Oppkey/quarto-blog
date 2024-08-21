@@ -109,11 +109,36 @@ format: html
 <h2>R Consortium: Supporting the R community, the R Foundation and organizations developing, maintaining and distributing R software.
 </h2>
 </div>
+
 <div class="swiper-slide" style="background-image: url(https://i.postimg.cc/Sx6twsw-p/rcon-slide-bg2b.webp);">
 <h2>Find your local R user group Network with fellow statisticians and learn from your peers. </h2>
 <button class="blueButton"><a href="all-projects/rugsprogram.qmd" style="text-decoration: none;">LEARN MORE</a></button>
-
 </div>
+
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/0NQNwKmH/survival-analysis2.png);">
+    <h2 style="color: darkblue;">R/Medicine Webinar: Visualizing Survival Data with the {ggsurvfit} R Package</h2>
+    <button class="blueButton">
+        <a href="https://www.r-consortium.org/r-medicine-webinar-visualizing-survival-data-with-the-ggsurvfit-r-package" style="text-decoration: none; color: darkblue;">LEARN MORE</a>
+    </button>
+</div>
+
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/0NQNwKmH/survival-analysis2.png);">
+<h2>R/Medicine Webinar: Visualizing Survival Data with the {ggsurvfit} R Package</h2>
+<button class="blueButton"><a href="https://www.r-consortium.org/r-medicine-webinar-visualizing-survival-data-with-the-ggsurvfit-r-package" style="text-decoration: none;">LEARN MORE</a></button>
+</div>
+
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/0NQNwKmH/survival-analysis2.png); transform: scale(0.5);">
+<h2>R/Medicine Webinar: Visualizing Survival Data with the {ggsurvfit} R Package</h2>
+<button class="blueButton"><a href="https://www.r-consortium.org/r-medicine-webinar-visualizing-survival-data-with-the-ggsurvfit-r-package" style="text-decoration: none;">LEARN MORE</a></button>
+</div>
+
+<div class="swiper-slide" style="background-image: url(https://i.postimg.cc/0NQNwKmH/survival-analysis2.png); background-size: cover; background-position: center; position: relative; height: 100%;">
+    <div style="position: absolute; bottom: 20px; left: 0; right: 0; text-align: center; color: blue;">
+        <h2>R/Medicine Webinar: Visualizing Survival Data with the {ggsurvfit} R Package</h2>
+        <button class="blueButton"><a href="https://www.r-consortium.org/r-medicine-webinar-visualizing-survival-data-with-the-ggsurvfit-r-package" style="text-decoration: none;">LEARN MORE</a></button>
+    </div>
+</div>
+
 </div>
 
 <!-- !swiper slides -->

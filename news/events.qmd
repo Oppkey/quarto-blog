@@ -6,13 +6,72 @@ title: Events
 
 ___
 
-<table><tbody><tr><td>Title</td><td>Dates</td><td>Location</td><td>Type</td></tr><tr><td><a href="https://www.r-project.org/conferences/" target="_blank" rel="noreferrer noopener">useR! 2024</a></td><td>July 8-11, 2024</td><td>Salzburg, Austria</td><td>Conference</td></tr><tr><td><a href="https://posit.co/" target="_blank" rel="noreferrer noopener">posit::conf 2024</a></td><td>August 12-14, 2024</td><td>Seattle, WA, USA</td><td>Conference</td></tr><tr><td><a href="https://datacove.co.uk/earl-2024-tech-conference/" target="_blank" rel="noreferrer noopener">EARL 2024</a></td><td>September 4-5, 2024</td><td>Brighton, UK</td><td>Conference</td></tr><tr><td><a href="https://shiny-in-production.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">Shiny in Production 2024</a></td><td>October 9-10, 2024</td><td>Newcastle upon Tyne, UK</td><td>Conference</td></tr><tr><td><a href="https://actuaries.org.uk/call-for-speakers/#life-conference" target="_blank" rel="noreferrer noopener">IFoA Life Conference 2024</a></td><td>October 14-16, 2024</td><td>Manchester, UK</td><td>Conference</td></tr><tr><td><a href="https://rstats.ai/gov" target="_blank" rel="noreferrer noopener">2024 Government &amp; Public Sector R Conference</a></td><td>October 29-30, 2024</td><td>Washington D.C., USA</td><td>Conference</td></tr></tbody></table>
+<table>
+<tbody>
+
+<tr>
+<td>Title</td><td>Dates</td><td>Location</td><td>Type</td>
+</tr>
+
+
+
+<tr>
+<td><a href="https://datacove.co.uk/earl-2024-tech-conference/" target="_blank" rel="noreferrer noopener">EARL 2024</a></td>
+<td>September 4-5, 2024</td>
+<td>Brighton, UK</td>
+<td>Conference</td>
+</tr>
+
+<tr>
+<td><a href="https://shiny-in-production.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">Shiny in Production 2024</a></td>
+<td>October 9-10, 2024</td>
+<td>Newcastle upon Tyne, UK</td>
+<td>Conference</td>
+</tr>
+
+<tr>
+<td><a href="https://actuaries.org.uk/call-for-speakers/#life-conference" target="_blank" rel="noreferrer noopener">IFoA Life Conference 2024</a></td>
+<td>October 14-16, 2024</td>
+<td>Manchester, UK</td>
+<td>Conference</td>
+</tr>
+
+<tr>
+<td><a href="https://rstats.ai/gov" target="_blank" rel="noreferrer noopener">2024 Government &amp; Public Sector R Conference</a></td>
+<td>October 29-30, 2024</td>
+<td>Washington D.C., USA</td>
+<td>Conference</td>
+</tr>
+
+</tbody>
+</table>
 
 ## Recently Completed Events
 
 ___
 
-<table><tbody><tr><td>Title</td><td>Dates</td><td>Location</td><td>Type</td></tr><tr><td>Henrick Bengtsson invited to speak at the Swiss Re Conference</td><td>June 25, 2024 – 7:00 AM ET</td><td>Virtual</td><td>Conference</td></tr><tr><td><a href="https://cascadiarconf.com/">Cascadia R Conference</a></td><td>June 21-22, 2024</td><td>Seattle, WA, USA</td><td>Conference</td></tr><tr><td><a href="https://www.rstats.nyc/" target="_blank" rel="noreferrer noopener">New York R Conference</a></td><td>May 16-17, 2024</td><td>New York City, NY, USA</td><td>Conference</td></tr><tr><td><a href="https://www.rinfinance.com/" target="_blank" rel="noreferrer noopener">R/Finance 2024</a></td><td>May 17-18, 2024</td><td>Chicago, IL, USA</td><td>Conference</td></tr><tr><td><a href="https://satrday-london-2024.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">SatRdays London 2024</a></td><td>April 27, 2024</td><td>London, UK</td><td>Conference</td></tr><tr><td><a href="https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts">R/Medicine: Quarto for Reproducible Medical Manuscripts</a></td><td>March 20, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data" target="_blank" rel="noreferrer noopener">New Webinar: Tidy Finance and Accessing Financial Data</a></td><td>March 6, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/escape-the-data-dungeon-unlock-scalable-r-analytics-and-ml" target="_blank" rel="noreferrer noopener">Escape the Data Dungeon: Unlock Scalable R Analytics and ML</a></td><td>February 27, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/from-vision-to-action-the-r-pfizer-r-center-of-excellence-led-journey-to-r-adoption" target="_blank" rel="noreferrer noopener">From Vision to Action: The Pfizer R Center of Excellence-led journey to R Adoption</a></td><td>February 8, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science" target="_blank" rel="noreferrer noopener">R/Insurance Series: High performance programming in R</a></td><td>January 31, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">Dan Sjoberg presenting on Plotting Survival with {ggsurvfit}</a></td><td>January 25, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">R/Insurance Series:&nbsp;R performance culture</a></td><td>January 24, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">R/Insurance Series: From programming in R to putting R into production</a></td><td>January 17, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">R/Insurance Series:&nbsp;From Excel to Programming in R</a></td><td>January 10, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-adoption-series-the-adoption-of-r-in-japans-pharma-industry-confirmation">The use of R in Japan’s Pharma Industry</a></td><td>January 8, 2024</td><td>Virtual</td><td>Webinar</td></tr></tbody></table>
+<table>
+<tbody>
+
+<tr>
+<td>Title</td><td>Dates</td><td>Location</td><td>Type</td></tr>
+
+<tr>
+<td><a href="https://www.r-project.org/conferences/" target="_blank" rel="noreferrer noopener">useR! 2024</a></td>
+<td>July 8-11, 2024</td>
+<td>Salzburg, Austria</td>
+<td>Conference</td>
+</tr>
+
+<tr>
+<td><a href="https://posit.co/" target="_blank" rel="noreferrer noopener">posit::conf 2024</a></td>
+<td>August 12-14, 2024</td>
+<td>Seattle, WA, USA</td>
+<td>Conference</td>
+</tr>
+
+<tr>
+<td>Henrick Bengtsson invited to speak at the Swiss Re Conference</td><td>June 25, 2024 – 7:00 AM ET</td><td>Virtual</td><td>Conference</td></tr><tr><td><a href="https://cascadiarconf.com/">Cascadia R Conference</a></td><td>June 21-22, 2024</td><td>Seattle, WA, USA</td><td>Conference</td></tr><tr><td><a href="https://www.rstats.nyc/" target="_blank" rel="noreferrer noopener">New York R Conference</a></td><td>May 16-17, 2024</td><td>New York City, NY, USA</td><td>Conference</td></tr><tr><td><a href="https://www.rinfinance.com/" target="_blank" rel="noreferrer noopener">R/Finance 2024</a></td><td>May 17-18, 2024</td><td>Chicago, IL, USA</td><td>Conference</td></tr><tr><td><a href="https://satrday-london-2024.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">SatRdays London 2024</a></td><td>April 27, 2024</td><td>London, UK</td><td>Conference</td></tr><tr><td><a href="https://www.r-consortium.org/r-medicine-quarto-for-reproducible-medical-manuscripts">R/Medicine: Quarto for Reproducible Medical Manuscripts</a></td><td>March 20, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/new-webinar-tidy-finance-and-accessing-financial-data" target="_blank" rel="noreferrer noopener">New Webinar: Tidy Finance and Accessing Financial Data</a></td><td>March 6, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/escape-the-data-dungeon-unlock-scalable-r-analytics-and-ml" target="_blank" rel="noreferrer noopener">Escape the Data Dungeon: Unlock Scalable R Analytics and ML</a></td><td>February 27, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/from-vision-to-action-the-r-pfizer-r-center-of-excellence-led-journey-to-r-adoption" target="_blank" rel="noreferrer noopener">From Vision to Action: The Pfizer R Center of Excellence-led journey to R Adoption</a></td><td>February 8, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science" target="_blank" rel="noreferrer noopener">R/Insurance Series: High performance programming in R</a></td><td>January 31, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">Dan Sjoberg presenting on Plotting Survival with {ggsurvfit}</a></td><td>January 25, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">R/Insurance Series:&nbsp;R performance culture</a></td><td>January 24, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">R/Insurance Series: From programming in R to putting R into production</a></td><td>January 17, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-insurance-series-for-everyone-in-insurance-or-actuarial-science">R/Insurance Series:&nbsp;From Excel to Programming in R</a></td><td>January 10, 2024</td><td>Virtual</td><td>Webinar</td></tr><tr><td><a href="https://www.r-consortium.org/r-adoption-series-the-adoption-of-r-in-japans-pharma-industry-confirmation">The use of R in Japan’s Pharma Industry</a></td><td>January 8, 2024</td><td>Virtual</td><td>Webinar</td></tr></tbody></table>
 
 ## Archived Webinars
 
