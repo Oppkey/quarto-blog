@@ -30,6 +30,9 @@ website:
             href:  about/contact.qmd
           - text: Privacy Policy
             href:  about/privacy.qmd
+          - text: Thank You
+            href:  about/thank-you.qmd
+
 
       - text: "Members"
         menu:
