@@ -91,13 +91,7 @@ format: html
   top: 40%;
 }
 
-#survival-slide h2 {
-  background-color: rgb(30, 81, 164);
-}
 
-#tidy-slide h2 {
-  background-color: rgb(30, 81, 164);
-}
 
 </style>
 
@@ -122,12 +116,12 @@ format: html
 <button class="blueButton"><a href="all-projects/rugsprogram.qmd" style="text-decoration: none;">LEARN MORE</a></button>
 </div>
 
-<div class="swiper-slide" id="survival-slide" style="background-image: url(https://i.postimg.cc/0NQNwKmH/survival-analysis2.png);">
+<div class="swiper-slide" id="survival-slide" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://i.postimg.cc/0NQNwKmH/survival-analysis2.png');">
 <h2>R/Medicine Webinar: Visualizing Survival Data with the {ggsurvfit} R Package</h2>
 <button class="blueButton"><a href="https://www.r-consortium.org/r-medicine-webinar-visualizing-survival-data-with-the-ggsurvfit-r-package" style="text-decoration: none;">Webinar Recording</a></button>
 </div>
 
-<div class="swiper-slide" id="tidy-slide" style="background-image: url(https://i.postimg.cc/Wpxx6vVN/optimize-portfolios.png);">
+<div class="swiper-slide" id="tidy-slide" style="background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('https://i.postimg.cc/Wpxx6vVN/optimize-portfolios.png');">
 <h2>Tidy Finance Webinar Series</h2>
 <button class="blueButton"><a href="https://www.r-consortium.org/tidy-finance-webinar-series" style="text-decoration: none;">Webinar Information</a></button>
 </div>
