@@ -1,7 +1,8 @@
 ---
 title: "A New R Community in Ahmedabad, India, focused on Clinical Research and Pharmaceutical Industries"
-description: "Angie Reed sampling Chlorophyll on the Penobscot River where a dam was removed In a recent interview by the R Consortium, Angie Reed, Water Resources Planner for the Penobscot Indian…"
+description: "The R Consortium recently interviewed Sanket Sinojia, organizer of the Ahmedabad R User Group (ARUG). With over 14 years of experience in statistical programming and data sciences in the clinical…"
 author: "R Consortium"
+image: "unnamed.png"
 date: "08/12/2024"
 ---
 
@@ -9,7 +10,7 @@ The R Consortium recently interviewed [Sanket Sinojia](https://www.linkedin.com/
 
 Since its official setup in 2023, ARUG has rapidly grown into a vibrant group with over 100 active members. The community fosters collaboration, knowledge-sharing, and mentorship, contributing significantly to the broader R ecosystem. Sanket’s dedication to data science and community building is evident in his efforts to organize impactful events, mentor new members, and drive the group’s growth.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdglwU4PilsP8DvCNEY-NTbpKZD228LVypPxYhg_Tp2qUFpUQb0Piq9so51Leo4huDiihGQC5YSW92aS6NyRT4dDue2uqMec5R8BJFC4A3RjXszyrwikIp5MmAJ-uS3LQeOK728rapPnvUuEZZ5RjWbwxKb?key=pwNFx0gz8Jz6BYbYwJ1UVQ)
+![](unnamed.png)
 
 **Please share about your background and involvement with the RUGS group.**
 
@@ -17,7 +18,7 @@ I’ve been working in statistical programming and data sciences in the clinical
 
 While the group was initially formed in 2021, its formal setup was completed in 2023 with collaboration from the R Consortium. Since then, I’ve been organizing events, facilitating discussions, and contributing to the group’s growth. My passion for data science and community building drives my commitment to ARUG. Beyond organizing, I also mentor new members, helping them navigate the complexities of R. It’s incredibly rewarding to see the community thrive and to witness the impact of our collective efforts on advancing the field. ARUG is the first city-based group in India associated with R Consortium and the only R user group focused on Clinical Research & Pharmaceutical Industries.
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXHoEqCi3zdgW514yQdd9KHS8B0h4JDhkZeTKZnRBkjd90Nn75y5xmCYbb9T6NjHslGXVvw5Vgrr8tviUVarJy3Hq7lNpt1tUi7DFBiFpNl7b7jlWPKiZydZWf4VuKHF2UA7FdRukUTOf4OJNt7mmm0ok?key=pwNFx0gz8Jz6BYbYwJ1UVQ)
+![](unnamed2.png)
 
 **Can you share what the R community is like in Ahmedabad?** 
 
@@ -25,7 +26,7 @@ Ahmedabad, a world heritage city known for its rich history and vibrant culture,
 
 **You had a** [**meetup on July 21st, 2024**](https://www.meetup.com/ahmedabad-r-users-group/events/302239112/)**. Can you share more about the topic covered? Why this topic?**
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdb8oSeSoyKlY94gIZRGGtVyXMuSrILQgzSPSRZ4gjlvITzWn-j3kARLaOSNFuZzXae7owGnTkusCXV4wWkGRBZ7oi5h8hlHj55Qx8NuT40NnElT6twdb6fCd_9YehuRIRIP00ZIArvk9EbUOlGci_yqR8?key=pwNFx0gz8Jz6BYbYwJ1UVQ)
+![](unnamed3.png)
 
 The meetup was a highly anticipated event entitled ‘R Evolution: Shaping the Future of Clinical Trials.’ We chose this topic because it aligns perfectly with the emerging demand for R in our industry and aims to make our attendees aware of the transformative potential R brings to clinical research. Here’s a quick recap:
 
@@ -49,15 +50,15 @@ The ARUG Event Team – [Ankit Vadodariya](http://linkedin.com/in/ankit-vadodari
 
 **Who was the target audience for attending this event?** 
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcOB60BXcxSkb_Na9gRnKXitZC5uupw3LvfjCz_gN8rzRODnY4wFh6oC1ZEcPFZKa6l-R3wdgx6z740AyG92p19_RYp0QOzgYhDGlmo27Qamgqu5ldMFS7A67waUnDWRkJcKj3Ilf0JtYJCNiYV6H6B_Ww?key=pwNFx0gz8Jz6BYbYwJ1UVQ)
+![](unnamed4.png)
 
 Our target audience primarily includes professionals and researchers from the clinical and pharmaceutical industries. This encompasses data scientists, statistical programmers, biostatisticians, clinical trial analysts, and anyone interested in leveraging R for data analysis and visualization in these fields. We also welcome newcomers who are eager to learn and contribute to this dynamic industry. By targeting this specific audience, we ensure our content is highly relevant and impactful, addressing real-world challenges and opportunities our members face. Additionally, our events offer networking opportunities that can lead to collaborations.
 
 **Any techniques you recommend using for planning for or during the event? (Github, zoom, other) Can these techniques be used to make your group more inclusive to people that are unable to attend physical events in the future?**   
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWVkBJnE0rrRT7c2kK_mebLy7Tt763OhDwLw_YYoOQ6xpWOemZVnDdGokXQXUE7jFBWcc4fH4cdeb5rOFxIjsw2nm_QRElo97rdbHy3jzr70Sjt5vT9e3t0kq1Ci6vTc0u1NqI-R3GDOXg8z6DjPF23xQ?key=pwNFx0gz8Jz6BYbYwJ1UVQ)
+![](unnamed5.png)
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXcBXmxVOrDuaOazGQyUcJKSbzd0ef9Mqn_nNnMmeK5wED-q1wCu7FkBqcvFkfbvgbm_kZt4bKXn9uD9I4tZ6fVdWl3Smqf4UGO81AIckektI07lScx9V-PwGi7nA9pEcs4nFr7ftEQQ5qTPZTRc7HSduQo?key=pwNFx0gz8Jz6BYbYwJ1UVQ)
+![](unnamed6.png)
 
 For planning and executing our events, we rely on a combination of tools such as [GitHub](https://github.com/ssinojia/ARUG/tree/main) for collaborative project management and repositories, Zoom for virtual sessions, and [Meetup](https://www.meetup.com/ahmedabad-r-users-group/) and [LinkedIn ARUG](https://www.linkedin.com/company/arug/about/) pages for continuous engagement and communication. These tools not only streamline our processes but also enhance accessibility. By utilizing these technologies, we can include members who cannot attend physical events, making our group more inclusive. We share our event summaries and slides on GitHub, ensuring that valuable information is accessible to all members. Additionally, we are considering recording sessions and sharing them on platforms like YouTube to further extend the reach of our events. Using these tools also allows us to gather feedback and improve future events, ensuring we meet the evolving needs of our community. This approach helps us maintain a vibrant and connected community, regardless of geographical limitations.
 
