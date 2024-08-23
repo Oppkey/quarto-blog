@@ -11,10 +11,6 @@ format:
 
 ___
 
-
-
-Example table format using knitr
-
 ```{r}
 df <- data.frame(Title = c('<a href="https://datacove.co.uk/earl-2024-tech-conference/" target="_blank" rel="noreferrer noopener">EARL 2024</a>', '<a href="https://shiny-in-production.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">Shiny in Production 2024</a>', '<a href="https://actuaries.org.uk/call-for-speakers/#life-conference" target="_blank" rel="noreferrer noopener">IFoA Life Conference 2024</a>', '<a href="https://rstats.ai/gov" target="_blank" rel="noreferrer noopener">2024 Government &amp; Public Sector R Conference</a>'),
     Dates = c('September 4-5, 2024', 'October 9-10, 2024', 'October 14-16, 2024', 'October 29-30, 2024'),
@@ -26,23 +22,39 @@ knitr::kable(df[1:4, ], )
 ```
 
 
-<table><tbody><tr><td>Title</td><td>Dates</td><td>Location</td><td>Type</td>
-</tr>
-
-<tr><td><a href="https://datacove.co.uk/earl-2024-tech-conference/" target="_blank" rel="noreferrer noopener">EARL 2024</a></td><td>September 4-5, 2024</td><td>Brighton, UK</td><td>Conference</td></tr>
-<tr><td><a href="https://shiny-in-production.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">Shiny in Production 2024</a></td><td>October 9-10, 2024</td><td>Newcastle upon Tyne, UK</td><td>Conference</td></tr>
-<tr><td><a href="https://actuaries.org.uk/call-for-speakers/#life-conference" target="_blank" rel="noreferrer noopener">IFoA Life Conference 2024</a></td><td>October 14-16, 2024</td><td>Manchester, UK</td><td>Conference</td></tr>
-<tr><td><a href="https://rstats.ai/gov" target="_blank" rel="noreferrer noopener">2024 Government &amp; Public Sector R Conference</a></td><td>October 29-30, 2024</td><td>Washington D.C., USA</td><td>Conference</td></tr>
-
-</tbody></table>
 
 ## Recently Completed Events
 
 ___
 
+
+```{r}
+df <- data.frame(Title = c(
+    '<a href="https://www.r-project.org/conferences/" target="_blank" rel="noreferrer noopener">useR! 2024</a>', 
+    '<a href="https://posit.co/" target="_blank" rel="noreferrer noopener">posit::conf 2024</a>', 
+    
+    '<a href="https://actuaries.org.uk/call-for-speakers/#life-conference" target="_blank" rel="noreferrer noopener">IFoA Life Conference 2024</a>', 
+    '<a href="https://rstats.ai/gov" target="_blank" rel="noreferrer noopener">2024 Government &amp; Public Sector R Conference</a>'),
+
+    Dates = c(
+        'July 8-11, 2024', 
+        'August 12-14, 2024', 
+        
+        'October 14-16, 2024', 'October 29-30, 2024'),
+
+    Location = c(
+        'Salzburg, Austria',
+        'Seattle, WA, USA', 
+        
+        'Manchester, UK', 'Washington D.C., USA'),
+    Type = c('Conference', 'Conference', 'Conference', 'Conference'))
+
+#view data frame
+knitr::kable(df[1:4, ], )
+```
+
 <table><tbody><tr><td>Title</td><td>Dates</td><td>Location</td><td>Type</td></tr>
 
-<tr><td><a href="https://www.r-project.org/conferences/" target="_blank" rel="noreferrer noopener">useR! 2024</a></td><td>July 8-11, 2024</td><td>Salzburg, Austria</td><td>Conference</td></tr>
 <tr><td><a href="https://posit.co/" target="_blank" rel="noreferrer noopener">posit::conf 2024</a></td><td>August 12-14, 2024</td><td>Seattle, WA, USA</td><td>Conference</td></tr>
 
 <tr><td>Henrick Bengtsson invited to speak at the Swiss Re Conference</td><td>June 25, 2024 – 7:00 AM ET</td><td>Virtual</td><td>Conference</td></tr>
