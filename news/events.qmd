@@ -1,10 +1,29 @@
 ---
 title: Events
+format:
+  html:
+    execute:
+    echo: false   
 ---
 
 ## Upcoming Events
 
 ___
+
+
+
+Example table format using knitr
+
+```{r}
+df <- data.frame(Title = c('A', 'B', 'B', 'B', 'B', 'A'),
+    Dates = c('Aug 20, 2024', 'Aug 12, 2024', 'Aug 2, 2024', 'Aug 1, 2024', 'Eric', 'Frank'),
+    Location = c(1, 2, 2, 1, 0, 0),
+    Type = c(1, 1, 1, 1, 1, 1))
+
+#view data frame
+knitr::kable(df[1:6, ], )
+```
+
 
 <table><tbody><tr><td>Title</td><td>Dates</td><td>Location</td><td>Type</td>
 </tr>
