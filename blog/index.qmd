@@ -10,9 +10,9 @@ page-layout: full
 This example uses knitr kable for additional table formatting.
 
 ```{r}
-df <- data.frame(player = c('AJ', 'Bob', 'Chad', 'Dan', 'Eric', 'Frank'),
-                 position = c('A', 'B', 'B', 'B', 'B', 'A'),
-                 points = c(1, 2, 2, 1, 0, 0))
+df <- data.frame(date = c('Aug 20, 2024', 'Aug 12, 2024', 'Aug 2, 2024', 'Aug 1, 2024', 'Eric', 'Frank'),
+                 title = c('A', 'B', 'B', 'B', 'B', 'A'),
+                 author = c(1, 2, 2, 1, 0, 0))
 
 #view data frame
 knitr::kable(df[1:6, ], )

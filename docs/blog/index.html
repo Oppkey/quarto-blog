@@ -381,9 +381,9 @@ window.Quarto = {
 
 <p>This example uses knitr kable for additional table formatting.</p>
 <div class="cell">
-<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">player =</span> <span class="fu">c</span>(<span class="st">'AJ'</span>, <span class="st">'Bob'</span>, <span class="st">'Chad'</span>, <span class="st">'Dan'</span>, <span class="st">'Eric'</span>, <span class="st">'Frank'</span>),</span>
-<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>                 <span class="at">position =</span> <span class="fu">c</span>(<span class="st">'A'</span>, <span class="st">'B'</span>, <span class="st">'B'</span>, <span class="st">'B'</span>, <span class="st">'B'</span>, <span class="st">'A'</span>),</span>
-<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>                 <span class="at">points =</span> <span class="fu">c</span>(<span class="dv">1</span>, <span class="dv">2</span>, <span class="dv">2</span>, <span class="dv">1</span>, <span class="dv">0</span>, <span class="dv">0</span>))</span>
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>df <span class="ot">&lt;-</span> <span class="fu">data.frame</span>(<span class="at">date =</span> <span class="fu">c</span>(<span class="st">'Aug 20, 2024'</span>, <span class="st">'Aug 12, 2024'</span>, <span class="st">'Aug 2, 2024'</span>, <span class="st">'Aug 1, 2024'</span>, <span class="st">'Eric'</span>, <span class="st">'Frank'</span>),</span>
+<span id="cb1-2"><a href="#cb1-2" aria-hidden="true" tabindex="-1"></a>                 <span class="at">title =</span> <span class="fu">c</span>(<span class="st">'A'</span>, <span class="st">'B'</span>, <span class="st">'B'</span>, <span class="st">'B'</span>, <span class="st">'B'</span>, <span class="st">'A'</span>),</span>
+<span id="cb1-3"><a href="#cb1-3" aria-hidden="true" tabindex="-1"></a>                 <span class="at">author =</span> <span class="fu">c</span>(<span class="dv">1</span>, <span class="dv">2</span>, <span class="dv">2</span>, <span class="dv">1</span>, <span class="dv">0</span>, <span class="dv">0</span>))</span>
 <span id="cb1-4"><a href="#cb1-4" aria-hidden="true" tabindex="-1"></a></span>
 <span id="cb1-5"><a href="#cb1-5" aria-hidden="true" tabindex="-1"></a><span class="co">#view data frame</span></span>
 <span id="cb1-6"><a href="#cb1-6" aria-hidden="true" tabindex="-1"></a>knitr<span class="sc">::</span><span class="fu">kable</span>(df[<span class="dv">1</span><span class="sc">:</span><span class="dv">6</span>, ], )</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
@@ -391,29 +391,29 @@ window.Quarto = {
 <table class="caption-top table table-sm table-striped small">
 <thead>
 <tr class="header">
-<th style="text-align: left;">player</th>
-<th style="text-align: left;">position</th>
-<th style="text-align: right;">points</th>
+<th style="text-align: left;">date</th>
+<th style="text-align: left;">title</th>
+<th style="text-align: right;">author</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;">AJ</td>
+<td style="text-align: left;">Aug 20, 2024</td>
 <td style="text-align: left;">A</td>
 <td style="text-align: right;">1</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Bob</td>
+<td style="text-align: left;">Aug 12, 2024</td>
 <td style="text-align: left;">B</td>
 <td style="text-align: right;">2</td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;">Chad</td>
+<td style="text-align: left;">Aug 2, 2024</td>
 <td style="text-align: left;">B</td>
 <td style="text-align: right;">2</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">Dan</td>
+<td style="text-align: left;">Aug 1, 2024</td>
 <td style="text-align: left;">B</td>
 <td style="text-align: right;">1</td>
 </tr>
