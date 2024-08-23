@@ -2,3 +2,4 @@
 /_site/
 # /docs/
 venv
+.Rproj.user

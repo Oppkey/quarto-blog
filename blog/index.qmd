@@ -7,6 +7,17 @@ listing:
 page-layout: full
 ---
 
+This example uses knitr kable for additional table formatting.
+
+```{r}
+df <- data.frame(player = c('AJ', 'Bob', 'Chad', 'Dan', 'Eric', 'Frank'),
+                 position = c('A', 'B', 'B', 'B', 'B', 'A'),
+                 points = c(1, 2, 2, 1, 0, 0))
+
+#view data frame
+knitr::kable(df[1:6, ], )
+```
+
 [Want to contribute to the R Consortium blog? Please review our Blog Post Guidelines.](guidelines.qmd)
 
 
