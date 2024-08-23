@@ -1,4 +1,4 @@
-# New R Consortium Website
+# Development Server for R Consortium Website
 
 This is a new Quarto-based website which updates and supersedes the original website [here:](https://www.r-consortium.org/)
 
