@@ -3,7 +3,8 @@ title: Events
 format:
   html:
     execute:
-    echo: false   
+    echo: false
+    css: events.css   
 ---
 
 ## Upcoming Events
