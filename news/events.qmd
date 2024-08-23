@@ -15,13 +15,13 @@ ___
 Example table format using knitr
 
 ```{r}
-df <- data.frame(Title = c('A', 'B', 'B', 'B', 'B', 'A'),
-    Dates = c('Aug 20, 2024', 'Aug 12, 2024', 'Aug 2, 2024', 'Aug 1, 2024', 'Eric', 'Frank'),
-    Location = c(1, 2, 2, 1, 0, 0),
-    Type = c(1, 1, 1, 1, 1, 1))
+df <- data.frame(Title = c('<a href="https://datacove.co.uk/earl-2024-tech-conference/" target="_blank" rel="noreferrer noopener">EARL 2024</a>', '<a href="https://shiny-in-production.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">Shiny in Production 2024</a>', '<a href="https://actuaries.org.uk/call-for-speakers/#life-conference" target="_blank" rel="noreferrer noopener">IFoA Life Conference 2024</a>', '<a href="https://rstats.ai/gov" target="_blank" rel="noreferrer noopener">2024 Government &amp; Public Sector R Conference</a>'),
+    Dates = c('September 4-5, 2024', 'October 9-10, 2024', 'October 14-16, 2024', 'October 29-30, 2024'),
+    Location = c('Brighton, UK', 'Newcastle upon Tyne, UK', 'Manchester, UK', 'Washington D.C., USA'),
+    Type = c('Conference', 'Conference', 'Conference', 'Conference'))
 
 #view data frame
-knitr::kable(df[1:6, ], )
+knitr::kable(df[1:4, ], )
 ```
 
 
