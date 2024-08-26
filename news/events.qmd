@@ -150,3 +150,17 @@ Gabriel Becker, Scientist in the Bioinformatics and Computational Biology depart
 Gabe will present the rtables package in three contexts. First, he will briefly present the package itself and how it can be used to create reporting tables, including those suitable for regulatory submissions. He will then discuss where rtables fits in the larger process of filing-table creation within Roche. Finally, he will pivot to discussing what contributed to rtables’ success as a general framework intended to meet specific needs and what lessons those in Industry can draw from its development. 
 
 Register [here](https://hopin.com/events/the-r-adoption-series) or [see the webinar home page](https://www.r-consortium.org/webinars) for details.
+
+## Upcoming Events [TEST - TO BE DELETED]
+
+___
+
+```{r}
+df <- data.frame(Title = c('<a href="https://datacove.co.uk/earl-2024-tech-conference/" target="_blank" rel="noreferrer noopener">EARL 2024</a>', '<a href="https://shiny-in-production.jumpingrivers.com/" target="_blank" rel="noreferrer noopener">Shiny in Production 2024</a>', '<a href="https://actuaries.org.uk/call-for-speakers/#life-conference" target="_blank" rel="noreferrer noopener">IFoA Life Conference 2024</a>', '<a href="https://rstats.ai/gov" target="_blank" rel="noreferrer noopener">2024 Government &amp; Public Sector R Conference</a>'),
+    Dates = c('September 4-5, 2024', 'October 9-10, 2024', 'October 14-16, 2024', 'October 29-30, 2024'),
+    Location = c('Brighton, UK', 'Newcastle upon Tyne, UK', 'Manchester, UK', 'Washington D.C., USA'),
+    Type = c('Conference', 'Conference', 'Conference', 'Conference'))
+
+#view data frame
+knitr::kable(df[1:4, ], )
+```
